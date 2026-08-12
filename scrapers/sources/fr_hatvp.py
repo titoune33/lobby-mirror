@@ -11,6 +11,7 @@ décisions → 12(action_id) → 14(activite_id) → 8(exercices_id) → 15(repr
 from __future__ import annotations
 
 import csv
+import re
 import time
 import zipfile
 from collections import defaultdict
@@ -176,7 +177,8 @@ def run() -> dict:
         if not domaines_bruts:
             tags = lib.map_eu_interests(labels) or [lib.normalize_name(l)[:24] for l in labels[:5]]
         derniere = str(pub.get("dateDernierePublicationActivite") or "")
-        year = derniere[-4:] if "/" in derniere else derniere[:4]
+        m = re.search(r"(19|20)\d{2}", derniere)
+        year = m.group(0) if m else None
         registrations.append({
             "id": f"HATVP-{pub.get('identifiantNational') or 'inconnu'}",
             "registry": "HATVP",
