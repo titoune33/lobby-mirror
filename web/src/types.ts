@@ -32,7 +32,9 @@ export interface Registration {
   registrant_type?: string
   clients?: string[]
   domains: string[]
+  raw_domains?: string[]
   cost_band?: string
+  declared_activities?: string[]
   year?: string
   url?: string
 }

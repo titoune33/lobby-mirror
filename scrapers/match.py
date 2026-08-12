@@ -157,10 +157,10 @@ def build_influence() -> dict:
                 )
                 if cited or len(overlap) >= 2:
                     signals["register"] = 1.0
-                    reasons.append(
-                        "registre de lobbying (juridiction) + "
-                        + (f"thématiques communes : {', '.join(sorted(overlap))}" if overlap else "texte explicitement suivi (déclaration UE)")
-                    )
+                    if cited:
+                        reasons.append("registre de lobbying (juridiction), texte explicitement suivi (déclaration UE)")
+                    else:
+                        reasons.append(f"registre de lobbying (juridiction), thématiques communes : {', '.join(sorted(overlap))}")
                 elif len(overlap) == 1:
                     signals["register"] = 0.8
                     reasons.append(f"registre de lobbying (juridiction), thématique commune : {next(iter(overlap))}")

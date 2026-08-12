@@ -92,6 +92,11 @@ export default function EntityDetail({ data, entity }: { data: DashboardData; en
                 <div style={{ fontWeight: 600 }}>{r.name}</div>
                 <div className="small dim">{r.registrant_type ?? ''}{r.cost_band ? ` · dépenses déclarées : ${r.cost_band}` : ''}{r.year ? ` · ${r.year}` : ''}</div>
                 <div className="mt">{r.domains.map((d) => <span key={d} className="chip magenta">{d}</span>)}</div>
+                {r.declared_activities && r.declared_activities.length > 0 && (
+                  <ul className="small dim mt" style={{ margin: '8px 0 0', paddingLeft: 18 }}>
+                    {r.declared_activities.slice(0, 3).map((a) => <li key={a}>{a}</li>)}
+                  </ul>
+                )}
                 {r.clients && r.clients.length > 0 && (
                   <div className="small dim mt">Clients : {r.clients.slice(0, 8).join(', ')}</div>
                 )}
