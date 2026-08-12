@@ -26,6 +26,7 @@ lobby-mirror/
 │   └── raw/             #   bruts + cache (gitignoré)
 ├── api/                 #   fonctions serverless Vercel (proxy Yahoo, push webhook)
 └── web/                 #   tableau de bord React + Vite (thème "Black Mirror")
+│   └── api/yahoo.ts     #   fonction serverless Vercel (proxy cours live)
     └── public/data/     #   copie des sorties pour le déploiement statique
 ```
 
