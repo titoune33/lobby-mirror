@@ -1,0 +1,9 @@
+data/raw/
+scrapers/.venv/
+web/node_modules/
+web/dist/
+.env.local
+.env
+.DS_Store
+*.pyc
+__pycache__/

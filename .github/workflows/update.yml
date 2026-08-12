@@ -1,0 +1,40 @@
+name: update-data
+
+on:
+  schedule:
+    - cron: '30 5 * * *'   # 6h30 Paris, quotidien
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Installer les dépendances
+        run: pip install -r scrapers/requirements.txt
+
+      - name: Lancer le pipeline
+        env:
+          CONGRESS_API_KEY: ${{ secrets.CONGRESS_API_KEY }}
+          FEC_API_KEY: ${{ secrets.FEC_API_KEY }}
+        run: python scrapers/pipeline.py --all
+
+      - name: Commit & push si changement
+        run: |
+          git config user.name "lobby-mirror-bot"
+          git config user.email "bot@lobby-mirror.local"
+          git add data web/public/data
+          if git diff --cached --quiet; then
+            echo "aucun changement"
+          else
+            git commit -m "data: mise à jour quotidienne $(date -u +%Y-%m-%d)"
+            git push
+          fi

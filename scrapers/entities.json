@@ -1,0 +1,311 @@
+{
+  "_comment": "Watchlist des entités suivies par lobby-mirror. Alias = variantes de nom pour le matching dans les registres, la presse et les lois. Tickers = symboles Yahoo Finance (fallback : null).",
+  "entities": [
+    {
+      "id": "totalenergies",
+      "name": "TotalEnergies",
+      "aliases": ["TotalEnergies", "Total Energies", "Total", "Total S.A.", "TotalEnergies SE"],
+      "tickers": ["TTE.PA", "TTE"],
+      "jurisdiction_hq": "FR",
+      "domains": ["energie", "petrole", "gaz", "climat", "renouvelables"],
+      "keywords": ["petrole", "forage", "raffinerie", "pesticides", "energie"]
+    },
+    {
+      "id": "engie",
+      "name": "Engie",
+      "aliases": ["Engie", "ENGIE SA", "GDF Suez"],
+      "tickers": ["ENGI.PA", "ENGIY"],
+      "jurisdiction_hq": "FR",
+      "domains": ["energie", "gaz", "renouvelables", "climat"],
+      "keywords": ["gaz", "eolien", "energie"]
+    },
+    {
+      "id": "edf",
+      "name": "EDF",
+      "aliases": ["EDF", "Électricité de France", "Electricite de France"],
+      "tickers": null,
+      "jurisdiction_hq": "FR",
+      "domains": ["energie", "nucleaire", "electricite", "climat"],
+      "keywords": ["nucleaire", "electricite", "epr"]
+    },
+    {
+      "id": "veolia",
+      "name": "Veolia",
+      "aliases": ["Veolia", "Veolia Environnement"],
+      "tickers": ["VIE.PA", "VEOEY"],
+      "jurisdiction_hq": "FR",
+      "domains": ["eau", "dechets", "environnement"],
+      "keywords": ["eau", "dechets", "recyclage"]
+    },
+    {
+      "id": "vinci",
+      "name": "Vinci",
+      "aliases": ["Vinci", "VINCI SA"],
+      "tickers": ["DG.PA", "VCISY"],
+      "jurisdiction_hq": "FR",
+      "domains": ["btp", "concessions", "autoroutes"],
+      "keywords": ["autoroutes", "btp", "concessions"]
+    },
+    {
+      "id": "bouygues",
+      "name": "Bouygues",
+      "aliases": ["Bouygues", "Bouygues SA"],
+      "tickers": ["EN.PA", "BOUYF"],
+      "jurisdiction_hq": "FR",
+      "domains": ["btp", "telecoms", "media"],
+      "keywords": ["btp", "telecoms", "tv"]
+    },
+    {
+      "id": "lvmh",
+      "name": "LVMH",
+      "aliases": ["LVMH", "LVMH Moët Hennessy Louis Vuitton", "Moet Hennessy Louis Vuitton"],
+      "tickers": ["MC.PA", "LVMUY"],
+      "jurisdiction_hq": "FR",
+      "domains": ["luxe", "commerce", "fiscalite"],
+      "keywords": ["luxe", "cosmetiques", "taxe"]
+    },
+    {
+      "id": "airbus",
+      "name": "Airbus",
+      "aliases": ["Airbus", "Airbus SE", "Airbus Group"],
+      "tickers": ["AIR.PA", "EADSY"],
+      "jurisdiction_hq": "EU",
+      "domains": ["aeronautique", "defense", "spatial"],
+      "keywords": ["avion", "defense", "espace"]
+    },
+    {
+      "id": "thales",
+      "name": "Thales",
+      "aliases": ["Thales", "Thales Group", "Thales SA"],
+      "tickers": ["HO.PA", "THLLY"],
+      "jurisdiction_hq": "FR",
+      "domains": ["defense", "securite", "aeronautique"],
+      "keywords": ["defense", "surveillance", "cybersecurite"]
+    },
+    {
+      "id": "dassault-systemes",
+      "name": "Dassault Systèmes",
+      "aliases": ["Dassault Systèmes", "Dassault Systemes", "Dassault Systèmes SE"],
+      "tickers": ["DSY.PA", "DASTY"],
+      "jurisdiction_hq": "FR",
+      "domains": ["logiciel", "industrie", "defense"],
+      "keywords": ["logiciel", "jumeau numerique"]
+    },
+    {
+      "id": "sanofi",
+      "name": "Sanofi",
+      "aliases": ["Sanofi", "Sanofi SA", "Sanofi-Aventis"],
+      "tickers": ["SAN.PA", "SNY"],
+      "jurisdiction_hq": "FR",
+      "domains": ["pharma", "sante", "vaccins"],
+      "keywords": ["medicament", "vaccin", "sante"]
+    },
+    {
+      "id": "bayer",
+      "name": "Bayer",
+      "aliases": ["Bayer", "Bayer AG", "Bayer CropScience", "Monsanto"],
+      "tickers": ["BAYN.DE", "BAYRY"],
+      "jurisdiction_hq": "DE",
+      "domains": ["pharma", "agrochimie", "pesticides", "agriculture"],
+      "keywords": ["pesticides", "glyphosate", "neonicotinoides", "semences"]
+    },
+    {
+      "id": "basf",
+      "name": "BASF",
+      "aliases": ["BASF", "BASF SE", "BASF Agricultural Solutions"],
+      "tickers": ["BAS.DE", "BASFY"],
+      "jurisdiction_hq": "DE",
+      "domains": ["chimie", "agrochimie", "agriculture"],
+      "keywords": ["chimie", "pesticides", "engrais"]
+    },
+    {
+      "id": "nestle",
+      "name": "Nestlé",
+      "aliases": ["Nestlé", "Nestle", "Nestlé S.A."],
+      "tickers": ["NESN.SW", "NSRGY"],
+      "jurisdiction_hq": "CH",
+      "domains": ["agroalimentaire", "eau", "nutrition", "plastiques"],
+      "keywords": ["alimentation", "eau embouteillee", "sucre"]
+    },
+    {
+      "id": "shell",
+      "name": "Shell",
+      "aliases": ["Shell", "Royal Dutch Shell", "Shell plc"],
+      "tickers": ["SHEL.L", "SHEL"],
+      "jurisdiction_hq": "UK",
+      "domains": ["energie", "petrole", "gaz", "climat"],
+      "keywords": ["petrole", "gaz", "forage"]
+    },
+    {
+      "id": "bp",
+      "name": "BP",
+      "aliases": ["BP", "BP plc", "British Petroleum"],
+      "tickers": ["BP.L", "BP"],
+      "jurisdiction_hq": "UK",
+      "domains": ["energie", "petrole", "gaz", "climat"],
+      "keywords": ["petrole", "gaz"]
+    },
+    {
+      "id": "exxonmobil",
+      "name": "ExxonMobil",
+      "aliases": ["ExxonMobil", "Exxon Mobil", "Exxon"],
+      "tickers": ["XOM"],
+      "jurisdiction_hq": "US",
+      "domains": ["energie", "petrole", "gaz", "climat"],
+      "keywords": ["petrole", "gaz", "forage"]
+    },
+    {
+      "id": "chevron",
+      "name": "Chevron",
+      "aliases": ["Chevron", "Chevron Corporation"],
+      "tickers": ["CVX"],
+      "jurisdiction_hq": "US",
+      "domains": ["energie", "petrole", "gaz", "climat"],
+      "keywords": ["petrole", "gaz"]
+    },
+    {
+      "id": "meta",
+      "name": "Meta",
+      "aliases": ["Meta", "Meta Platforms", "Facebook"],
+      "tickers": ["META"],
+      "jurisdiction_hq": "US",
+      "domains": ["tech", "numerique", "reseau sociaux", "ia"],
+      "keywords": ["facebook", "instagram", "dma", "droit d'auteur", "ia"]
+    },
+    {
+      "id": "alphabet",
+      "name": "Alphabet / Google",
+      "aliases": ["Alphabet", "Google", "Alphabet Inc.", "Google LLC"],
+      "tickers": ["GOOGL"],
+      "jurisdiction_hq": "US",
+      "domains": ["tech", "numerique", "publicite", "ia"],
+      "keywords": ["google", "dma", "publicite", "moteur de recherche", "ia"]
+    },
+    {
+      "id": "microsoft",
+      "name": "Microsoft",
+      "aliases": ["Microsoft", "Microsoft Corporation"],
+      "tickers": ["MSFT"],
+      "jurisdiction_hq": "US",
+      "domains": ["tech", "numerique", "ia", "cloud"],
+      "keywords": ["windows", "azure", "ia", "cloud"]
+    },
+    {
+      "id": "amazon",
+      "name": "Amazon",
+      "aliases": ["Amazon", "Amazon.com", "Amazon EU"],
+      "tickers": ["AMZN"],
+      "jurisdiction_hq": "US",
+      "domains": ["tech", "commerce", "logistique"],
+      "keywords": ["marketplace", "e-commerce", "logistique", "droit du travail"]
+    },
+    {
+      "id": "apple",
+      "name": "Apple",
+      "aliases": ["Apple", "Apple Inc."],
+      "tickers": ["AAPL"],
+      "jurisdiction_hq": "US",
+      "domains": ["tech", "numerique", "concurrence"],
+      "keywords": ["app store", "iphone", "dma"]
+    },
+    {
+      "id": "philip-morris",
+      "name": "Philip Morris International",
+      "aliases": ["Philip Morris", "Philip Morris International", "PMI"],
+      "tickers": ["PM"],
+      "jurisdiction_hq": "US",
+      "domains": ["tabac", "nicotine", "sante"],
+      "keywords": ["tabac", "vape", "iqos", "nicotine"]
+    },
+    {
+      "id": "british-american-tobacco",
+      "name": "British American Tobacco",
+      "aliases": ["British American Tobacco", "BAT", "BAT plc"],
+      "tickers": ["BATS.L", "BTI"],
+      "jurisdiction_hq": "UK",
+      "domains": ["tabac", "nicotine", "sante"],
+      "keywords": ["tabac", "vape", "nicotine"]
+    },
+    {
+      "id": "pfizer",
+      "name": "Pfizer",
+      "aliases": ["Pfizer", "Pfizer Inc."],
+      "tickers": ["PFE"],
+      "jurisdiction_hq": "US",
+      "domains": ["pharma", "sante", "vaccins"],
+      "keywords": ["vaccin", "medicament", "prix des medicaments"]
+    },
+    {
+      "id": "novartis",
+      "name": "Novartis",
+      "aliases": ["Novartis", "Novartis AG"],
+      "tickers": ["NOVN.SW", "NVS"],
+      "jurisdiction_hq": "CH",
+      "domains": ["pharma", "sante"],
+      "keywords": ["medicament", "sante"]
+    },
+    {
+      "id": "stellantis",
+      "name": "Stellantis",
+      "aliases": ["Stellantis", "Stellantis N.V.", "PSA Peugeot Citroën"],
+      "tickers": ["STLAP.PA", "STLA"],
+      "jurisdiction_hq": "NL",
+      "domains": ["automobile", "climat", "emissions"],
+      "keywords": ["voiture", "electrique", "emissions co2", "cafer"]
+    },
+    {
+      "id": "renault",
+      "name": "Renault",
+      "aliases": ["Renault", "Renault Group", "Renault SA"],
+      "tickers": ["RNO.PA", "RNLSY"],
+      "jurisdiction_hq": "FR",
+      "domains": ["automobile", "climat", "emissions"],
+      "keywords": ["voiture", "electrique", "emissions co2"]
+    },
+    {
+      "id": "air-liquide",
+      "name": "Air Liquide",
+      "aliases": ["Air Liquide", "Air Liquide SA", "L'Air Liquide"],
+      "tickers": ["AI.PA", "AIQUY"],
+      "jurisdiction_hq": "FR",
+      "domains": ["chimie", "energie", "hydrogene"],
+      "keywords": ["hydrogene", "gaz industriels"]
+    },
+    {
+      "id": "orange",
+      "name": "Orange",
+      "aliases": ["Orange", "Orange SA", "France Télécom"],
+      "tickers": ["ORA.PA", "ORAN"],
+      "jurisdiction_hq": "FR",
+      "domains": ["telecoms", "numerique"],
+      "keywords": ["telecoms", "fibre", "5g"]
+    },
+    {
+      "id": "bnp-paribas",
+      "name": "BNP Paribas",
+      "aliases": ["BNP Paribas", "BNP Paribas SA"],
+      "tickers": ["BNP.PA", "BNPQY"],
+      "jurisdiction_hq": "FR",
+      "domains": ["finance", "banque"],
+      "keywords": ["banque", "finance", "taxonomie"]
+    },
+    {
+      "id": "credit-agricole",
+      "name": "Crédit Agricole",
+      "aliases": ["Crédit Agricole", "Credit Agricole", "Crédit Agricole SA"],
+      "tickers": ["ACA.PA", "CRARY"],
+      "jurisdiction_hq": "FR",
+      "domains": ["finance", "banque", "agriculture"],
+      "keywords": ["banque", "finance"]
+    },
+    {
+      "id": "societe-generale",
+      "name": "Société Générale",
+      "aliases": ["Société Générale", "Societe Generale", "Société Générale SA"],
+      "tickers": ["GLE.PA", "SCGLY"],
+      "jurisdiction_hq": "FR",
+      "domains": ["finance", "banque"],
+      "keywords": ["banque", "finance"]
+    }
+  ]
+}

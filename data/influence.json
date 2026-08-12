@@ -1,0 +1,7141 @@
+{
+ "air-liquide": [
+  {
+   "law_id": "eli/dl/event/MTG-PL-2026-07-09-VOT-ITM-993015",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0151",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/event/MTG-PL-2026-07-07-VOT-ITM-992951",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0174",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  }
+ ],
+ "airbus": [
+  {
+   "law_id": "eli/dl/event/MTG-PL-2026-07-09-VOT-ITM-993015",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0183",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0177",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/event/MTG-PL-2026-07-07-VOT-ITM-992951",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0186",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0170",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0174",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/B-10-2026-0338",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0169",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  }
+ ],
+ "alphabet": [
+  {
+   "law_id": "eli/dl/event/MTG-PL-2026-07-09-VOT-ITM-993015",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/B-10-2026-0339",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/B-10-2026-0356",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/B-10-2026-0351",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0167",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0183",
+   "reasons": [
+    "registre de lobbying (juridiction) + thématiques communes : numerique"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0156",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0163",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0177",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0151",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0172",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0198",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0181",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0164",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0182",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0178",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0189",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0179",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/event/MTG-PL-2026-07-07-VOT-ITM-992951",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-8-2018-0386",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0173",
+   "reasons": [
+    "registre de lobbying (juridiction) + thématiques communes : numerique"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/B-10-2026-0343",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0186",
+   "reasons": [
+    "registre de lobbying (juridiction) + thématiques communes : numerique"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0170",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0174",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/B-10-2026-0338",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0169",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/event/MTG-PL-2026-07-07-VOT-ITM-992946-RCV-1",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/event/MTG-PL-2026-07-07-VOT-ITM-992951-RCV-1",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  }
+ ],
+ "amazon": [],
+ "apple": [
+  {
+   "law_id": "eli/dl/event/MTG-PL-2026-07-09-VOT-ITM-993015",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/B-10-2026-0356",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/B-10-2026-0361",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/B-10-2026-0351",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0167",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0183",
+   "reasons": [
+    "registre de lobbying (juridiction) + thématiques communes : numerique"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0156",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0163",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0177",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0151",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0172",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0198",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0181",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0164",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0182",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0178",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0179",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/event/MTG-PL-2026-07-07-VOT-ITM-992951",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0173",
+   "reasons": [
+    "registre de lobbying (juridiction) + thématiques communes : numerique"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/B-10-2026-0343",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0180",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0186",
+   "reasons": [
+    "registre de lobbying (juridiction) + thématiques communes : numerique"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0170",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0174",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/B-10-2026-0338",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0169",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/event/MTG-PL-2026-07-06-VOT-ITM-000002",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/event/MTG-PL-2026-07-07-VOT-ITM-992946-RCV-1",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/event/MTG-PL-2026-07-07-VOT-ITM-992951-RCV-1",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  }
+ ],
+ "basf": [
+  {
+   "law_id": "eli/dl/event/MTG-PL-2026-07-09-VOT-ITM-993015",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/B-10-2026-0351",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0167",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0183",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0156",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0177",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0151",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0198",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0181",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0182",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0178",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0179",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/event/MTG-PL-2026-07-07-VOT-ITM-992951",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-8-2018-0386",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/B-10-2026-0343",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0186",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0170",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0174",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/B-10-2026-0338",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0169",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  }
+ ],
+ "bayer": [
+  {
+   "law_id": "DLR5L17N53140",
+   "reasons": [
+    "registre de lobbying (juridiction) + thématiques communes : agriculture, sante"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/event/MTG-PL-2026-07-09-VOT-ITM-993015",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/B-10-2026-0361",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/B-10-2026-0351",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0167",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0183",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0156",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0177",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0151",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0198",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0181",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0182",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0178",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0179",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/event/MTG-PL-2026-07-07-VOT-ITM-992951",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-8-2018-0386",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/B-10-2026-0343",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0186",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0170",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0174",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/B-10-2026-0338",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0169",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  }
+ ],
+ "bnp-paribas": [
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0179",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0186",
+   "reasons": [
+    "registre de lobbying (juridiction) + thématiques communes : finance"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0170",
+   "reasons": [
+    "registre de lobbying (juridiction) + thématiques communes : finance"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0169",
+   "reasons": [
+    "registre de lobbying (juridiction) + thématiques communes : finance"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  }
+ ],
+ "bouygues": [
+  {
+   "law_id": "DLR5L17N54124",
+   "reasons": [
+    "registre de lobbying (juridiction) + thématiques communes : btp, telecoms"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0192",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/event/MTG-PL-2026-07-09-VOT-ITM-993015",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/B-10-2026-0356",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0183",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/B-10-2026-0337",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/B-10-2026-0344",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/B-10-2026-0336",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0177",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/B-10-2026-0335",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/B-10-2026-0334",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0178",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0179",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/event/MTG-PL-2026-07-07-VOT-ITM-992951",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0187",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0186",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0170",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0174",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/B-10-2026-0338",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0169",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  }
+ ],
+ "bp": [],
+ "british-american-tobacco": [
+  {
+   "law_id": "DLR5L17N51615",
+   "reasons": [
+    "registre de lobbying (juridiction) + thématiques communes : sante, tabac"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/event/MTG-PL-2026-07-09-VOT-ITM-993015",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/B-10-2026-0356",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/B-10-2026-0361",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/B-10-2026-0351",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0167",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0183",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0156",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/B-10-2026-0337",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0163",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0177",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0151",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0172",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0198",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0181",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0164",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0182",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0178",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0189",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0179",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/event/MTG-PL-2026-07-07-VOT-ITM-992951",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-8-2018-0386",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0173",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/B-10-2026-0343",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0186",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0170",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0174",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/B-10-2026-0338",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0169",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/event/MTG-PL-2026-07-07-VOT-ITM-992928-RCV-1",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/event/MTG-PL-2026-07-07-VOT-ITM-992946-RCV-1",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/event/MTG-PL-2026-07-07-VOT-ITM-992951-RCV-1",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/event/MTG-PL-2026-07-08-VOT-ITM-992914-RCV-1",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/event/MTG-PL-2026-07-08-VOT-ITM-992915-RCV-1",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/event/MTG-PL-2026-07-08-VOT-ITM-992927-RCV-1",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/event/MTG-PL-2026-07-08-VOT-ITM-992930-RCV-6",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/event/MTG-PL-2026-07-08-VOT-ITM-992930-RCV-5",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/event/MTG-PL-2026-07-08-VOT-ITM-992930-RCV-1",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/event/MTG-PL-2026-07-08-VOT-ITM-992941-RCV-1",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/event/MTG-PL-2026-07-08-VOT-ITM-992941-RCV-2",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/event/MTG-PL-2026-07-08-VOT-ITM-992943-RCV-6",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/event/MTG-PL-2026-07-08-VOT-ITM-992943-RCV-3",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/event/MTG-PL-2026-07-08-VOT-ITM-992944-RCV-1",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/event/MTG-PL-2026-07-08-VOT-ITM-992944-RCV-2",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/event/MTG-PL-2026-07-09-VOT-ITM-992995-RCV-1",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/event/MTG-PL-2026-07-09-VOT-ITM-992997-RCV-1",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/event/MTG-PL-2026-07-09-VOT-ITM-992997-RCV-6",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/event/MTG-PL-2026-07-09-VOT-ITM-993016-RCV-2",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  }
+ ],
+ "chevron": [],
+ "credit-agricole": [
+  {
+   "law_id": "DLR5L17N53140",
+   "reasons": [
+    "registre de lobbying (juridiction) + thématiques communes : agriculture, finance"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0185",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0167",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0183",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0198",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0181",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0182",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0178",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0173",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0187",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/B-10-2026-0343",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0186",
+   "reasons": [
+    "registre de lobbying (juridiction) + thématiques communes : finance"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0170",
+   "reasons": [
+    "registre de lobbying (juridiction) + thématiques communes : finance"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0169",
+   "reasons": [
+    "registre de lobbying (juridiction) + thématiques communes : finance"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  }
+ ],
+ "dassault-systemes": [
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0167",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0151",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0186",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0170",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/B-10-2026-0338",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0169",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  }
+ ],
+ "edf": [
+  {
+   "law_id": "DLR5L17N54377",
+   "reasons": [
+    "registre de lobbying (juridiction) + thématiques communes : climat, energie"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/event/MTG-PL-2026-07-09-VOT-ITM-993015",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0151",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0179",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/event/MTG-PL-2026-07-07-VOT-ITM-992951",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/B-10-2026-0343",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0186",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0170",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/B-10-2026-0338",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0169",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  }
+ ],
+ "engie": [
+  {
+   "law_id": "DLR5L17N54377",
+   "reasons": [
+    "registre de lobbying (juridiction) + thématiques communes : climat, energie"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "DLR5L17N53540",
+   "reasons": [
+    "registre de lobbying (juridiction) + thématiques communes : energie, renouvelables"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/event/MTG-PL-2026-07-09-VOT-ITM-993015",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0167",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/B-10-2026-0337",
+   "reasons": [
+    "registre de lobbying (juridiction) + thématiques communes : energie, renouvelables"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0151",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0198",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0181",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0182",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0178",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0189",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/event/MTG-PL-2026-07-07-VOT-ITM-992951",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/B-10-2026-0343",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0186",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0170",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0174",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/B-10-2026-0338",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0169",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  }
+ ],
+ "exxonmobil": [
+  {
+   "law_id": "DLR5L17N54377",
+   "reasons": [
+    "registre de lobbying (juridiction) + thématiques communes : climat, energie"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/event/MTG-PL-2026-07-09-VOT-ITM-993015",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/B-10-2026-0339",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0183",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0177",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0179",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/event/MTG-PL-2026-07-07-VOT-ITM-992951",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0186",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0170",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0174",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0169",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  }
+ ],
+ "lvmh": [
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0185",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0192",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/event/MTG-PL-2026-07-09-VOT-ITM-993015",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/B-10-2026-0361",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/B-10-2026-0351",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0167",
+   "reasons": [
+    "registre de lobbying (juridiction) + thématiques communes : fiscalite"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0183",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0156",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/B-10-2026-0337",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/B-10-2026-0344",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/B-10-2026-0336",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0177",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/B-10-2026-0335",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/B-10-2026-0334",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0151",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0198",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0181",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0182",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0178",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0189",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0179",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/event/MTG-PL-2026-07-07-VOT-ITM-992951",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0173",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0187",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0191",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/B-10-2026-0343",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0171",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0186",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0170",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0174",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/B-10-2026-0338",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0169",
+   "reasons": [
+    "registre de lobbying (juridiction) + thématiques communes : fiscalite"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  }
+ ],
+ "meta": [
+  {
+   "law_id": "eli/dl/event/MTG-PL-2026-07-09-VOT-ITM-993015",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/B-10-2026-0339",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/B-10-2026-0356",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/B-10-2026-0351",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0167",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0183",
+   "reasons": [
+    "registre de lobbying (juridiction) + thématiques communes : numerique"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0156",
+   "reasons": [
+    "registre de lobbying (juridiction) + thématiques communes : environnement"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0163",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0177",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0151",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0172",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0198",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0181",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0164",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0182",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0178",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0179",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/event/MTG-PL-2026-07-07-VOT-ITM-992951",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-8-2018-0386",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/B-10-2026-0343",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0186",
+   "reasons": [
+    "registre de lobbying (juridiction) + thématiques communes : numerique"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0174",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/B-10-2026-0338",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0169",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/event/MTG-PL-2026-07-06-VOT-ITM-000002",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/event/MTG-PL-2026-07-08-VOT-ITM-992914-RCV-1",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/event/MTG-PL-2026-07-08-VOT-ITM-992915-RCV-1",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/event/MTG-PL-2026-07-08-VOT-ITM-992927-RCV-1",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/event/MTG-PL-2026-07-08-VOT-ITM-992941-RCV-1",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/event/MTG-PL-2026-07-08-VOT-ITM-992941-RCV-2",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/event/MTG-PL-2026-07-08-VOT-ITM-992943-RCV-3",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/event/MTG-PL-2026-07-08-VOT-ITM-992944-RCV-1",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/event/MTG-PL-2026-07-08-VOT-ITM-992944-RCV-2",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/event/MTG-PL-2026-07-09-VOT-ITM-992995-RCV-1",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/event/MTG-PL-2026-07-09-VOT-ITM-992997-RCV-1",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/event/MTG-PL-2026-07-09-VOT-ITM-993016-RCV-2",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  }
+ ],
+ "microsoft": [
+  {
+   "law_id": "eli/dl/event/MTG-PL-2026-07-09-VOT-ITM-993015",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/B-10-2026-0339",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/B-10-2026-0356",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/B-10-2026-0361",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/B-10-2026-0351",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0167",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0183",
+   "reasons": [
+    "registre de lobbying (juridiction) + thématiques communes : numerique"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0156",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0163",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0177",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0151",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0172",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0198",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0181",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0164",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0182",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0178",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0189",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0179",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/event/MTG-PL-2026-07-07-VOT-ITM-992951",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/B-10-2026-0343",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0186",
+   "reasons": [
+    "registre de lobbying (juridiction) + thématiques communes : numerique"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0170",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0174",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/B-10-2026-0338",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0169",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/event/MTG-PL-2026-07-07-VOT-ITM-992946-RCV-1",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/event/MTG-PL-2026-07-07-VOT-ITM-992951-RCV-1",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  }
+ ],
+ "nestle": [
+  {
+   "law_id": "eli/dl/event/MTG-PL-2026-07-09-VOT-ITM-993015",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/B-10-2026-0356",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/B-10-2026-0361",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/B-10-2026-0351",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0167",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0183",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0156",
+   "reasons": [
+    "registre de lobbying (juridiction) + thématiques communes : environnement"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0163",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0177",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0172",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0198",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0181",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0164",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0182",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0178",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0189",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0179",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/event/MTG-PL-2026-07-07-VOT-ITM-992951",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0173",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/B-10-2026-0343",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0186",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0174",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/B-10-2026-0338",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0169",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  }
+ ],
+ "novartis": [
+  {
+   "law_id": "eli/dl/event/MTG-PL-2026-07-09-VOT-ITM-993015",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/B-10-2026-0339",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/B-10-2026-0356",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/B-10-2026-0351",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0156",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0163",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0151",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0172",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0164",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0179",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/event/MTG-PL-2026-07-07-VOT-ITM-992951",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/B-10-2026-0343",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0174",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/B-10-2026-0338",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  }
+ ],
+ "orange": [
+  {
+   "law_id": "DLR5L17N52305",
+   "reasons": [
+    "registre de lobbying (juridiction) + thématiques communes : numerique, telecoms"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/event/MTG-PL-2026-07-09-VOT-ITM-993015",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/B-10-2026-0339",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0183",
+   "reasons": [
+    "registre de lobbying (juridiction) + thématiques communes : numerique"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0177",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0151",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0181",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0182",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0189",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0179",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/event/MTG-PL-2026-07-07-VOT-ITM-992951",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0174",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  }
+ ],
+ "pfizer": [
+  {
+   "law_id": "eli/dl/event/MTG-PL-2026-07-09-VOT-ITM-993015",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/B-10-2026-0356",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0167",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0163",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0177",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0151",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0172",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0198",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0181",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0164",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0182",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0178",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0179",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/event/MTG-PL-2026-07-07-VOT-ITM-992951",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/B-10-2026-0343",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0186",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0174",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/B-10-2026-0338",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0169",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  }
+ ],
+ "philip-morris": [
+  {
+   "law_id": "DLR5L17N51615",
+   "reasons": [
+    "registre de lobbying (juridiction) + thématiques communes : sante, tabac"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/event/MTG-PL-2026-07-09-VOT-ITM-993015",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/B-10-2026-0361",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0167",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0183",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/B-10-2026-0337",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0177",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0198",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0181",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0182",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0178",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0179",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/event/MTG-PL-2026-07-07-VOT-ITM-992951",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-8-2018-0386",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0173",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/B-10-2026-0343",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0186",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0170",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0174",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/B-10-2026-0338",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0169",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/event/MTG-PL-2026-07-08-VOT-ITM-992914-RCV-1",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/event/MTG-PL-2026-07-08-VOT-ITM-992915-RCV-1",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/event/MTG-PL-2026-07-08-VOT-ITM-992927-RCV-1",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/event/MTG-PL-2026-07-08-VOT-ITM-992941-RCV-1",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/event/MTG-PL-2026-07-08-VOT-ITM-992941-RCV-2",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/event/MTG-PL-2026-07-08-VOT-ITM-992943-RCV-3",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/event/MTG-PL-2026-07-08-VOT-ITM-992944-RCV-1",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/event/MTG-PL-2026-07-08-VOT-ITM-992944-RCV-2",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/event/MTG-PL-2026-07-09-VOT-ITM-992995-RCV-1",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/event/MTG-PL-2026-07-09-VOT-ITM-992997-RCV-1",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/event/MTG-PL-2026-07-09-VOT-ITM-993016-RCV-2",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  }
+ ],
+ "renault": [
+  {
+   "law_id": "eli/dl/event/MTG-PL-2026-07-09-VOT-ITM-993015",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/event/MTG-PL-2026-07-07-VOT-ITM-992951",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0186",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0170",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0174",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/B-10-2026-0338",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0169",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  }
+ ],
+ "sanofi": [
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0185",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/event/MTG-PL-2026-07-09-VOT-ITM-993015",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/B-10-2026-0361",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/B-10-2026-0351",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0167",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0183",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0156",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/B-10-2026-0337",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0163",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0151",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0172",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0198",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0181",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0164",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0182",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0178",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0189",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0179",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/event/MTG-PL-2026-07-07-VOT-ITM-992951",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-8-2018-0386",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0173",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/B-10-2026-0343",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0180",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0171",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0186",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0170",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0174",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/B-10-2026-0338",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0169",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  }
+ ],
+ "shell": [
+  {
+   "law_id": "eli/dl/event/MTG-PL-2026-07-09-VOT-ITM-993015",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/event/MTG-PL-2026-07-07-VOT-ITM-992951",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  }
+ ],
+ "societe-generale": [
+  {
+   "law_id": "eli/dl/event/MTG-PL-2026-07-09-VOT-ITM-993015",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/B-10-2026-0339",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/B-10-2026-0351",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0167",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0156",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/B-10-2026-0337",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/B-10-2026-0344",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/B-10-2026-0336",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/B-10-2026-0335",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/B-10-2026-0334",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0198",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0181",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0182",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0178",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/event/MTG-PL-2026-07-07-VOT-ITM-992951",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/B-10-2026-0343",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0186",
+   "reasons": [
+    "registre de lobbying (juridiction) + thématiques communes : finance"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0170",
+   "reasons": [
+    "registre de lobbying (juridiction) + thématiques communes : finance"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/B-10-2026-0338",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0169",
+   "reasons": [
+    "registre de lobbying (juridiction) + thématiques communes : finance"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  }
+ ],
+ "stellantis": [
+  {
+   "law_id": "eli/dl/event/MTG-PL-2026-07-09-VOT-ITM-993015",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/B-10-2026-0339",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0183",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0177",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0179",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/event/MTG-PL-2026-07-07-VOT-ITM-992951",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0186",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0170",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0174",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/B-10-2026-0338",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0169",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  }
+ ],
+ "thales": [
+  {
+   "law_id": "eli/dl/doc/B-10-2026-0361",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/B-10-2026-0351",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0156",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0179",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0174",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/B-10-2026-0338",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  }
+ ],
+ "totalenergies": [
+  {
+   "law_id": "DLR5L17N53530",
+   "reasons": [
+    "1 article(s) de presse lient TotalEnergies à cette thématique",
+    "registre de lobbying (juridiction), thématique commune : energie"
+   ],
+   "score": 31.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.333,
+    "register": 0.8,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "DLR5L17N54377",
+   "reasons": [
+    "registre de lobbying (juridiction) + thématiques communes : climat, energie"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "DLR5L17N53540",
+   "reasons": [
+    "registre de lobbying (juridiction) + thématiques communes : energie, renouvelables"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "DLR5L17N53788",
+   "reasons": [
+    "1 article(s) de presse lient TotalEnergies à cette thématique",
+    "registre de lobbying (juridiction), thématique commune : energie"
+   ],
+   "score": 31.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.333,
+    "register": 0.8,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/B-10-2026-0337",
+   "reasons": [
+    "registre de lobbying (juridiction) + thématiques communes : energie, renouvelables"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0151",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0179",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0186",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0170",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0174",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0169",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  }
+ ],
+ "veolia": [
+  {
+   "law_id": "eli/dl/event/MTG-PL-2026-07-09-VOT-ITM-993015",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/B-10-2026-0361",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/B-10-2026-0333",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0179",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/event/MTG-PL-2026-07-07-VOT-ITM-992951",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0186",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0170",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0169",
+   "reasons": [
+    "registre de lobbying (juridiction) + texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  }
+ ],
+ "vinci": [
+  {
+   "law_id": "119-HRES339",
+   "reasons": [
+    "2 article(s) de presse lient Vinci à cette thématique"
+   ],
+   "score": 30.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.667,
+    "register": 0.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "119-HRES1155",
+   "reasons": [
+    "2 article(s) de presse lient Vinci à cette thématique"
+   ],
+   "score": 30.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.667,
+    "register": 0.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "119-HR5766",
+   "reasons": [
+    "2 article(s) de presse lient Vinci à cette thématique"
+   ],
+   "score": 30.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.667,
+    "register": 0.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "119-SRES510",
+   "reasons": [
+    "2 article(s) de presse lient Vinci à cette thématique"
+   ],
+   "score": 30.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.667,
+    "register": 0.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "119-SRES460",
+   "reasons": [
+    "2 article(s) de presse lient Vinci à cette thématique"
+   ],
+   "score": 30.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.667,
+    "register": 0.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "119-SRES466",
+   "reasons": [
+    "2 article(s) de presse lient Vinci à cette thématique"
+   ],
+   "score": 30.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.667,
+    "register": 0.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "119-HRES883",
+   "reasons": [
+    "2 article(s) de presse lient Vinci à cette thématique"
+   ],
+   "score": 30.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.667,
+    "register": 0.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "119-HRES1333",
+   "reasons": [
+    "2 article(s) de presse lient Vinci à cette thématique"
+   ],
+   "score": 30.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.667,
+    "register": 0.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "119-HJRES194",
+   "reasons": [
+    "2 article(s) de presse lient Vinci à cette thématique"
+   ],
+   "score": 30.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.667,
+    "register": 0.0,
+    "stock": 0.0
+   }
+  }
+ ]
+}

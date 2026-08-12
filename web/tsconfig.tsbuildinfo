@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/api.ts","./src/main.tsx","./src/types.ts","./src/vite-env.d.ts","./src/components/header.tsx","./src/components/sparkline.tsx","./src/components/stockchart.tsx","./src/views/alerts.tsx","./src/views/entities.tsx","./src/views/entitydetail.tsx","./src/views/home.tsx","./src/views/laws.tsx","./src/views/methodo.tsx"],"version":"5.9.3"}

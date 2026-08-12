@@ -1,0 +1,22 @@
+{
+ "counts": {
+  "alerts": 113,
+  "influence": 544,
+  "laws": 1854,
+  "lobby": 0,
+  "news": 26,
+  "stocks": 0
+ },
+ "sources": [
+  "Parlement européen (procédure feed)",
+  "Transparency Register UE",
+  "Assemblée nationale (open data)",
+  "HATVP",
+  "Congress.gov",
+  "LDA (US)",
+  "FEC (dons)",
+  "Yahoo Finance",
+  "GDELT / NewsAPI"
+ ],
+ "updated_at": "2026-08-12T16:03:22+00:00"
+}
