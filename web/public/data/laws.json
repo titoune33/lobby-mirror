@@ -40,10 +40,12 @@
    "next_step": "2025-04-21",
    "updated": "2025-05-22"
   },
-  "entities": [],
+  "entities": [
+   "chevron"
+  ],
   "id": "119-HCONRES29",
   "jurisdiction": "US",
-  "score": 0,
+  "score": 30.0,
   "status": "Referred to the House Committee on Foreign Affairs.",
   "tags": [],
   "title": "Expressing support for the withdrawal of the United States from the Paris Agreement.",
@@ -336,11 +338,11 @@
    "updated": "2025-05-05"
   },
   "entities": [
-   "vinci"
+   "chevron"
   ],
   "id": "119-HRES339",
   "jurisdiction": "US",
-  "score": 30.0,
+  "score": 45.0,
   "status": "Referred to the Committee on the Judiciary, and in addition to the Committee on Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
   "tags": [],
   "title": "Supporting the Second Amendment's guarantee that the right of the people to keep and bear arms shall not be infringed, and commending President Trump and his administration as they work to protect Second Amendment freedoms by reviewing and eliminating any of the Biden administration's infringements on American's constitutional freedoms.",
@@ -997,11 +999,11 @@
    "updated": "2026-04-14"
   },
   "entities": [
-   "vinci"
+   "chevron"
   ],
   "id": "119-HRES1155",
   "jurisdiction": "US",
-  "score": 30.0,
+  "score": 45.0,
   "status": "Referred to the House Committee on the Judiciary.",
   "tags": [],
   "title": "Impeaching Donald J. Trump, President of the United States, for high crimes and misdemeanors.",
@@ -1712,10 +1714,12 @@
    "next_step": "2026-05-21",
    "updated": "2026-08-11"
   },
-  "entities": [],
+  "entities": [
+   "totalenergies"
+  ],
   "id": "119-HR8990",
   "jurisdiction": "US",
-  "score": 0,
+  "score": 45.0,
   "status": "Referred to the House Committee on Energy and Commerce.",
   "tags": [
    "energie"
@@ -2285,10 +2289,12 @@
    "next_step": "2026-06-24",
    "updated": "2026-07-14"
   },
-  "entities": [],
+  "entities": [
+   "totalenergies"
+  ],
   "id": "119-S4892",
   "jurisdiction": "US",
-  "score": 0,
+  "score": 45.0,
   "status": "Read twice and referred to the Committee on Energy and Natural Resources.",
   "tags": [
    "energie"
@@ -2686,10 +2692,12 @@
    "next_step": "2026-05-26",
    "updated": "2026-08-11"
   },
-  "entities": [],
+  "entities": [
+   "totalenergies"
+  ],
   "id": "119-HR9035",
   "jurisdiction": "US",
-  "score": 0,
+  "score": 45.0,
   "status": "Referred to the Committee on the Judiciary, and in addition to the Committee on Natural Resources, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
   "tags": [
    "energie"
@@ -2811,10 +2819,12 @@
    "next_step": "2025-04-10",
    "updated": "2025-12-19"
   },
-  "entities": [],
+  "entities": [
+   "totalenergies"
+  ],
   "id": "119-HR2831",
   "jurisdiction": "US",
-  "score": 0,
+  "score": 45.0,
   "status": "Referred to the House Committee on Small Business.",
   "tags": [
    "energie"
@@ -3193,10 +3203,12 @@
    "next_step": "2026-06-02",
    "updated": "2026-06-17"
   },
-  "entities": [],
+  "entities": [
+   "thales"
+  ],
   "id": "119-S4656",
   "jurisdiction": "US",
-  "score": 0,
+  "score": 30.0,
   "status": "Read twice and referred to the Committee on Armed Services.",
   "tags": [
    "numerique",
@@ -3803,10 +3815,12 @@
    "next_step": "2026-03-05",
    "updated": "2026-03-11"
   },
-  "entities": [],
+  "entities": [
+   "totalenergies"
+  ],
   "id": "119-SJRES113",
   "jurisdiction": "US",
-  "score": 0,
+  "score": 45.0,
   "status": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.",
   "tags": [
    "climat",
@@ -4206,11 +4220,11 @@
    "updated": "2025-11-20"
   },
   "entities": [
-   "vinci"
+   "chevron"
   ],
   "id": "119-HR5766",
   "jurisdiction": "US",
-  "score": 30.0,
+  "score": 45.0,
   "status": "Referred to the House Committee on Foreign Affairs.",
   "tags": [],
   "title": "President Donald J. Trump Peace Prize Act",
@@ -4224,10 +4238,12 @@
    "next_step": "2025-10-17",
    "updated": "2025-12-08"
   },
-  "entities": [],
+  "entities": [
+   "totalenergies"
+  ],
   "id": "119-HR5765",
   "jurisdiction": "US",
-  "score": 0,
+  "score": 45.0,
   "status": "Referred to the House Committee on Energy and Commerce.",
   "tags": [
    "energie"
@@ -4313,10 +4329,12 @@
    "next_step": "2025-10-21",
    "updated": "2025-12-09"
   },
-  "entities": [],
+  "entities": [
+   "chevron"
+  ],
   "id": "119-HRES825",
   "jurisdiction": "US",
-  "score": 0,
+  "score": 30.0,
   "status": "Referred to the House Committee on Oversight and Government Reform.",
   "tags": [],
   "title": "Of inquiry requesting the President to transmit certain information to the House of Representatives referring to United States Government agencies sharing certain communications with the public and Federal employees.",
@@ -4432,10 +4450,12 @@
    "next_step": "2025-10-21",
    "updated": "2025-12-05"
   },
-  "entities": [],
+  "entities": [
+   "totalenergies"
+  ],
   "id": "119-HRES826",
   "jurisdiction": "US",
-  "score": 0,
+  "score": 45.0,
   "status": "Referred to the House Committee on Education and Workforce.",
   "tags": [
    "energie"
@@ -4795,12 +4815,10 @@
    "next_step": "2025-11-20",
    "updated": "2025-11-25"
   },
-  "entities": [
-   "vinci"
-  ],
+  "entities": [],
   "id": "119-SRES510",
   "jurisdiction": "US",
-  "score": 30.0,
+  "score": 0,
   "status": "Referred to the Committee on Foreign Relations. (text: CR S8279-8280)",
   "tags": [],
   "title": "A resolution expressing the sense of the Senate that the 93rd anniversary of the Ukrainian Famine of 1932-1933, known as the \"Holodomor\", should serve as a reminder of repressive Soviet policies against the people of Ukraine, and that Vladimir Putin's brutal and unprovoked war against Ukraine once again threatens the existence of the Ukrainian people, while exacerbating the problems of global hunger.",
@@ -4971,10 +4989,12 @@
    "next_step": "2026-05-20",
    "updated": "2026-06-18"
   },
-  "entities": [],
+  "entities": [
+   "totalenergies"
+  ],
   "id": "119-HR8948",
   "jurisdiction": "US",
-  "score": 0,
+  "score": 45.0,
   "status": "Referred to the House Committee on Energy and Commerce.",
   "tags": [
    "energie"
@@ -5093,11 +5113,11 @@
    "updated": "2025-12-05"
   },
   "entities": [
-   "vinci"
+   "chevron"
   ],
   "id": "119-SRES460",
   "jurisdiction": "US",
-  "score": 30.0,
+  "score": 45.0,
   "status": "Referred to the Committee on Health, Education, Labor, and Pensions. (text: CR S7188)",
   "tags": [],
   "title": "A resolution recognizing the accomplishments of President Donald J. Trump and recommending that he be awarded the Nobel Peace Prize in 2026.",
@@ -5319,10 +5339,12 @@
    "next_step": "2025-10-23",
    "updated": "2025-12-08"
   },
-  "entities": [],
+  "entities": [
+   "totalenergies"
+  ],
   "id": "119-S3044",
   "jurisdiction": "US",
-  "score": 0,
+  "score": 45.0,
   "status": "Read twice and referred to the Committee on Environment and Public Works.",
   "tags": [
    "climat"
@@ -5475,11 +5497,11 @@
    "updated": "2026-08-10"
   },
   "entities": [
-   "vinci"
+   "chevron"
   ],
   "id": "119-SRES466",
   "jurisdiction": "US",
-  "score": 30.0,
+  "score": 45.0,
   "status": "Referred to the Committee on the Judiciary. (text: CR S7733)",
   "tags": [],
   "title": "A resolution condemning President Trump's pardoning of Binance founder Changpeng Zhao, who had violated United States anti-money laundering laws, and calling for Congress to use its authority to stop this form of corruption.",
@@ -5561,10 +5583,12 @@
    "next_step": "2025-10-23",
    "updated": "2026-03-24"
   },
-  "entities": [],
+  "entities": [
+   "totalenergies"
+  ],
   "id": "119-S3035",
   "jurisdiction": "US",
-  "score": 0,
+  "score": 45.0,
   "status": "Read twice and referred to the Committee on Energy and Natural Resources.",
   "tags": [
    "energie"
@@ -6215,11 +6239,12 @@
    "updated": "2026-03-17"
   },
   "entities": [
-   "vinci"
+   "chevron",
+   "exxonmobil"
   ],
   "id": "119-HRES883",
   "jurisdiction": "US",
-  "score": 30.0,
+  "score": 45.0,
   "status": "Referred to the House Committee on Rules.",
   "tags": [],
   "title": "Providing for consideration of the bill (H.R. 2003) to amend the Higher Education Act of 1965 to lower the interest rate on Federal student loans to 2 percent.",
@@ -6544,7 +6569,7 @@
    "updated": "2026-07-23"
   },
   "entities": [
-   "vinci"
+   "chevron"
   ],
   "id": "119-HRES1333",
   "jurisdiction": "US",
@@ -6877,10 +6902,12 @@
    "next_step": "2026-06-11",
    "updated": "2026-07-23"
   },
-  "entities": [],
+  "entities": [
+   "chevron"
+  ],
   "id": "119-HRES1335",
   "jurisdiction": "US",
-  "score": 0,
+  "score": 30.0,
   "status": "Motion to reconsider laid on the table Agreed to without objection.",
   "tags": [
    "finance"
@@ -7179,10 +7206,12 @@
    "next_step": "2025-10-27",
    "updated": "2026-04-01"
   },
-  "entities": [],
+  "entities": [
+   "thales"
+  ],
   "id": "119-SRES467",
   "jurisdiction": "US",
-  "score": 0,
+  "score": 30.0,
   "status": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S7755-7756; text: CR S7754-7755)",
   "tags": [
    "nucleaire",
@@ -7785,10 +7814,12 @@
    "next_step": "2025-12-01",
    "updated": "2026-01-10"
   },
-  "entities": [],
+  "entities": [
+   "totalenergies"
+  ],
   "id": "119-S3282",
   "jurisdiction": "US",
-  "score": 0,
+  "score": 45.0,
   "status": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.",
   "tags": [
    "climat",
@@ -8153,10 +8184,13 @@
    "next_step": "2025-12-16",
    "updated": "2026-03-03"
   },
-  "entities": [],
+  "entities": [
+   "chevron",
+   "totalenergies"
+  ],
   "id": "119-S3513",
   "jurisdiction": "US",
-  "score": 0,
+  "score": 45.0,
   "status": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.",
   "tags": [
    "energie"
@@ -8223,10 +8257,12 @@
    "next_step": "2025-12-16",
    "updated": "2026-07-07"
   },
-  "entities": [],
+  "entities": [
+   "totalenergies"
+  ],
   "id": "119-S3509",
   "jurisdiction": "US",
-  "score": 0,
+  "score": 45.0,
   "status": "Read twice and referred to the Committee on Foreign Relations.",
   "tags": [
    "climat"
@@ -8644,11 +8680,12 @@
    "updated": "2026-07-01"
   },
   "entities": [
-   "vinci"
+   "chevron",
+   "totalenergies"
   ],
   "id": "119-HJRES194",
   "jurisdiction": "US",
-  "score": 30.0,
+  "score": 45.0,
   "status": "Referred to the House Committee on the Judiciary.",
   "tags": [],
   "title": "Proposing an amendment to the Constitution of the United States to prohibit any person who has citizenship or nationality of, or otherwise owes allegiance to, a country other than the United States from serving as a Representative or Senator in Congress, a Judge of the Supreme Court or any inferior court, an Ambassador, public Minister or Consul, or any other officer of the United States which requires the advice and consent of the Senate, or the President or Vice President unless the person formally and permanently relinquishes such citizenship, nationality, or allegiance.",
@@ -8662,10 +8699,12 @@
    "next_step": "2026-06-03",
    "updated": "2026-08-10"
   },
-  "entities": [],
+  "entities": [
+   "chevron"
+  ],
   "id": "119-HRES1339",
   "jurisdiction": "US",
-  "score": 0,
+  "score": 30.0,
   "status": "Referred to the House Committee on Foreign Affairs.",
   "tags": [
    "defense"
@@ -8734,10 +8773,12 @@
    "next_step": null,
    "updated": "2026-09-16"
   },
-  "entities": [],
+  "entities": [
+   "vinci"
+  ],
   "id": "DLR5L17N54608",
   "jurisdiction": "FR",
-  "score": 0,
+  "score": 31.0,
   "status": "Réunion de commission",
   "tags": [
    "btp"
@@ -8787,10 +8828,12 @@
    "next_step": null,
    "updated": "2026-08-06"
   },
-  "entities": [],
+  "entities": [
+   "thales"
+  ],
   "id": "DLR5L17N54083",
   "jurisdiction": "FR",
-  "score": 0,
+  "score": 31.0,
   "status": "Conclusion du conseil constitutionnel",
   "tags": [
    "defense"
@@ -9660,10 +9703,12 @@
    "next_step": null,
    "updated": "2026-07-23"
   },
-  "entities": [],
+  "entities": [
+   "totalenergies"
+  ],
   "id": "DLR5L17N54723",
   "jurisdiction": "FR",
-  "score": 0,
+  "score": 61.0,
   "status": "Renvoi en commission au fond",
   "tags": [
    "climat"
@@ -9679,10 +9724,12 @@
    "next_step": null,
    "updated": "2026-07-23"
   },
-  "entities": [],
+  "entities": [
+   "totalenergies"
+  ],
   "id": "DLR5L17N54715",
   "jurisdiction": "FR",
-  "score": 0,
+  "score": 61.0,
   "status": "Renvoi en commission au fond",
   "tags": [
    "climat"
@@ -9912,10 +9959,12 @@
    "next_step": null,
    "updated": "2026-07-22"
   },
-  "entities": [],
+  "entities": [
+   "vinci"
+  ],
   "id": "DLR5L17N54743",
   "jurisdiction": "FR",
-  "score": 0,
+  "score": 31.0,
   "status": "Renvoi en commission au fond",
   "tags": [
    "btp"
@@ -9982,10 +10031,12 @@
    "next_step": null,
    "updated": "2026-07-21"
   },
-  "entities": [],
+  "entities": [
+   "totalenergies"
+  ],
   "id": "DLR5L17N54697",
   "jurisdiction": "FR",
-  "score": 0,
+  "score": 61.0,
   "status": "1er dépôt d'une initiative.",
   "tags": [
    "climat"
@@ -10162,10 +10213,13 @@
    "next_step": null,
    "updated": "2026-07-15"
   },
-  "entities": [],
+  "entities": [
+   "thales",
+   "vinci"
+  ],
   "id": "DLR5L17N54677",
   "jurisdiction": "FR",
-  "score": 0,
+  "score": 31.0,
   "status": "Dépôt de rapport",
   "tags": [
    "defense",
@@ -10335,10 +10389,12 @@
    "next_step": null,
    "updated": "2026-07-08"
   },
-  "entities": [],
+  "entities": [
+   "thales"
+  ],
   "id": "DLR5L17N53704",
   "jurisdiction": "FR",
-  "score": 0,
+  "score": 45.0,
   "status": "Dépôt de rapport",
   "tags": [
    "numerique"
@@ -10354,10 +10410,13 @@
    "next_step": null,
    "updated": "2026-07-08"
   },
-  "entities": [],
+  "entities": [
+   "airbus",
+   "thales"
+  ],
   "id": "DLR5L17N54253",
   "jurisdiction": "FR",
-  "score": 0,
+  "score": 45.0,
   "status": "Réunion de commission",
   "tags": [
    "automobile"
@@ -10390,10 +10449,12 @@
    "next_step": null,
    "updated": "2026-07-08"
   },
-  "entities": [],
+  "entities": [
+   "totalenergies"
+  ],
   "id": "DLR5L17N54567",
   "jurisdiction": "FR",
-  "score": 0,
+  "score": 61.0,
   "status": "Dépôt de rapport",
   "tags": [
    "climat",
@@ -10625,10 +10686,12 @@
    "next_step": null,
    "updated": "2026-07-07"
   },
-  "entities": [],
+  "entities": [
+   "vinci"
+  ],
   "id": "DLR5L17N54653",
   "jurisdiction": "FR",
-  "score": 0,
+  "score": 31.0,
   "status": "Renvoi en commission au fond",
   "tags": [
    "btp",
@@ -10662,10 +10725,12 @@
    "next_step": null,
    "updated": "2026-07-07"
   },
-  "entities": [],
+  "entities": [
+   "thales"
+  ],
   "id": "DLR5L17N51037",
   "jurisdiction": "FR",
-  "score": 0,
+  "score": 31.0,
   "status": "Renvoi en commission au fond",
   "tags": [
    "defense"
@@ -10698,10 +10763,12 @@
    "next_step": null,
    "updated": "2026-07-07"
   },
-  "entities": [],
+  "entities": [
+   "totalenergies"
+  ],
   "id": "DLR5L17N54639",
   "jurisdiction": "FR",
-  "score": 0,
+  "score": 61.0,
   "status": "Renvoi en commission au fond",
   "tags": [
    "climat"
@@ -11185,10 +11252,12 @@
    "next_step": null,
    "updated": "2026-07-02"
   },
-  "entities": [],
+  "entities": [
+   "totalenergies"
+  ],
   "id": "DLR5L17N54611",
   "jurisdiction": "FR",
-  "score": 0,
+  "score": 61.0,
   "status": "Dépôt de rapport",
   "tags": [
    "climat",
@@ -11313,10 +11382,12 @@
    "next_step": null,
    "updated": "2026-07-01"
   },
-  "entities": [],
+  "entities": [
+   "totalenergies"
+  ],
   "id": "DLR5L17N54464",
   "jurisdiction": "FR",
-  "score": 0,
+  "score": 61.0,
   "status": "Réunion de commission",
   "tags": [
    "climat"
@@ -11383,10 +11454,12 @@
    "next_step": null,
    "updated": "2026-07-01"
   },
-  "entities": [],
+  "entities": [
+   "vinci"
+  ],
   "id": "DLR5L17N54566",
   "jurisdiction": "FR",
-  "score": 0,
+  "score": 31.0,
   "status": "Réunion de commission",
   "tags": [
    "btp"
@@ -11597,10 +11670,13 @@
    "next_step": null,
    "updated": "2026-06-30"
   },
-  "entities": [],
+  "entities": [
+   "airbus",
+   "thales"
+  ],
   "id": "DLR5L17N54598",
   "jurisdiction": "FR",
-  "score": 0,
+  "score": 45.0,
   "status": "Dépôt de rapport",
   "tags": [],
   "title": "L’activité de la délégation de l'Assemblée nationale à l'Assemblée parlementaire du conseil de l'Europe au cours de la deuxième partie de sa session ordinaire de 2026",
@@ -11614,10 +11690,12 @@
    "next_step": null,
    "updated": "2026-06-30"
   },
-  "entities": [],
+  "entities": [
+   "totalenergies"
+  ],
   "id": "DLR5L17N53600",
   "jurisdiction": "FR",
-  "score": 0,
+  "score": 61.0,
   "status": "Promulgation d'une loi",
   "tags": [
    "energie",
@@ -11702,10 +11780,12 @@
    "next_step": null,
    "updated": "2026-06-29"
   },
-  "entities": [],
+  "entities": [
+   "vinci"
+  ],
   "id": "DLR5L17N51968",
   "jurisdiction": "FR",
-  "score": 0,
+  "score": 31.0,
   "status": "Promulgation d'une loi",
   "tags": [
    "btp",
@@ -11761,7 +11841,7 @@
   ],
   "id": "DLR5L17N53530",
   "jurisdiction": "FR",
-  "score": 31.0,
+  "score": 61.0,
   "status": "Promulgation d'une loi",
   "tags": [
    "energie"
@@ -11777,10 +11857,12 @@
    "next_step": null,
    "updated": "2026-06-29"
   },
-  "entities": [],
+  "entities": [
+   "thales"
+  ],
   "id": "DLR5L17N51845",
   "jurisdiction": "FR",
-  "score": 0,
+  "score": 30.0,
   "status": "Promulgation d'une loi",
   "tags": [],
   "title": "Réparer les préjudices causés par la transplantation de mineurs de La Réunion en France hexagonale de 1962 à 1984",
@@ -11845,10 +11927,13 @@
    "next_step": null,
    "updated": "2026-06-25"
   },
-  "entities": [],
+  "entities": [
+   "bouygues",
+   "vinci"
+  ],
   "id": "DLR5L17N54628",
   "jurisdiction": "FR",
-  "score": 0,
+  "score": 31.0,
   "status": "Renvoi en commission au fond",
   "tags": [
    "btp"
@@ -12003,10 +12088,12 @@
    "next_step": null,
    "updated": "2026-06-24"
   },
-  "entities": [],
+  "entities": [
+   "thales"
+  ],
   "id": "DLR5L17N52406",
   "jurisdiction": "FR",
-  "score": 0,
+  "score": 31.0,
   "status": "Dépôt de rapport",
   "tags": [
    "defense",
@@ -12093,10 +12180,12 @@
    "next_step": null,
    "updated": "2026-06-24"
   },
-  "entities": [],
+  "entities": [
+   "vinci"
+  ],
   "id": "DLR5L17N54568",
   "jurisdiction": "FR",
-  "score": 0,
+  "score": 31.0,
   "status": "Dépôt de rapport",
   "tags": [
    "finance",
@@ -12232,10 +12321,12 @@
    "next_step": null,
    "updated": "2026-06-23"
   },
-  "entities": [],
+  "entities": [
+   "totalenergies"
+  ],
   "id": "DLR5L17N54557",
   "jurisdiction": "FR",
-  "score": 0,
+  "score": 61.0,
   "status": "Renvoi en commission au fond",
   "tags": [
    "climat",
@@ -12458,10 +12549,12 @@
    "next_step": null,
    "updated": "2026-06-23"
   },
-  "entities": [],
+  "entities": [
+   "vinci"
+  ],
   "id": "DLR5L17N54548",
   "jurisdiction": "FR",
-  "score": 0,
+  "score": 31.0,
   "status": "Renvoi en commission au fond",
   "tags": [
    "btp"
@@ -12866,10 +12959,12 @@
    "next_step": null,
    "updated": "2026-06-17"
   },
-  "entities": [],
+  "entities": [
+   "totalenergies"
+  ],
   "id": "DLR5L17N54520",
   "jurisdiction": "FR",
-  "score": 0,
+  "score": 61.0,
   "status": "Dépôt de rapport",
   "tags": [
    "energie"
@@ -12981,10 +13076,13 @@
    "next_step": null,
    "updated": "2026-06-17"
   },
-  "entities": [],
+  "entities": [
+   "thales",
+   "totalenergies"
+  ],
   "id": "DLR5L17N54312",
   "jurisdiction": "FR",
-  "score": 0,
+  "score": 61.0,
   "status": "Réunion de commission",
   "tags": [
    "climat"
@@ -13242,10 +13340,12 @@
    "next_step": null,
    "updated": "2026-06-12"
   },
-  "entities": [],
+  "entities": [
+   "totalenergies"
+  ],
   "id": "DLR5L17N54518",
   "jurisdiction": "FR",
-  "score": 0,
+  "score": 61.0,
   "status": "Renvoi en commission au fond",
   "tags": [
    "climat"
@@ -13329,10 +13429,12 @@
    "next_step": null,
    "updated": "2026-06-11"
   },
-  "entities": [],
+  "entities": [
+   "thales"
+  ],
   "id": "DLR5L17N54320",
   "jurisdiction": "FR",
-  "score": 0,
+  "score": 45.0,
   "status": "Discussion en séance publique",
   "tags": [],
   "title": "Appeler à une action résolue de la France contre le blocus imposé par les Etats-Unis au peuple cubain",
@@ -13380,10 +13482,12 @@
    "next_step": null,
    "updated": "2026-06-11"
   },
-  "entities": [],
+  "entities": [
+   "thales"
+  ],
   "id": "DLR5L17N52977",
   "jurisdiction": "FR",
-  "score": 0,
+  "score": 30.0,
   "status": "Réunion de commission",
   "tags": [],
   "title": "Nationalisation d'ArcelorMittal France",
@@ -13397,10 +13501,13 @@
    "next_step": null,
    "updated": "2026-06-10"
   },
-  "entities": [],
+  "entities": [
+   "airbus",
+   "thales"
+  ],
   "id": "DLR5L17N52134",
   "jurisdiction": "FR",
-  "score": 0,
+  "score": 45.0,
   "status": "Réunion de commission",
   "tags": [
    "pesticides",
@@ -13453,10 +13560,12 @@
    "next_step": null,
    "updated": "2026-06-10"
   },
-  "entities": [],
+  "entities": [
+   "thales"
+  ],
   "id": "DLR5L17N54254",
   "jurisdiction": "FR",
-  "score": 0,
+  "score": 31.0,
   "status": "Réunion de commission",
   "tags": [
    "defense"
@@ -13489,10 +13598,13 @@
    "next_step": null,
    "updated": "2026-06-10"
   },
-  "entities": [],
+  "entities": [
+   "airbus",
+   "thales"
+  ],
   "id": "DLR5L17N54458",
   "jurisdiction": "FR",
-  "score": 0,
+  "score": 61.0,
   "status": "Dépôt de rapport",
   "tags": [
    "defense",
@@ -13509,10 +13621,12 @@
    "next_step": null,
    "updated": "2026-06-10"
   },
-  "entities": [],
+  "entities": [
+   "vinci"
+  ],
   "id": "DLR5L17N54457",
   "jurisdiction": "FR",
-  "score": 0,
+  "score": 31.0,
   "status": "Dépôt de rapport",
   "tags": [
    "btp",
@@ -13546,10 +13660,12 @@
    "next_step": null,
    "updated": "2026-06-09"
   },
-  "entities": [],
+  "entities": [
+   "thales"
+  ],
   "id": "DLR5L17N54449",
   "jurisdiction": "FR",
-  "score": 0,
+  "score": 46.0,
   "status": "Renvoi en commission au fond",
   "tags": [
    "defense"
@@ -14015,10 +14131,12 @@
    "next_step": null,
    "updated": "2026-06-08"
   },
-  "entities": [],
+  "entities": [
+   "thales"
+  ],
   "id": "DLR5L17N54417",
   "jurisdiction": "FR",
-  "score": 0,
+  "score": 30.0,
   "status": "Renvoi en commission au fond",
   "tags": [
    "finance"
@@ -14248,10 +14366,12 @@
    "next_step": null,
    "updated": "2026-06-03"
   },
-  "entities": [],
+  "entities": [
+   "thales"
+  ],
   "id": "DLR5L17N54398",
   "jurisdiction": "FR",
-  "score": 0,
+  "score": 30.0,
   "status": "Dépôt de rapport",
   "tags": [],
   "title": "Proposer un accord économique bilatéral entre la France et la République démocratique du Congo",
@@ -14357,10 +14477,12 @@
    "next_step": null,
    "updated": "2026-06-03"
   },
-  "entities": [],
+  "entities": [
+   "totalenergies"
+  ],
   "id": "DLR5L17N54456",
   "jurisdiction": "FR",
-  "score": 0,
+  "score": 61.0,
   "status": "Renvoi en commission au fond",
   "tags": [
    "energie"
@@ -14395,10 +14517,12 @@
    "next_step": null,
    "updated": "2026-06-02"
   },
-  "entities": [],
+  "entities": [
+   "thales"
+  ],
   "id": "DLR5L17N54396",
   "jurisdiction": "FR",
-  "score": 0,
+  "score": 30.0,
   "status": "Renvoi préalable",
   "tags": [],
   "title": "Interdire l’importation et l’exportation des trophées de chasse d’espèces protégées en France et dans l’Union européenne",
@@ -14504,10 +14628,12 @@
    "next_step": null,
    "updated": "2026-05-29"
   },
-  "entities": [],
+  "entities": [
+   "vinci"
+  ],
   "id": "DLR5L17N54144",
   "jurisdiction": "FR",
-  "score": 0,
+  "score": 31.0,
   "status": "Renvoi en commission au fond",
   "tags": [
    "btp"
@@ -14663,10 +14789,12 @@
    "next_step": null,
    "updated": "2026-05-28"
   },
-  "entities": [],
+  "entities": [
+   "vinci"
+  ],
   "id": "DLR5L17N54149",
   "jurisdiction": "FR",
-  "score": 0,
+  "score": 46.0,
   "status": "Réunion de commission",
   "tags": [
    "btp"
@@ -14682,10 +14810,12 @@
    "next_step": null,
    "updated": "2026-05-27"
   },
-  "entities": [],
+  "entities": [
+   "totalenergies"
+  ],
   "id": "DLR5L17N54371",
   "jurisdiction": "FR",
-  "score": 0,
+  "score": 61.0,
   "status": "1er dépôt d'une initiative.",
   "tags": [
    "climat",
@@ -14753,10 +14883,12 @@
    "next_step": null,
    "updated": "2026-05-27"
   },
-  "entities": [],
+  "entities": [
+   "totalenergies"
+  ],
   "id": "DLR5L17N54374",
   "jurisdiction": "FR",
-  "score": 0,
+  "score": 61.0,
   "status": "Renvoi en commission au fond",
   "tags": [
    "energie"
@@ -14867,7 +14999,7 @@
   ],
   "id": "DLR5L17N54377",
   "jurisdiction": "FR",
-  "score": 20.0,
+  "score": 65.0,
   "status": "Renvoi en commission au fond",
   "tags": [
    "energie",
@@ -15008,10 +15140,12 @@
    "next_step": null,
    "updated": "2026-05-26"
   },
-  "entities": [],
+  "entities": [
+   "thales"
+  ],
   "id": "DLR5L17N54358",
   "jurisdiction": "FR",
-  "score": 0,
+  "score": 31.0,
   "status": "Renvoi en commission au fond",
   "tags": [
    "defense"
@@ -15148,10 +15282,12 @@
    "next_step": null,
    "updated": "2026-05-21"
   },
-  "entities": [],
+  "entities": [
+   "thales"
+  ],
   "id": "DLR5L17N54345",
   "jurisdiction": "FR",
-  "score": 0,
+  "score": 30.0,
   "status": "Renvoi en commission au fond",
   "tags": [
    "finance"
@@ -15239,11 +15375,12 @@
   },
   "entities": [
    "bayer",
-   "credit-agricole"
+   "credit-agricole",
+   "totalenergies"
   ],
   "id": "DLR5L17N53140",
   "jurisdiction": "FR",
-  "score": 20.0,
+  "score": 61.0,
   "status": "Réunion de commission",
   "tags": [
    "agriculture",
@@ -15332,10 +15469,12 @@
    "next_step": null,
    "updated": "2026-05-15"
   },
-  "entities": [],
+  "entities": [
+   "thales"
+  ],
   "id": "DLR5L17N53192",
   "jurisdiction": "FR",
-  "score": 0,
+  "score": 30.0,
   "status": "Promulgation d'une loi",
   "tags": [],
   "title": "Faciliter l’exercice en France des médecins diplômés au Royaume-Uni avant le Brexit",
@@ -15402,10 +15541,12 @@
    "next_step": null,
    "updated": "2026-05-13"
   },
-  "entities": [],
+  "entities": [
+   "thales"
+  ],
   "id": "DLR5L17N54289",
   "jurisdiction": "FR",
-  "score": 0,
+  "score": 45.0,
   "status": "Retrait d'une initiative",
   "tags": [
    "finance"
@@ -15704,10 +15845,12 @@
    "next_step": null,
    "updated": "2026-05-12"
   },
-  "entities": [],
+  "entities": [
+   "bayer"
+  ],
   "id": "DLR5L17N54304",
   "jurisdiction": "FR",
-  "score": 0,
+  "score": 30.0,
   "status": "Renvoi en commission au fond",
   "tags": [
    "fiscalite"
@@ -15740,10 +15883,12 @@
    "next_step": null,
    "updated": "2026-05-12"
   },
-  "entities": [],
+  "entities": [
+   "bayer"
+  ],
   "id": "DLR5L17N54305",
   "jurisdiction": "FR",
-  "score": 0,
+  "score": 30.0,
   "status": "Renvoi en commission au fond",
   "tags": [],
   "title": "Garantir aux enfants placés le bénéfice des prestations familiales",
@@ -15910,10 +16055,12 @@
    "next_step": null,
    "updated": "2026-05-07"
   },
-  "entities": [],
+  "entities": [
+   "thales"
+  ],
   "id": "DLR5L17N54285",
   "jurisdiction": "FR",
-  "score": 0,
+  "score": 30.0,
   "status": "Renvoi en commission au fond",
   "tags": [],
   "title": "La souveraineté de la France",
@@ -16012,10 +16159,12 @@
    "next_step": null,
    "updated": "2026-05-06"
   },
-  "entities": [],
+  "entities": [
+   "thales"
+  ],
   "id": "DLR5L17N53936",
   "jurisdiction": "FR",
-  "score": 0,
+  "score": 30.0,
   "status": "Renvoi en commission au fond",
   "tags": [],
   "title": "Proposition de loi visant à lutter contre l’entrisme islamiste en France",
@@ -16029,10 +16178,12 @@
    "next_step": null,
    "updated": "2026-05-06"
   },
-  "entities": [],
+  "entities": [
+   "thales"
+  ],
   "id": "DLR5L17N53075",
   "jurisdiction": "FR",
-  "score": 0,
+  "score": 46.0,
   "status": "Réunion de commission",
   "tags": [
    "defense"
@@ -16201,10 +16352,12 @@
    "next_step": null,
    "updated": "2026-05-04"
   },
-  "entities": [],
+  "entities": [
+   "thales"
+  ],
   "id": "DLR5L17N54276",
   "jurisdiction": "FR",
-  "score": 0,
+  "score": 30.0,
   "status": "Dépôt de rapport",
   "tags": [],
   "title": "L’évolution du pouvoir d’achat en France depuis 2017 au regard des indicateurs de prix et de consommation",
@@ -16241,7 +16394,7 @@
   ],
   "id": "DLR5L17N53540",
   "jurisdiction": "FR",
-  "score": 20.0,
+  "score": 65.0,
   "status": "Renvoi en commission au fond",
   "tags": [
    "energie",
@@ -16258,10 +16411,13 @@
    "next_step": null,
    "updated": "2026-04-30"
   },
-  "entities": [],
+  "entities": [
+   "airbus",
+   "thales"
+  ],
   "id": "DLR5L17N54257",
   "jurisdiction": "FR",
-  "score": 0,
+  "score": 45.0,
   "status": "Dépôt de rapport",
   "tags": [],
   "title": "DOSSIER : rapport d'information déposé en application de l'article 29 du règlement au nom des délégués de l'Assemblée nationale à l'Assemblée parlementaire du conseil de l'Europe sur l’activité de celle-ci au cours de la première partie de sa session ordinaire de 2026",
@@ -16309,10 +16465,12 @@
    "next_step": null,
    "updated": "2026-04-29"
   },
-  "entities": [],
+  "entities": [
+   "totalenergies"
+  ],
   "id": "DLR5L17N54252",
   "jurisdiction": "FR",
-  "score": 0,
+  "score": 61.0,
   "status": "1er dépôt d'une initiative.",
   "tags": [
    "energie",
@@ -16329,10 +16487,12 @@
    "next_step": null,
    "updated": "2026-04-29"
   },
-  "entities": [],
+  "entities": [
+   "thales"
+  ],
   "id": "DLR5L17N54251",
   "jurisdiction": "FR",
-  "score": 0,
+  "score": 30.0,
   "status": "Renvoi en commission au fond",
   "tags": [],
   "title": "L’accumulation et la fuite de données personnelles en France, leurs conséquences sur les libertés publiques et les responsabilités des politiques publiques en matière de gestion et de sécurisation des données",
@@ -16397,10 +16557,12 @@
    "next_step": null,
    "updated": "2026-04-29"
   },
-  "entities": [],
+  "entities": [
+   "thales"
+  ],
   "id": "DLR5L17N53984",
   "jurisdiction": "FR",
-  "score": 0,
+  "score": 30.0,
   "status": "Dépôt de rapport",
   "tags": [],
   "title": "Proposition de loi consacrant une garantie à l'accès au compte bancaire pour les Françaises et les Français résidant hors de France",
@@ -16465,10 +16627,12 @@
    "next_step": null,
    "updated": "2026-04-28"
   },
-  "entities": [],
+  "entities": [
+   "totalenergies"
+  ],
   "id": "DLR5L17N54238",
   "jurisdiction": "FR",
-  "score": 0,
+  "score": 61.0,
   "status": "Renvoi en commission au fond",
   "tags": [
    "energie"
@@ -16728,10 +16892,13 @@
    "next_step": null,
    "updated": "2026-04-28"
   },
-  "entities": [],
+  "entities": [
+   "thales",
+   "totalenergies"
+  ],
   "id": "DLR5L17N54247",
   "jurisdiction": "FR",
-  "score": 0,
+  "score": 61.0,
   "status": "Renvoi en commission au fond",
   "tags": [
    "climat"
@@ -16747,10 +16914,13 @@
    "next_step": null,
    "updated": "2026-04-28"
   },
-  "entities": [],
+  "entities": [
+   "thales",
+   "totalenergies"
+  ],
   "id": "DLR5L17N54230",
   "jurisdiction": "FR",
-  "score": 0,
+  "score": 61.0,
   "status": "Renvoi en commission au fond",
   "tags": [
    "energie"
@@ -16785,10 +16955,12 @@
    "next_step": null,
    "updated": "2026-04-28"
   },
-  "entities": [],
+  "entities": [
+   "totalenergies"
+  ],
   "id": "DLR5L17N54250",
   "jurisdiction": "FR",
-  "score": 0,
+  "score": 61.0,
   "status": "Renvoi en commission au fond",
   "tags": [
    "energie"
@@ -16838,10 +17010,12 @@
    "next_step": null,
    "updated": "2026-04-28"
   },
-  "entities": [],
+  "entities": [
+   "thales"
+  ],
   "id": "DLR5L17N54241",
   "jurisdiction": "FR",
-  "score": 0,
+  "score": 30.0,
   "status": "Renvoi en commission au fond",
   "tags": [],
   "title": "visant à la création d’une juridiction spécialisée à Fort-de-France et à la sécurisation foncière en Outre-mer, notamment en Polynésie française",
@@ -17051,10 +17225,12 @@
    "next_step": null,
    "updated": "2026-04-21"
   },
-  "entities": [],
+  "entities": [
+   "thales"
+  ],
   "id": "DLR5L17N53259",
   "jurisdiction": "FR",
-  "score": 0,
+  "score": 30.0,
   "status": "Promulgation d'une loi",
   "tags": [],
   "title": "L’approbation de l’accord entre le Gouvernement de la République française et l’Agence spatiale européenne concernant les installations de l’Agence spatiale européenne en France",
@@ -17243,10 +17419,12 @@
    "next_step": null,
    "updated": "2026-04-15"
   },
-  "entities": [],
+  "entities": [
+   "thales"
+  ],
   "id": "DLR5L17N54159",
   "jurisdiction": "FR",
-  "score": 0,
+  "score": 30.0,
   "status": "Dépôt de rapport",
   "tags": [],
   "title": "L’influence de la France dans un monde postcolonial",
@@ -17296,10 +17474,12 @@
    "next_step": null,
    "updated": "2026-04-14"
   },
-  "entities": [],
+  "entities": [
+   "vinci"
+  ],
   "id": "DLR5L17N54127",
   "jurisdiction": "FR",
-  "score": 0,
+  "score": 31.0,
   "status": "Renvoi en commission au fond",
   "tags": [
    "btp"
@@ -17332,10 +17512,12 @@
    "next_step": null,
    "updated": "2026-04-14"
   },
-  "entities": [],
+  "entities": [
+   "bayer"
+  ],
   "id": "DLR5L17N54146",
   "jurisdiction": "FR",
-  "score": 0,
+  "score": 30.0,
   "status": "Renvoi en commission au fond",
   "tags": [],
   "title": "Permettre au titulaire d’un compte personnel de formation de céder ses droits au bénéfice d’un demandeur d’emploi de 18 à 30 ans",
@@ -17349,10 +17531,12 @@
    "next_step": null,
    "updated": "2026-04-14"
   },
-  "entities": [],
+  "entities": [
+   "totalenergies"
+  ],
   "id": "DLR5L17N54150",
   "jurisdiction": "FR",
-  "score": 0,
+  "score": 61.0,
   "status": "Renvoi en commission au fond",
   "tags": [
    "energie"
@@ -17819,11 +18003,12 @@
    "updated": "2026-04-14"
   },
   "entities": [
-   "bouygues"
+   "bouygues",
+   "vinci"
   ],
   "id": "DLR5L17N54124",
   "jurisdiction": "FR",
-  "score": 20.0,
+  "score": 31.0,
   "status": "Renvoi en commission au fond",
   "tags": [
    "telecoms",
@@ -17931,10 +18116,12 @@
    "next_step": null,
    "updated": "2026-04-13"
   },
-  "entities": [],
+  "entities": [
+   "thales"
+  ],
   "id": "DLR5L17N54175",
   "jurisdiction": "FR",
-  "score": 0,
+  "score": 30.0,
   "status": "Renvoi en commission au fond",
   "tags": [],
   "title": "Proposition de loi visant à lever les obstacles à l'intégration des étrangers en France",
@@ -18037,10 +18224,12 @@
    "next_step": null,
    "updated": "2026-04-09"
   },
-  "entities": [],
+  "entities": [
+   "bayer"
+  ],
   "id": "DLR5L17N53772",
   "jurisdiction": "FR",
-  "score": 0,
+  "score": 30.0,
   "status": "Retrait d'une initiative",
   "tags": [],
   "title": "Garantir le bénéfice des prestations familiales aux enfants placés",
@@ -18054,10 +18243,12 @@
    "next_step": null,
    "updated": "2026-04-09"
   },
-  "entities": [],
+  "entities": [
+   "totalenergies"
+  ],
   "id": "DLR5L17N53067",
   "jurisdiction": "FR",
-  "score": 0,
+  "score": 61.0,
   "status": "Renvoi en commission au fond",
   "tags": [
    "climat"
@@ -18158,10 +18349,12 @@
    "next_step": null,
    "updated": "2026-04-09"
   },
-  "entities": [],
+  "entities": [
+   "totalenergies"
+  ],
   "id": "DLR5L17N53771",
   "jurisdiction": "FR",
-  "score": 0,
+  "score": 61.0,
   "status": "Discussion en séance publique",
   "tags": [
    "energie"
@@ -18383,10 +18576,12 @@
    "next_step": null,
    "updated": "2026-04-07"
   },
-  "entities": [],
+  "entities": [
+   "thales"
+  ],
   "id": "DLR5L17N52429",
   "jurisdiction": "FR",
-  "score": 0,
+  "score": 30.0,
   "status": "Promulgation d'une loi",
   "tags": [],
   "title": "Projet de loi autorisant l’approbation de la convention de coopération judiciaire internationale entre la France et le Myanmar",
@@ -18613,10 +18808,12 @@
    "next_step": null,
    "updated": "2026-04-01"
   },
-  "entities": [],
+  "entities": [
+   "thales"
+  ],
   "id": "DLR5L17N54037",
   "jurisdiction": "FR",
-  "score": 0,
+  "score": 46.0,
   "status": "Dépôt de rapport",
   "tags": [
    "defense"
@@ -18703,10 +18900,12 @@
    "next_step": null,
    "updated": "2026-03-27"
   },
-  "entities": [],
+  "entities": [
+   "totalenergies"
+  ],
   "id": "DLR5L17N54002",
   "jurisdiction": "FR",
-  "score": 0,
+  "score": 61.0,
   "status": "Renvoi en commission au fond",
   "tags": [
    "energie"
@@ -18843,10 +19042,12 @@
    "next_step": null,
    "updated": "2026-03-27"
   },
-  "entities": [],
+  "entities": [
+   "bayer"
+  ],
   "id": "DLR5L17N54012",
   "jurisdiction": "FR",
-  "score": 0,
+  "score": 30.0,
   "status": "Renvoi en commission au fond",
   "tags": [],
   "title": "Garantir l’effectivité du congé de représentation au bénéfice des associations représentant les personnes accueillies ou ayant été accueillies en protection de l’enfance",
@@ -18947,10 +19148,12 @@
    "next_step": null,
    "updated": "2026-03-27"
   },
-  "entities": [],
+  "entities": [
+   "thales"
+  ],
   "id": "DLR5L17N53672",
   "jurisdiction": "FR",
-  "score": 0,
+  "score": 31.0,
   "status": "Renvoi en commission au fond",
   "tags": [
    "defense"
@@ -19072,10 +19275,12 @@
    "next_step": null,
    "updated": "2026-03-26"
   },
-  "entities": [],
+  "entities": [
+   "chevron"
+  ],
   "id": "DLR5L17N51285",
   "jurisdiction": "FR",
-  "score": 0,
+  "score": 30.0,
   "status": "Réunion de commission",
   "tags": [
    "btp"
@@ -19091,10 +19296,12 @@
    "next_step": null,
    "updated": "2026-03-26"
   },
-  "entities": [],
+  "entities": [
+   "totalenergies"
+  ],
   "id": "DLR5L17N53715",
   "jurisdiction": "FR",
-  "score": 0,
+  "score": 61.0,
   "status": "Renvoi en commission au fond",
   "tags": [
    "climat"
@@ -19163,10 +19370,12 @@
    "next_step": null,
    "updated": "2026-03-25"
   },
-  "entities": [],
+  "entities": [
+   "thales"
+  ],
   "id": "DLR5L17N53978",
   "jurisdiction": "FR",
-  "score": 0,
+  "score": 31.0,
   "status": "Dépôt de rapport",
   "tags": [
    "defense"
@@ -19309,10 +19518,12 @@
    "next_step": null,
    "updated": "2026-03-13"
   },
-  "entities": [],
+  "entities": [
+   "totalenergies"
+  ],
   "id": "DLR5L17N53938",
   "jurisdiction": "FR",
-  "score": 0,
+  "score": 61.0,
   "status": "Renvoi en commission au fond",
   "tags": [
    "energie"
@@ -19432,10 +19643,12 @@
    "next_step": null,
    "updated": "2026-03-06"
   },
-  "entities": [],
+  "entities": [
+   "thales"
+  ],
   "id": "DLR5L17N52561",
   "jurisdiction": "FR",
-  "score": 0,
+  "score": 46.0,
   "status": "Promulgation d'une loi",
   "tags": [
    "defense"
@@ -19644,10 +19857,12 @@
    "next_step": null,
    "updated": "2026-03-03"
   },
-  "entities": [],
+  "entities": [
+   "thales"
+  ],
   "id": "DLR5L17N53867",
   "jurisdiction": "FR",
-  "score": 0,
+  "score": 31.0,
   "status": "Renvoi en commission au fond",
   "tags": [
    "defense"
@@ -19782,10 +19997,12 @@
    "next_step": null,
    "updated": "2026-03-03"
   },
-  "entities": [],
+  "entities": [
+   "vinci"
+  ],
   "id": "DLR5L17N53864",
   "jurisdiction": "FR",
-  "score": 0,
+  "score": 31.0,
   "status": "Renvoi en commission au fond",
   "tags": [
    "btp"
@@ -19801,10 +20018,12 @@
    "next_step": null,
    "updated": "2026-03-03"
   },
-  "entities": [],
+  "entities": [
+   "vinci"
+  ],
   "id": "DLR5L17N53868",
   "jurisdiction": "FR",
-  "score": 0,
+  "score": 31.0,
   "status": "Renvoi en commission au fond",
   "tags": [
    "btp"
@@ -19924,10 +20143,12 @@
    "next_step": null,
    "updated": "2026-03-03"
   },
-  "entities": [],
+  "entities": [
+   "totalenergies"
+  ],
   "id": "DLR5L17N53874",
   "jurisdiction": "FR",
-  "score": 0,
+  "score": 61.0,
   "status": "Renvoi en commission au fond",
   "tags": [
    "agriculture",
@@ -20066,10 +20287,12 @@
    "next_step": null,
    "updated": "2026-02-26"
   },
-  "entities": [],
+  "entities": [
+   "totalenergies"
+  ],
   "id": "DLR5L17N53888",
   "jurisdiction": "FR",
-  "score": 0,
+  "score": 61.0,
   "status": "Renvoi en commission au fond",
   "tags": [
    "climat",
@@ -20120,10 +20343,12 @@
    "next_step": null,
    "updated": "2026-02-25"
   },
-  "entities": [],
+  "entities": [
+   "thales"
+  ],
   "id": "DLR5L17N53836",
   "jurisdiction": "FR",
-  "score": 0,
+  "score": 30.0,
   "status": "1er dépôt d'une initiative.",
   "tags": [],
   "title": "Renforcer et pérenniser la diplomatie féministe de la France face à la montée des mouvements anti-droits",
@@ -20343,10 +20568,12 @@
    "next_step": null,
    "updated": "2026-02-20"
   },
-  "entities": [],
+  "entities": [
+   "thales"
+  ],
   "id": "DLR5L17N53820",
   "jurisdiction": "FR",
-  "score": 0,
+  "score": 30.0,
   "status": "Renvoi en commission au fond",
   "tags": [],
   "title": "Les dépendances critiques de la France à l’égard des États-Unis",
@@ -20590,7 +20817,7 @@
   ],
   "id": "DLR5L17N53788",
   "jurisdiction": "FR",
-  "score": 31.0,
+  "score": 61.0,
   "status": "Dépôt de rapport",
   "tags": [
    "energie"
@@ -20623,10 +20850,12 @@
    "next_step": null,
    "updated": "2026-02-17"
   },
-  "entities": [],
+  "entities": [
+   "vinci"
+  ],
   "id": "DLR5L17N53764",
   "jurisdiction": "FR",
-  "score": 0,
+  "score": 31.0,
   "status": "Renvoi en commission au fond",
   "tags": [
    "btp"
@@ -21196,10 +21425,12 @@
    "next_step": null,
    "updated": "2026-02-11"
   },
-  "entities": [],
+  "entities": [
+   "vinci"
+  ],
   "id": "DLR5L17N53420",
   "jurisdiction": "FR",
-  "score": 0,
+  "score": 31.0,
   "status": "Réunion de commission",
   "tags": [
    "btp"
@@ -21249,10 +21480,12 @@
    "next_step": null,
    "updated": "2026-02-11"
   },
-  "entities": [],
+  "entities": [
+   "thales"
+  ],
   "id": "DLR5L17N52119",
   "jurisdiction": "FR",
-  "score": 0,
+  "score": 30.0,
   "status": "Dépôt de rapport",
   "tags": [],
   "title": "Mission d’information sur les causes et conséquences de la baisse de la natalité en France",
@@ -21334,10 +21567,12 @@
    "next_step": null,
    "updated": "2026-02-11"
   },
-  "entities": [],
+  "entities": [
+   "thales"
+  ],
   "id": "DLR5L17N53740",
   "jurisdiction": "FR",
-  "score": 0,
+  "score": 30.0,
   "status": "Dépôt de rapport",
   "tags": [],
   "title": "L’évaluation de la loi n° 2022-296 du 2 mars 2022 visant à démocratiser le sport en France",
@@ -21695,10 +21930,12 @@
    "next_step": null,
    "updated": "2026-02-05"
   },
-  "entities": [],
+  "entities": [
+   "thales"
+  ],
   "id": "DLR5L17N53729",
   "jurisdiction": "FR",
-  "score": 0,
+  "score": 30.0,
   "status": "Renvoi en commission au fond",
   "tags": [],
   "title": "Les implications en France de l’affaire Epstein",
@@ -21992,10 +22229,13 @@
    "next_step": null,
    "updated": "2026-02-04"
   },
-  "entities": [],
+  "entities": [
+   "thales",
+   "totalenergies"
+  ],
   "id": "DLR5L17N53014",
   "jurisdiction": "FR",
-  "score": 0,
+  "score": 61.0,
   "status": "Réunion de commission",
   "tags": [
    "climat"
@@ -22219,10 +22459,12 @@
    "next_step": null,
    "updated": "2026-02-03"
   },
-  "entities": [],
+  "entities": [
+   "thales"
+  ],
   "id": "DLR5L17N51777",
   "jurisdiction": "FR",
-  "score": 0,
+  "score": 31.0,
   "status": "Réunion de commission",
   "tags": [
    "defense"
@@ -22416,10 +22658,12 @@
    "next_step": null,
    "updated": "2026-01-29"
   },
-  "entities": [],
+  "entities": [
+   "thales"
+  ],
   "id": "DLR5L17N50794",
   "jurisdiction": "FR",
-  "score": 0,
+  "score": 30.0,
   "status": "Promulgation d'une loi",
   "tags": [],
   "title": "Projet de loi autorisant l’approbation de l’accord entre le Gouvernement de la République française et l’Observatoire du réseau d’antennes d’un kilomètre carré (SKAO) relatif à l’adhésion de la France à l’Observatoire",
@@ -22605,10 +22849,12 @@
    "next_step": null,
    "updated": "2026-01-27"
   },
-  "entities": [],
+  "entities": [
+   "totalenergies"
+  ],
   "id": "DLR5L17N53670",
   "jurisdiction": "FR",
-  "score": 0,
+  "score": 45.0,
   "status": "Renvoi en commission au fond",
   "tags": [],
   "title": "Renforcer la vigilance des partis et mouvements politiques face aux stratégies d’entrisme contraires aux principes de la République",
@@ -22919,10 +23165,12 @@
    "next_step": null,
    "updated": "2026-01-27"
   },
-  "entities": [],
+  "entities": [
+   "thales"
+  ],
   "id": "DLR5L17N53360",
   "jurisdiction": "FR",
-  "score": 0,
+  "score": 45.0,
   "status": "Réunion de commission",
   "tags": [
    "numerique"
@@ -23202,10 +23450,12 @@
    "next_step": null,
    "updated": "2026-01-20"
   },
-  "entities": [],
+  "entities": [
+   "vinci"
+  ],
   "id": "DLR5L17N53292",
   "jurisdiction": "FR",
-  "score": 0,
+  "score": 31.0,
   "status": "Renvoi en commission au fond",
   "tags": [
    "btp"
@@ -23238,10 +23488,12 @@
    "next_step": null,
    "updated": "2026-01-20"
   },
-  "entities": [],
+  "entities": [
+   "thales"
+  ],
   "id": "DLR5L17N53596",
   "jurisdiction": "FR",
-  "score": 0,
+  "score": 45.0,
   "status": "1er dépôt d'une initiative.",
   "tags": [],
   "title": "Organiser le retrait de la France de l’Organisation du Traité de l’Atlantique Nord, en commençant par son commandement intégré",
@@ -23255,10 +23507,12 @@
    "next_step": null,
    "updated": "2026-01-19"
   },
-  "entities": [],
+  "entities": [
+   "thales"
+  ],
   "id": "DLR5L17N53576",
   "jurisdiction": "FR",
-  "score": 0,
+  "score": 30.0,
   "status": "1er dépôt d'une initiative.",
   "tags": [],
   "title": "Inscrire le Corps des gardiens de la révolution islamique sur la liste européenne des organisations terroristes et reconnaître au nom de la France l’opposition iranienne comme le seul interlocuteur légitime pour l’avenir de l’Iran",
@@ -23414,10 +23668,12 @@
    "next_step": null,
    "updated": "2026-01-13"
   },
-  "entities": [],
+  "entities": [
+   "totalenergies"
+  ],
   "id": "DLR5L17N53529",
   "jurisdiction": "FR",
-  "score": 0,
+  "score": 61.0,
   "status": "Renvoi en commission au fond",
   "tags": [
    "climat"
@@ -23522,10 +23778,12 @@
    "next_step": null,
    "updated": "2026-01-13"
   },
-  "entities": [],
+  "entities": [
+   "vinci"
+  ],
   "id": "DLR5L17N53521",
   "jurisdiction": "FR",
-  "score": 0,
+  "score": 31.0,
   "status": "Renvoi en commission au fond",
   "tags": [
    "btp"
@@ -23594,10 +23852,12 @@
    "next_step": null,
    "updated": "2026-01-12"
   },
-  "entities": [],
+  "entities": [
+   "totalenergies"
+  ],
   "id": "DLR5L17N52803",
   "jurisdiction": "FR",
-  "score": 0,
+  "score": 61.0,
   "status": "Décision",
   "tags": [
    "climat"
@@ -23787,10 +24047,12 @@
    "next_step": null,
    "updated": "2026-01-05"
   },
-  "entities": [],
+  "entities": [
+   "thales"
+  ],
   "id": "DLR5L17N53476",
   "jurisdiction": "FR",
-  "score": 0,
+  "score": 31.0,
   "status": "Renvoi en commission au fond",
   "tags": [
    "defense"
@@ -23806,10 +24068,12 @@
    "next_step": null,
    "updated": "2026-01-05"
   },
-  "entities": [],
+  "entities": [
+   "totalenergies"
+  ],
   "id": "DLR5L17N53762",
   "jurisdiction": "FR",
-  "score": 0,
+  "score": 61.0,
   "status": "Renvoi en commission au fond",
   "tags": [
    "energie"
@@ -23949,10 +24213,12 @@
    "next_step": null,
    "updated": "2025-12-23"
   },
-  "entities": [],
+  "entities": [
+   "thales"
+  ],
   "id": "DLR5L17N53400",
   "jurisdiction": "FR",
-  "score": 0,
+  "score": 30.0,
   "status": "Renvoi en commission au fond",
   "tags": [],
   "title": "Créer un registre national des sépultures des soldats mort pour la France dispersées dans les cimetières communaux",
@@ -24087,10 +24353,12 @@
    "next_step": null,
    "updated": "2025-12-23"
   },
-  "entities": [],
+  "entities": [
+   "totalenergies"
+  ],
   "id": "DLR5L17N53410",
   "jurisdiction": "FR",
-  "score": 0,
+  "score": 45.0,
   "status": "Renvoi en commission au fond",
   "tags": [
    "transport"
@@ -24261,10 +24529,12 @@
    "next_step": null,
    "updated": "2025-12-23"
   },
-  "entities": [],
+  "entities": [
+   "bayer"
+  ],
   "id": "DLR5L17N53405",
   "jurisdiction": "FR",
-  "score": 0,
+  "score": 30.0,
   "status": "Renvoi en commission au fond",
   "tags": [],
   "title": "Élargir le bénéfice de la protection fonctionnelle aux forces de sécurité victimes d'atteintes involontaires dans le cadre de délits routiers",
@@ -24278,10 +24548,12 @@
    "next_step": null,
    "updated": "2025-12-23"
   },
-  "entities": [],
+  "entities": [
+   "thales"
+  ],
   "id": "DLR5L17N53393",
   "jurisdiction": "FR",
-  "score": 0,
+  "score": 31.0,
   "status": "Renvoi en commission au fond",
   "tags": [
    "defense"
@@ -24689,10 +24961,12 @@
    "next_step": null,
    "updated": "2025-12-18"
   },
-  "entities": [],
+  "entities": [
+   "totalenergies"
+  ],
   "id": "DLR5L17N53373",
   "jurisdiction": "FR",
-  "score": 0,
+  "score": 61.0,
   "status": "Dépôt de rapport",
   "tags": [
    "climat"
@@ -24742,10 +25016,12 @@
    "next_step": null,
    "updated": "2025-12-17"
   },
-  "entities": [],
+  "entities": [
+   "bouygues"
+  ],
   "id": "DLR5L17N52729",
   "jurisdiction": "FR",
-  "score": 0,
+  "score": 30.0,
   "status": "Réunion de commission",
   "tags": [
    "pesticides",
@@ -24763,10 +25039,12 @@
    "next_step": null,
    "updated": "2025-12-17"
   },
-  "entities": [],
+  "entities": [
+   "thales"
+  ],
   "id": "DLR5L17N53365",
   "jurisdiction": "FR",
-  "score": 0,
+  "score": 30.0,
   "status": "Dépôt de rapport",
   "tags": [],
   "title": "Mission d'information sur les contrôles des produits importés en France dans le cadre des politiques de réciprocité",
@@ -25196,10 +25474,12 @@
    "next_step": null,
    "updated": "2025-12-10"
   },
-  "entities": [],
+  "entities": [
+   "totalenergies"
+  ],
   "id": "DLR5L17N53010",
   "jurisdiction": "FR",
-  "score": 0,
+  "score": 61.0,
   "status": "Décision",
   "tags": [
    "climat",
@@ -25216,10 +25496,12 @@
    "next_step": null,
    "updated": "2025-12-10"
   },
-  "entities": [],
+  "entities": [
+   "thales"
+  ],
   "id": "DLR5L17N52420",
   "jurisdiction": "FR",
-  "score": 0,
+  "score": 30.0,
   "status": "Dépôt de rapport",
   "tags": [],
   "title": "Commission d'enquête sur les liens existants entre les représentants de mouvements politiques et des organisations et réseaux soutenant l’action terroriste ou propageant l’idéologie islamiste",
@@ -25358,10 +25640,12 @@
    "next_step": null,
    "updated": "2025-12-10"
   },
-  "entities": [],
+  "entities": [
+   "thales"
+  ],
   "id": "DLR5L17N53012",
   "jurisdiction": "FR",
-  "score": 0,
+  "score": 31.0,
   "status": "Réunion de commission",
   "tags": [
    "defense"
@@ -25672,10 +25956,12 @@
    "next_step": null,
    "updated": "2025-12-09"
   },
-  "entities": [],
+  "entities": [
+   "vinci"
+  ],
   "id": "DLR5L17N53320",
   "jurisdiction": "FR",
-  "score": 0,
+  "score": 31.0,
   "status": "Renvoi en commission au fond",
   "tags": [
    "btp"
@@ -25691,10 +25977,12 @@
    "next_step": null,
    "updated": "2025-12-09"
   },
-  "entities": [],
+  "entities": [
+   "totalenergies"
+  ],
   "id": "DLR5L17N53340",
   "jurisdiction": "FR",
-  "score": 0,
+  "score": 45.0,
   "status": "Renvoi en commission au fond",
   "tags": [],
   "title": "Réintroduire l’exonération totale des heures supplémentaires",
@@ -25909,10 +26197,12 @@
    "next_step": null,
    "updated": "2025-12-03"
   },
-  "entities": [],
+  "entities": [
+   "thales"
+  ],
   "id": "DLR5L17N52716",
   "jurisdiction": "FR",
-  "score": 0,
+  "score": 31.0,
   "status": "Décision",
   "tags": [
    "numerique",
@@ -26280,10 +26570,12 @@
    "next_step": null,
    "updated": "2025-12-02"
   },
-  "entities": [],
+  "entities": [
+   "thales"
+  ],
   "id": "DLR5L17N53274",
   "jurisdiction": "FR",
-  "score": 0,
+  "score": 30.0,
   "status": "Renvoi en commission au fond",
   "tags": [],
   "title": "Supprimer l’envoi postal de la propagande électorale pour les élections législatives des Français établis hors de France",
@@ -26558,10 +26850,12 @@
    "next_step": null,
    "updated": "2025-12-01"
   },
-  "entities": [],
+  "entities": [
+   "thales"
+  ],
   "id": "DLR5L17N53255",
   "jurisdiction": "FR",
-  "score": 0,
+  "score": 30.0,
   "status": "Renvoi en commission au fond",
   "tags": [],
   "title": "Garantir le droit de vote aux élections locales aux personnes étrangères résidentes en France",
@@ -26592,10 +26886,12 @@
    "next_step": null,
    "updated": "2025-11-28"
   },
-  "entities": [],
+  "entities": [
+   "thales"
+  ],
   "id": "DLR5L17N53233",
   "jurisdiction": "FR",
-  "score": 0,
+  "score": 30.0,
   "status": "Renvoi en commission au fond",
   "tags": [],
   "title": "Garantir le droit de vote et d’éligibilité aux élections locales aux personnes étrangères résidentes en France",
@@ -26697,10 +26993,12 @@
    "next_step": null,
    "updated": "2025-11-27"
   },
-  "entities": [],
+  "entities": [
+   "totalenergies"
+  ],
   "id": "DLR5L17N53228",
   "jurisdiction": "FR",
-  "score": 0,
+  "score": 61.0,
   "status": "Dépôt de rapport",
   "tags": [
    "energie"
@@ -26750,10 +27048,12 @@
    "next_step": null,
    "updated": "2025-11-26"
   },
-  "entities": [],
+  "entities": [
+   "totalenergies"
+  ],
   "id": "DLR5L17N52972",
   "jurisdiction": "FR",
-  "score": 0,
+  "score": 45.0,
   "status": "Réunion de commission",
   "tags": [
    "sante"
@@ -26786,10 +27086,12 @@
    "next_step": null,
    "updated": "2025-11-26"
   },
-  "entities": [],
+  "entities": [
+   "thales"
+  ],
   "id": "DLR5L17N52973",
   "jurisdiction": "FR",
-  "score": 0,
+  "score": 30.0,
   "status": "Réunion de commission",
   "tags": [],
   "title": "Interdire l’importation en France de produits agricoles et denrées alimentaires contenant de l’acétamipride et à abroger la loi visant à lever les contraintes à l’exercice du métier d’agriculteur",
@@ -26894,10 +27196,12 @@
    "next_step": null,
    "updated": "2025-11-26"
   },
-  "entities": [],
+  "entities": [
+   "vinci"
+  ],
   "id": "DLR5L17N51852",
   "jurisdiction": "FR",
-  "score": 0,
+  "score": 31.0,
   "status": "Promulgation d'une loi",
   "tags": [
    "btp"
@@ -26949,10 +27253,12 @@
    "next_step": null,
    "updated": "2025-11-25"
   },
-  "entities": [],
+  "entities": [
+   "thales"
+  ],
   "id": "DLR5L17N53218",
   "jurisdiction": "FR",
-  "score": 0,
+  "score": 30.0,
   "status": "1er dépôt d'une initiative.",
   "tags": [
    "automobile"
@@ -26968,10 +27274,13 @@
    "next_step": null,
    "updated": "2025-11-25"
   },
-  "entities": [],
+  "entities": [
+   "airbus",
+   "thales"
+  ],
   "id": "DLR5L17N53219",
   "jurisdiction": "FR",
-  "score": 0,
+  "score": 45.0,
   "status": "Dépôt de rapport",
   "tags": [],
   "title": "L’activité de l'Assemblée parlementaire du Conseil de l'Europe au cours de la quatrième partie de sa session ordinaire de 2025",
@@ -27055,10 +27364,12 @@
    "next_step": null,
    "updated": "2025-11-24"
   },
-  "entities": [],
+  "entities": [
+   "thales"
+  ],
   "id": "DLR5L17N53232",
   "jurisdiction": "FR",
-  "score": 0,
+  "score": 31.0,
   "status": "Renvoi en commission au fond",
   "tags": [
    "defense",
@@ -27128,10 +27439,12 @@
    "next_step": null,
    "updated": "2025-11-20"
   },
-  "entities": [],
+  "entities": [
+   "thales"
+  ],
   "id": "DLR5L17N53199",
   "jurisdiction": "FR",
-  "score": 0,
+  "score": 30.0,
   "status": "Renvoi en commission au fond",
   "tags": [],
   "title": "Accorder le droit de vote aux élections locales à toutes les personnes étrangères résidant en France",
@@ -27635,10 +27948,12 @@
    "next_step": null,
    "updated": "2025-11-18"
   },
-  "entities": [],
+  "entities": [
+   "vinci"
+  ],
   "id": "DLR5L17N53182",
   "jurisdiction": "FR",
-  "score": 0,
+  "score": 31.0,
   "status": "Renvoi en commission au fond",
   "tags": [
    "btp",
@@ -27655,10 +27970,13 @@
    "next_step": null,
    "updated": "2025-11-18"
   },
-  "entities": [],
+  "entities": [
+   "bouygues",
+   "vinci"
+  ],
   "id": "DLR5L17N53177",
   "jurisdiction": "FR",
-  "score": 0,
+  "score": 31.0,
   "status": "Renvoi en commission au fond",
   "tags": [
    "btp"
@@ -27797,10 +28115,12 @@
    "next_step": null,
    "updated": "2025-11-13"
   },
-  "entities": [],
+  "entities": [
+   "totalenergies"
+  ],
   "id": "DLR5L17N53143",
   "jurisdiction": "FR",
-  "score": 0,
+  "score": 61.0,
   "status": "Renvoi préalable",
   "tags": [
    "climat"
@@ -27833,10 +28153,12 @@
    "next_step": null,
    "updated": "2025-11-13"
   },
-  "entities": [],
+  "entities": [
+   "bayer"
+  ],
   "id": "DLR5L17N53161",
   "jurisdiction": "FR",
-  "score": 0,
+  "score": 30.0,
   "status": "Renvoi en commission au fond",
   "tags": [
    "fiscalite"
@@ -28009,10 +28331,12 @@
    "next_step": null,
    "updated": "2025-11-06"
   },
-  "entities": [],
+  "entities": [
+   "thales"
+  ],
   "id": "DLR5L17N52226",
   "jurisdiction": "FR",
-  "score": 0,
+  "score": 46.0,
   "status": "Promulgation d'une loi",
   "tags": [
    "defense"
@@ -28658,10 +28982,13 @@
    "next_step": null,
    "updated": "2025-10-28"
   },
-  "entities": [],
+  "entities": [
+   "bayer",
+   "totalenergies"
+  ],
   "id": "DLR5L17N53060",
   "jurisdiction": "FR",
-  "score": 0,
+  "score": 61.0,
   "status": "Renvoi en commission au fond",
   "tags": [
    "climat"
@@ -28694,10 +29021,12 @@
    "next_step": null,
    "updated": "2025-10-28"
   },
-  "entities": [],
+  "entities": [
+   "totalenergies"
+  ],
   "id": "DLR5L17N53041",
   "jurisdiction": "FR",
-  "score": 0,
+  "score": 61.0,
   "status": "Renvoi en commission au fond",
   "tags": [
    "climat"
@@ -28766,10 +29095,12 @@
    "next_step": null,
    "updated": "2025-10-28"
   },
-  "entities": [],
+  "entities": [
+   "thales"
+  ],
   "id": "DLR5L17N53054",
   "jurisdiction": "FR",
-  "score": 0,
+  "score": 30.0,
   "status": "Renvoi en commission au fond",
   "tags": [],
   "title": "La souveraineté industrielle de la France et à la protection du secteur stratégique de l’acier",
@@ -28876,10 +29207,12 @@
    "next_step": null,
    "updated": "2025-10-28"
   },
-  "entities": [],
+  "entities": [
+   "thales"
+  ],
   "id": "DLR5L17N53064",
   "jurisdiction": "FR",
-  "score": 0,
+  "score": 30.0,
   "status": "Renvoi en commission au fond",
   "tags": [
    "sante"
@@ -28931,10 +29264,12 @@
    "next_step": null,
    "updated": "2025-10-28"
   },
-  "entities": [],
+  "entities": [
+   "thales"
+  ],
   "id": "DLR5L17N53052",
   "jurisdiction": "FR",
-  "score": 0,
+  "score": 30.0,
   "status": "Renvoi en commission au fond",
   "tags": [
    "finance"
@@ -29090,10 +29425,12 @@
    "next_step": null,
    "updated": "2025-10-27"
   },
-  "entities": [],
+  "entities": [
+   "thales"
+  ],
   "id": "DLR5L17N53035",
   "jurisdiction": "FR",
-  "score": 0,
+  "score": 31.0,
   "status": "Renvoi en commission au fond",
   "tags": [
    "nucleaire",
@@ -29252,10 +29589,12 @@
    "next_step": null,
    "updated": "2025-10-22"
   },
-  "entities": [],
+  "entities": [
+   "totalenergies"
+  ],
   "id": "DLR5L17N53009",
   "jurisdiction": "FR",
-  "score": 0,
+  "score": 61.0,
   "status": "Dépôt de rapport",
   "tags": [
    "climat",
@@ -29722,10 +30061,12 @@
    "next_step": null,
    "updated": "2025-10-14"
   },
-  "entities": [],
+  "entities": [
+   "vinci"
+  ],
   "id": "DLR5L17N52964",
   "jurisdiction": "FR",
-  "score": 0,
+  "score": 46.0,
   "status": "Renvoi en commission au fond",
   "tags": [
    "btp",
@@ -30232,7 +30573,7 @@
   ],
   "id": "eli/dl/doc/B-10-2026-0337",
   "jurisdiction": "EU",
-  "score": 20.0,
+  "score": 65.0,
   "status": "Voté en plénière",
   "tags": [
    "energie",
@@ -31084,7 +31425,7 @@
   ],
   "id": "eli/dl/doc/A-10-2026-0174",
   "jurisdiction": "EU",
-  "score": 20.0,
+  "score": 35.0,
   "status": "Voté en plénière",
   "tags": [
    "transport"
@@ -31143,7 +31484,7 @@
   ],
   "id": "eli/dl/doc/B-10-2026-0338",
   "jurisdiction": "EU",
-  "score": 20.0,
+  "score": 65.0,
   "status": "Voté en plénière",
   "tags": [],
   "title": "Décision demandant à l'Autorité pour les partis politiques européens et les fondations politiques européennes de vérifier si le parti Europe des nations souveraines respecte les conditions énoncées dans le règlement (UE, Euratom) 2025/2445",

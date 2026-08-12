@@ -1,290 +1,450 @@
 [
  {
-  "date": "2026-08-10",
+  "date": "2026-08-12",
   "entity_ids": [
-   "vinci"
+   "microsoft"
   ],
-  "id": "GDELT-entenced-to-8-years-in-prison/",
-  "source": "flaglerlive.com",
+  "id": "GDELT-dents-st-joseph-county-indiana",
+  "source": "wsbt.com",
   "tags": [],
-  "title": "Judge Denies Bond For Flagler Beach Man Accused of Raping Ex",
-  "url": "https://flaglerlive.com/court-roundup-alleged-rapist-denied-bond-csam-collector-sentenced-to-8-years-in-prison/"
+  "title": "St . Joseph County Council listens to TIF proposal for Microsoft project",
+  "url": "https://wsbt.com/news/local/st-joseph-county-council-discusses-microsoft-project-tif-tax-district-am-general-site-millions-dollars-money-entities-economy-officials-plan-community-residents-st-joseph-county-indiana"
+ },
+ {
+  "date": "2026-08-11",
+  "entity_ids": [
+   "bayer"
+  ],
+  "id": "GDELT-einem-jahr-abgeworfen-15837292",
+  "source": "finanzen.net",
+  "tags": [],
+  "title": "DAX 40 - Papier Bayer - Aktie : So viel Gewinn hätte ein Bayer - Investment von vor einem Jahr abgeworfen",
+  "url": "https://www.finanzen.net/nachricht/aktien/dax-40-papier-bayer-aktie-so-viel-gewinn-haette-ein-bayer-investment-von-vor-einem-jahr-abgeworfen-15837292"
+ },
+ {
+  "date": "2026-08-09",
+  "entity_ids": [
+   "chevron"
+  ],
+  "id": "GDELT-/motley-fool-consider-chevron/",
+  "source": "spokesman.com",
+  "tags": [],
+  "title": "Motley Fool : Consider Chevron",
+  "url": "https://www.spokesman.com/stories/2026/aug/09/motley-fool-consider-chevron/"
+ },
+ {
+  "date": "2026-08-08",
+  "entity_ids": [
+   "thales"
+  ],
+  "id": "GDELT-00-par-an_AD-202608080173.html",
+  "source": "bfmtv.com",
+  "tags": [
+   "automobile"
+  ],
+  "title": "LUkraine va fabriquer 10 millions de drones cette année : les partenariats entre groupes automobiles et dronistes se multiplient en France pour parvenir à en produire 60 . 000 par an",
+  "url": "https://www.bfmtv.com/economie/entreprises/defense/l-ukraine-va-fabriquer-10-millions-de-drones-cette-annee-les-partenariats-entre-groupes-automobiles-et-dronistes-se-multiplient-en-france-pour-parvenir-a-en-produire-60-000-par-an_AD-202608080173.html"
+ },
+ {
+  "date": "2026-08-07",
+  "entity_ids": [
+   "airbus",
+   "thales"
+  ],
+  "id": "GDELT-pe-veut-se-passer-de-palantir/",
+  "source": "politico.eu",
+  "tags": [],
+  "title": "LEurope veut sortir de sa dépendance à Palantir – POLITICO",
+  "url": "https://www.politico.eu/article/leurope-veut-se-passer-de-palantir/"
+ },
+ {
+  "date": "2026-08-07",
+  "entity_ids": [
+   "thales"
+  ],
+  "id": "GDELT-rope-a-se-rearmer_8138486.html",
+  "source": "franceinfo.fr",
+  "tags": [
+   "defense"
+  ],
+  "title": "La France va aider lIrlande ,  talon dAchille  de la défense en Europe , à se réarmer",
+  "url": "https://www.franceinfo.fr/societe/armee-securite-defense/la-france-va-aider-l-irlande-talon-d-achille-de-la-defense-en-europe-a-se-rearmer_8138486.html"
+ },
+ {
+  "date": "2026-08-06",
+  "entity_ids": [
+   "chevron"
+  ],
+  "id": "GDELT-m/arabic/articles/cwylxnrz14jo",
+  "source": "bbc.com",
+  "tags": [],
+  "title": "أرامكو تسجل أرباحاً قياسية : هل تستفيد السعودية من حرب إيران ؟ ",
+  "url": "https://www.bbc.com/arabic/articles/cwylxnrz14jo"
+ },
+ {
+  "date": "2026-08-05",
+  "entity_ids": [
+   "chevron"
+  ],
+  "id": "GDELT-urisdiction-and-state-judgment",
+  "source": "wbrz.com",
+  "tags": [],
+  "title": "Plaquemines Parish case against Chevron centers on federal court jurisdiction and state judgment",
+  "url": "https://www.wbrz.com/news/plaquemines-parish-case-against-chevron-centers-on-federal-court-jurisdiction-and-state-judgment"
  },
  {
   "date": "2026-08-05",
   "entity_ids": [
    "vinci"
   ],
-  "id": "GDELT-ysician-fee-schedule-and-other",
-  "source": "federalregister.gov",
-  "tags": [
-   "sante"
-  ],
-  "title": "Federal Register :: Medicare and Medicaid Programs ; CY 2027 Payment Policies Under the Physician Fee Schedule and Other Changes to Part B Payment and Coverage Policies ; Medicare Shared Savings Program Requirements ; and Medicare Prescription Drug I...",
-  "url": "https://www.federalregister.gov/documents/2026/07/16/2026-14327/medicare-and-medicaid-programs-cy-2027-payment-policies-under-the-physician-fee-schedule-and-other"
+  "id": "GDELT-creation-des-autoroutes-440027",
+  "source": "lcp.fr",
+  "tags": [],
+  "title": "Ces lois qui ont fait votre été : la création des autoroutes | LCP",
+  "url": "https://lcp.fr/actualites/ces-lois-qui-font-votre-ete-la-creation-des-autoroutes-440027"
  },
  {
   "date": "2026-08-04",
   "entity_ids": [
-   "vinci"
+   "airbus",
+   "bp",
+   "thales"
   ],
-  "id": "GDELT-ew.co.za/ron-howard-net-worth/",
-  "source": "africanbusinessreview.co.za",
+  "id": "GDELT-ts-to-kick-its-palantir-habit/",
+  "source": "politico.eu",
   "tags": [],
-  "title": "Ron Howard Net Worth , Biography , Movies , Awards and Success Story - africanbusinessreview . co . za",
-  "url": "https://www.africanbusinessreview.co.za/ron-howard-net-worth/"
+  "title": "Europe wants to kick its Palantir habit",
+  "url": "https://www.politico.eu/article/europe-wants-to-kick-its-palantir-habit/"
+ },
+ {
+  "date": "2026-08-04",
+  "entity_ids": [
+   "chevron",
+   "exxonmobil"
+  ],
+  "id": "GDELT-ey-demands-lower-petrol-prices",
+  "source": "businesstimes.com.sg",
+  "tags": [],
+  "title": "Trump blasts ExxonMobil , Chevron for making  too much money , demands lower petrol prices",
+  "url": "https://www.businesstimes.com.sg/companies-markets/energy-commodities/trump-blasts-exxonmobil-chevron-making-too-much-money-demands-lower-petrol-prices"
+ },
+ {
+  "date": "2026-08-04",
+  "entity_ids": [
+   "bayer"
+  ],
+  "id": "GDELT-usiness-and-smaller-legal-bill",
+  "source": "thepeninsulaqatar.com",
+  "tags": [],
+  "title": "Bayer profit up on strong business and smaller legal bill | The Peninsula Qatar",
+  "url": "http://thepeninsulaqatar.com/article/04/08/2026/bayer-profit-up-on-strong-business-and-smaller-legal-bill"
+ },
+ {
+  "date": "2026-08-04",
+  "entity_ids": [
+   "bayer"
+  ],
+  "id": "GDELT-szahlen-q2-2026-ki-wirkstoffe/",
+  "source": "drweb.de",
+  "tags": [],
+  "title": "Bayer Quartalszahlen 2026 : Woher kommt der Gewinn ? ",
+  "url": "https://www.drweb.de/bayer-quartalszahlen-q2-2026-ki-wirkstoffe/"
+ },
+ {
+  "date": "2026-08-04",
+  "entity_ids": [
+   "bayer"
+  ],
+  "id": "GDELT-benefices-au-2e-trimestre.html",
+  "source": "rfj.ch",
+  "tags": [],
+  "title": "Bayer renoue avec les bénéfices au 2e trimestre",
+  "url": "https://www.rfj.ch/rfj/Actualite/economie/Bayer-renoue-avec-les-benefices-au-2e-trimestre.html"
+ },
+ {
+  "date": "2026-08-04",
+  "entity_ids": [
+   "bayer"
+  ],
+  "id": "GDELT-benefices-au-2e-trimestre.html",
+  "source": "rtn.ch",
+  "tags": [],
+  "title": "Bayer renoue avec les bénéfices au 2e trimestre",
+  "url": "https://www.rtn.ch/rtn/Actualite/economie/Bayer-renoue-avec-les-benefices-au-2e-trimestre.html"
+ },
+ {
+  "date": "2026-08-04",
+  "entity_ids": [
+   "chevron"
+  ],
+  "id": "GDELT--conflict-profit-surge-1812340",
+  "source": "ibtimes.co.uk",
+  "tags": [],
+  "title": "Trump Blasts Exxon , Chevron Over $26B Iran War Windfall , Vows Theyll  Give Some Back  ",
+  "url": "https://www.ibtimes.co.uk/trump-criticises-oil-giants-iran-conflict-profit-surge-1812340"
+ },
+ {
+  "date": "2026-08-04",
+  "entity_ids": [
+   "chevron"
+  ],
+  "id": "GDELT-ter-Record-Oil-Profits-1748522",
+  "source": "econotimes.com",
+  "tags": [
+   "energie"
+  ],
+  "title": "Trump Urges Exxon , Chevron to Cut Gas Prices After Record Oil Profits",
+  "url": "http://www.econotimes.com/Trump-Urges-Exxon-Chevron-to-Cut-Gas-Prices-After-Record-Oil-Profits-1748522"
+ },
+ {
+  "date": "2026-08-03",
+  "entity_ids": [
+   "exxonmobil"
+  ],
+  "id": "GDELT-r-new-stabroek-prospects-2026/",
+  "source": "riotimesonline.com",
+  "tags": [
+   "energie"
+  ],
+  "title": "ExxonMobil AI Finds Four New Guyana Oil Prospects",
+  "url": "https://www.riotimesonline.com/exxonmobil-ai-four-new-stabroek-prospects-2026/"
+ },
+ {
+  "date": "2026-08-03",
+  "entity_ids": [
+   "bouygues"
+  ],
+  "id": "GDELT-ephonique_AV-202608030027.html",
+  "source": "bfmtv.com",
+  "tags": [],
+  "title": "Bloctel touche à sa fin : quelles solutions reste - t - il pour vous protéger des appels et SMS indésirables et du démarchage téléphonique ? ",
+  "url": "https://www.bfmtv.com/tech/actualites/telecoms/bloctel-touche-a-sa-fin-quelles-solutions-reste-t-il-pour-vous-proteger-des-appels-et-sms-indesirables-et-du-demarchage-telephonique_AV-202608030027.html"
+ },
+ {
+  "date": "2026-08-03",
+  "entity_ids": [
+   "chevron"
+  ],
+  "id": "GDELT-freedom-250-celebration-group/",
+  "source": "foreignpolicyjournal.com",
+  "tags": [],
+  "title": "Chevron ( NYSE : CVX ), United Airlines ( NASDAQ : UAL ) And RTX ( NYSE : RTX ) Reveal $9M In Donations To Trump Freedom 250 Celebration Group",
+  "url": "https://www.foreignpolicyjournal.com/2026/08/02/chevron-nyse-cvx-united-airlines-nasdaq-ual-and-rtx-nyse-rtx-reveal-9m-in-donations-to-trumps-freedom-250-celebration-group/"
  },
  {
   "date": "2026-08-02",
   "entity_ids": [
-   "vinci"
+   "totalenergies"
   ],
-  "id": "GDELT-nt-rushmore-perish-the-thought",
-  "source": "duluthnewstribune.com",
-  "tags": [],
-  "title": "Pro / Con : Trump on Mount Rushmore ? Perish the thought",
-  "url": "https://www.duluthnewstribune.com/opinion/columns/pro-con-trump-on-mount-rushmore-perish-the-thought"
- },
- {
-  "date": "2026-08-02",
-  "entity_ids": [
-   "vinci"
+  "id": "GDELT-iny-over-competition-concerns/",
+  "source": "capitalethiopia.com",
+  "tags": [
+   "energie"
   ],
-  "id": "GDELT-xuecity.com/travel/770551.html",
-  "source": "bbs.wenxuecity.com",
-  "tags": [],
-  "title": "在米兰 ： 三十分钟最后的晚餐 - hangzzhang发表于 世界风情 - 论坛",
-  "url": "https://bbs.wenxuecity.com/travel/770551.html"
+  "title": "OLA Energy - TotalEnergies deal faces regulatory scrutiny over competition concerns",
+  "url": "https://capitalethiopia.com/2026/08/02/ola-energy-totalenergies-deal-faces-regulatory-scrutiny-over-competition-concerns/"
  },
  {
   "date": "2026-08-01",
   "entity_ids": [
-   "vinci"
+   "chevron",
+   "exxonmobil"
   ],
-  "id": "GDELT-m.ua/news/general/1189924.html",
-  "source": "interfax.com.ua",
+  "id": "GDELT-er-profits-into-debt-reduction",
+  "source": "financialpost.com",
   "tags": [],
-  "title": "Акції протесту в п  ятницю стали найбільш масовими з часів Революції Гідності – Козятинський",
-  "url": "https://interfax.com.ua/news/general/1189924.html"
+  "title": "ExxonMobil , Chevron steer windfall profits to lowering debt",
+  "url": "https://financialpost.com/commodities/energy/oil-gas/exxonmobil-chevron-steer-profits-into-debt-reduction"
+ },
+ {
+  "date": "2026-08-01",
+  "entity_ids": [
+   "bouygues",
+   "thales"
+  ],
+  "id": "GDELT--programme-de-momentum-1528928",
+  "source": "capital.fr",
+  "tags": [],
+  "title": "CAC 40 , Engie , Bouygues , Kering , Capgemini … les actions en Bourse au programme de Momentum",
+  "url": "https://www.capital.fr/entreprises-marches/cac-40-engie-bouygues-kering-capgemini-les-actions-en-bourse-au-programme-de-momentum-1528928"
  },
  {
   "date": "2026-07-31",
   "entity_ids": [
-   "vinci"
+   "chevron"
   ],
-  "id": "GDELT-/a/khresna-khoda/33816786.html",
-  "source": "radiosvoboda.org",
+  "id": "GDELT-chevrons-impact-on-etf-market/",
+  "source": "etftrends.com",
   "tags": [],
-  "title": "Київ , Львів , Дніпро . Триває протестна хода « за реформи в оборонці ». НАЖИВО",
-  "url": "https://www.radiosvoboda.org/a/khresna-khoda/33816786.html"
+  "title": "Supermajor Earnings : Exxon & Chevron Impact on ETF Market",
+  "url": "https://www.etftrends.com/thematic-investing-content-hub/supermajor-earnings-exxon-chevrons-impact-on-etf-market/"
  },
  {
   "date": "2026-07-30",
   "entity_ids": [
-   "vinci"
+   "thales"
   ],
-  "id": "GDELT-ieve-kak-otreagirovali-v-ssha/",
-  "source": "lenta.ru",
+  "id": "GDELT-t-luna-t-series-hsm-fips-140-3",
+  "source": "executivebiz.com",
   "tags": [],
-  "title": "Россия атаковала американский завод в Киеве : подробности , реакция США , данные Минобороны РФ",
-  "url": "https://lenta.ru/news/2026/07/30/long-vs-rossii-vpervye-udarili-po-amerikanskomu-zavodu-po-proizvodstvu-dronov-v-kieve-kak-otreagirovali-v-ssha/"
+  "title": "Thales TCT Luna T - Series HSMs Secure FIPS 140 - 3 Validation",
+  "url": "https://www.executivebiz.com/articles/thales-tct-luna-t-series-hsm-fips-140-3"
+ },
+ {
+  "date": "2026-07-30",
+  "entity_ids": [
+   "airbus"
+  ],
+  "id": "GDELT-milioane-lire-sterline-1662488",
+  "source": "business24.ro",
+  "tags": [],
+  "title": "Airbus , obligat să plătească 6 , 4 milioane de lire sterline în Marea Britanie",
+  "url": "https://business24.ro/airbus/airbus-plata-sase-milioane-lire-sterline-1662488"
  },
  {
   "date": "2026-07-29",
   "entity_ids": [
    "vinci"
   ],
-  "id": "GDELT-likine-ligonine-zengia-i-nauja",
-  "source": "ve.lt",
-  "tags": [],
-  "title": "Robotinė chirurgija artėja prie Klaipėdos : Respublikinė ligoninė žengia į naują medicinos etapą",
-  "url": "https://ve.lt/gyvenimas/sveikata/robotine-chirurgija-arteja-prie-klaipedos-respublikine-ligonine-zengia-i-nauja"
- },
- {
-  "date": "2026-07-26",
-  "entity_ids": [
-   "vinci"
-  ],
-  "id": "GDELT-sy-tv-shows-deserve-more-fans/",
-  "source": "tvline.com",
-  "tags": [],
-  "title": "10 Forgotten Fantasy Shows That Deserve More Fans",
-  "url": "https://www.tvline.com/2219014/forgotten-fantasy-tv-shows-deserve-more-fans/"
- },
- {
-  "date": "2026-07-26",
-  "entity_ids": [
-   "vinci"
-  ],
-  "id": "GDELT-inio-brandumo-israiska-1767119",
-  "source": "kauno.diena.lt",
-  "tags": [],
-  "title": "Savišalpos Susivienijimas – lietuvių išeivijos tautinio brandumo išraiška",
-  "url": "https://kauno.diena.lt/santaka/savisalpos-susivienijimas-lietuviu-iseivijos-tautinio-brandumo-israiska-1767119"
- },
- {
-  "date": "2026-07-26",
-  "entity_ids": [
-   "vinci"
-  ],
-  "id": "GDELT-inio-brandumo-israiska-1767119",
-  "source": "m.kauno.diena.lt",
-  "tags": [],
-  "title": "Savišalpos Susivienijimas – lietuvių išeivijos tautinio brandumo išraiška",
-  "url": "https://m.kauno.diena.lt/santaka/savisalpos-susivienijimas-lietuviu-iseivijos-tautinio-brandumo-israiska-1767119"
- },
- {
-  "date": "2026-07-25",
-  "entity_ids": [
-   "vinci"
-  ],
-  "id": "GDELT-sterpieces-enchant-at-pageant/",
-  "source": "ocregister.com",
-  "tags": [],
-  "title": "Timeless masterpieces enchant at pageant",
-  "url": "https://www.ocregister.com/2026/07/24/timeless-masterpieces-enchant-at-pageant/"
- },
- {
-  "date": "2026-07-23",
-  "entity_ids": [
-   "vinci"
-  ],
-  "id": "GDELT-sta-na-budeshtite-evrobanknoti",
-  "source": "segabg.com",
-  "tags": [],
-  "title": "Кристин Лагард представи късата листа на бъдещите евробанкноти",
-  "url": "https://www.segabg.com/hot/category-foreign-country/kristin-lagard-predstavi-kusata-lista-na-budeshtite-evrobanknoti"
- },
- {
-  "date": "2026-07-23",
-  "entity_ids": [
-   "vinci"
-  ],
-  "id": "GDELT-/20260723/202607231924364.html",
-  "source": "hea.china.com",
-  "tags": [],
-  "title": "喜讯 / 2026  怪才  艺术家伍延文作品入选 《 卢浮宫中外艺术名家典籍 》_ 中华网",
-  "url": "https://hea.china.com/articles/20260723/202607231924364.html"
- },
- {
-  "date": "2026-07-23",
-  "entity_ids": [
-   "vinci"
-  ],
-  "id": "GDELT-s-rezistente-verute-deveikyte/",
-  "source": "voruta.lt",
-  "tags": [],
-  "title": "A . Karmonas . Užmiršta Aukštaitijos rezistentė Verutė Deveikytė",
-  "url": "https://www.voruta.lt/a-karmonas-uzmirsta-aukstaitijos-rezistente-verute-deveikyte/"
- },
- {
-  "date": "2026-07-21",
-  "entity_ids": [
-   "vinci"
-  ],
-  "id": "GDELT--and-joyces-ulysses-revisited/",
-  "source": "tcj.com",
-  "tags": [],
-  "title": "R & R : Get up Schrauwen Sunday and Joyce Ulysses , revisited",
-  "url": "https://www.tcj.com/rr-get-up-schrauwens-sunday-and-joyces-ulysses-revisited/"
- },
- {
-  "date": "2026-07-20",
-  "entity_ids": [
-   "vinci"
-  ],
-  "id": "GDELT-rushmore-perish-the-thought-2/",
-  "source": "citizensvoice.com",
-  "tags": [],
-  "title": "COMMENTARY : Trump on Rushmore ? Perish the thought",
-  "url": "https://www.citizensvoice.com/2026/07/20/point-trump-on-rushmore-perish-the-thought-2/"
- },
- {
-  "date": "2026-07-18",
-  "entity_ids": [
-   "vinci"
-  ],
-  "id": "GDELT-ogti-turinio-eina-kaip-i-darba",
+  "id": "GDELT-odowska-curie-wsrod-propozycji",
   "source": "lrt.lt",
   "tags": [],
-  "title": "Nelegalių el . knygų platinimo mastas Lietuvoje stebina : „ Vogti turinio eina kaip į darbą  ",
-  "url": "https://www.lrt.lt/naujienos/verslas/4/2993140/nelegaliu-el-knygu-platinimo-mastas-lietuvoje-stebina-vogti-turinio-eina-kaip-i-darba"
+  "title": "Banknoty euro zmienią wygląd . Leonardo da Vinci i Maria Skłodowska - Curie wśród propozycji",
+  "url": "https://www.lrt.lt/pl/wiadomosci/1261/3004239/banknoty-euro-zmienia-wyglad-leonardo-da-vinci-i-maria-sklodowska-curie-wsrod-propozycji"
  },
  {
-  "date": "2026-07-18",
-  "entity_ids": [
-   "vinci"
-  ],
-  "id": "GDELT-/artdaily.com/?date=07/18/2026",
-  "source": "artdaily.com",
-  "tags": [],
-  "title": "Artdaily - The First Art Newspaper on the Net",
-  "url": "https://artdaily.com/?date=07/18/2026"
- },
- {
-  "date": "2026-07-17",
-  "entity_ids": [
-   "vinci"
-  ],
-  "id": "GDELT-ek-moment-sparks-chip-meltdown",
-  "source": "zerohedge.com",
-  "tags": [],
-  "title": "Futures Tumble As Latest Chinese  DeepSeek Moment  Sparks Chip Meltdown",
-  "url": "https://www.zerohedge.com/markets/futures-tumble-latest-chinese-deepseek-moment-sparks-chip-meltdown"
- },
- {
-  "date": "2026-07-15",
-  "entity_ids": [
-   "vinci"
-  ],
-  "id": "GDELT-gnews.com/thoughts-on-thinking",
-  "source": "livetradingnews.com",
-  "tags": [],
-  "title": "Thoughts on Thinking",
-  "url": "https://www.livetradingnews.com/thoughts-on-thinking"
- },
- {
-  "date": "2026-07-14",
+  "date": "2026-07-28",
   "entity_ids": [
    "totalenergies"
   ],
-  "id": "GDELT-ticle/10.1088/1367-2630/ae80f2",
-  "source": "iopscience.iop.org",
-  "tags": [],
-  "title": "Strain - driven transition from correlated insulating to semimetallic states in twisted - bilayer graphene",
-  "url": "https://iopscience.iop.org/article/10.1088/1367-2630/ae80f2"
+  "id": "GDELT-Climate-Duty-of-Vigilance.html",
+  "source": "oilprice.com",
+  "tags": [
+   "energie",
+   "climat"
+  ],
+  "title": "TotalEnergies Appeals French Court Ruling on Climate Duty of Vigilance",
+  "url": "https://oilprice.com/Company-News/TotalEnergies-Appeals-French-Court-Ruling-on-Climate-Duty-of-Vigilance.html"
  },
  {
-  "date": "2026-07-14",
+  "date": "2026-07-28",
+  "entity_ids": [
+   "totalenergies"
+  ],
+  "id": "GDELT-ch-court-ruling-021000538.html",
+  "source": "finance.yahoo.com",
+  "tags": [
+   "energie",
+   "climat"
+  ],
+  "title": "TotalEnergies Appeals French Court Ruling on Climate Duty of Vigilance",
+  "url": "https://finance.yahoo.com/energy/articles/totalenergies-appeals-french-court-ruling-021000538.html"
+ },
+ {
+  "date": "2026-07-28",
+  "entity_ids": [
+   "exxonmobil"
+  ],
+  "id": "GDELT-xxonmobil-corporation-xom.html",
+  "source": "dailypolitical.com",
+  "tags": [],
+  "title": "Excelsior Advisor Network LLC Raises Holdings in ExxonMobil Corporation $XOM",
+  "url": "https://www.dailypolitical.com/2026/07/28/excelsior-advisor-network-llc-raises-holdings-in-exxonmobil-corporation-xom.html"
+ },
+ {
+  "date": "2026-07-28",
+  "entity_ids": [
+   "exxonmobil"
+  ],
+  "id": "GDELT-xxonmobil-corporation-xom.html",
+  "source": "themarketsdaily.com",
+  "tags": [],
+  "title": "The Manufacturers Life Insurance Company Reduces Position in ExxonMobil Corporation $XOM",
+  "url": "https://www.themarketsdaily.com/2026/07/28/the-manufacturers-life-insurance-company-reduces-position-in-exxonmobil-corporation-xom.html"
+ },
+ {
+  "date": "2026-07-28",
+  "entity_ids": [
+   "exxonmobil"
+  ],
+  "id": "GDELT-xxonmobil-corporation-xom.html",
+  "source": "dailypolitical.com",
+  "tags": [],
+  "title": "Lazard Asset Management LLC Sells 38 , 986 Shares of ExxonMobil Corporation $XOM",
+  "url": "https://www.dailypolitical.com/2026/07/28/lazard-asset-management-llc-sells-38986-shares-of-exxonmobil-corporation-xom.html"
+ },
+ {
+  "date": "2026-07-28",
+  "entity_ids": [
+   "airbus"
+  ],
+  "id": "GDELT-a350-1000ulr-545757-2026-07-28",
+  "source": "businesstoday.in",
+  "tags": [],
+  "title": "24 hours in the sky : Airbus completes record test flight of Qanta ultra long range A350 1000ULR",
+  "url": "https://www.businesstoday.in/latest/trends/story/24-hours-in-the-sky-airbus-completes-record-test-flight-of-qantas-ultra-long-range-a350-1000ulr-545757-2026-07-28"
+ },
+ {
+  "date": "2026-07-28",
+  "entity_ids": [
+   "thales"
+  ],
+  "id": "GDELT-llite-de-l-armee-de-terre.html",
+  "source": "linformaticien.com",
+  "tags": [],
+  "title": "Eviden et Thales intègre Galileo au satellite de larmée de terre - LINFORMATICIEN & LINFO CYBER - RISQUES - L  1FO Tech par LInformaticien - LINFORMATICIEN",
+  "url": "https://www.linformaticien.com/933-reseau/65131-eviden-et-thales-integre-galileo-au-satellite-de-l-armee-de-terre.html"
+ },
+ {
+  "date": "2026-07-27",
+  "entity_ids": [
+   "totalenergies"
+  ],
+  "id": "GDELT-ing-in-climate-vigilance-case/",
+  "source": "worldoil.com",
+  "tags": [
+   "energie",
+   "climat"
+  ],
+  "title": "TotalEnergies appeals French court ruling in climate vigilance case",
+  "url": "https://worldoil.com/news/2026/7/27/totalenergies-appeals-french-court-ruling-in-climate-vigilance-case/"
+ },
+ {
+  "date": "2026-07-27",
+  "entity_ids": [
+   "totalenergies"
+  ],
+  "id": "GDELT--vigilance-climate-case-204736",
+  "source": "energy-pedia.com",
+  "tags": [
+   "energie",
+   "climat"
+  ],
+  "title": "TotalEnergies SE appeals the 25 June 2026 judgment in the duty of vigilance climate case",
+  "url": "https://www.energy-pedia.com/news/france/totalenergies-se-appeals-the-25-june-2026-judgment-in-the-duty-of-vigilance-climate-case-204736"
+ },
+ {
+  "date": "2026-07-26",
   "entity_ids": [
    "vinci"
   ],
-  "id": "GDELT-FR/program/20260714/1231213775",
-  "source": "telecran.lu",
-  "tags": [],
-  "title": "Télécran",
-  "url": "https://www.telecran.lu/FR/program/20260714/1231213775"
+  "id": "GDELT--arrivent_AV-202607260190.html",
+  "source": "bfmtv.com",
+  "tags": [
+   "btp"
+  ],
+  "title": "Le gouvernement veut sinspirer de ce chantier bouclé en 3 ans au lieu de 10 : lancien village des médias des Jeux de Paris a été converti en 950 logements ( et 600 supplémentaires arrivent ) ",
+  "url": "https://www.bfmtv.com/immobilier/neuf/le-gouvernement-veut-s-inspirer-de-ce-chantier-boucle-en-3-ans-au-lieu-de-10-l-ancien-village-des-medias-des-jeux-de-paris-a-ete-converti-en-950-logements-et-600-supplementaires-arrivent_AV-202607260190.html"
  },
  {
-  "date": "2026-07-14",
+  "date": "2026-07-23",
   "entity_ids": [
    "vinci"
   ],
-  "id": "GDELT-casts-out-traditionalist-sect/",
-  "source": "thewalrus.ca",
+  "id": "GDELT--volta-le-spalle-ai-cittadini/",
+  "source": "gonews.it",
   "tags": [],
-  "title": "Vatican Casts Out Traditionalist Sect . What Next for Canadian Followers ? ",
-  "url": "https://thewalrus.ca/vatican-casts-out-traditionalist-sect/"
- },
- {
-  "date": "2026-07-13",
-  "entity_ids": [
-   "vinci"
-  ],
-  "id": "GDELT-e-decades-ahead-of-their-time/",
-  "source": "denofgeek.com",
-  "tags": [],
-  "title": "15 Historical Figures Who Were Decades Ahead of Their Time",
-  "url": "https://www.denofgeek.com/tv/15-historical-figures-who-were-decades-ahead-of-their-time/"
+  "title": "Cdx Vinci :  Questa amministrazione volta le spalle ai cittadini  ",
+  "url": "https://www.gonews.it/2026/07/23/cdx-vinci-questa-amministrazione-volta-le-spalle-ai-cittadini/"
  }
 ]

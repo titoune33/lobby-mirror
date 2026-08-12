@@ -13,13 +13,13 @@ import lib
 
 def extract_from_cache() -> list[dict]:
     from match import tag_law
-    from sources.gdelt_news import _iso, _search_term
+    from sources.gdelt_news import _iso, _search_term, _credible
 
     # rejouer les paires (entité, requête) pour retrouver la clé de cache de chacune
     import hashlib
 
     BASE = "https://api.gdeltproject.org/api/v2/doc/doc"
-    query_owner: dict[str, str] = {}  # clé de cache -> entity_id
+    query_owner: dict[str, tuple[str, str]] = {}  # clé de cache -> (entity_id, terme)
     for e in lib.entities_list():
         term = _search_term(e)
         for q in (
@@ -31,11 +31,11 @@ def extract_from_cache() -> list[dict]:
                 "timespan": "30d", "format": "json", "sort": "datedesc",
             }
             key = hashlib.sha1((BASE + json.dumps(params, sort_keys=True)).encode()).hexdigest() + ".bin"
-            query_owner[key] = e["id"]
+            query_owner[key] = (e["id"], term)
 
     articles: dict[str, dict] = {}
     for f in glob.glob(str(lib.CACHE_DIR / "*.bin")):
-        owner = query_owner.get(f.rsplit("/", 1)[-1])
+        owner, owner_term = query_owner.get(f.rsplit("/", 1)[-1], (None, None))
         try:
             data = json.load(open(f, encoding="utf-8"))
         except Exception:
@@ -43,6 +43,7 @@ def extract_from_cache() -> list[dict]:
         for it in data.get("articles", []) or []:
             title = it.get("title") or ""
             url = it.get("url") or ""
+            domain = (it.get("domain") or "").replace("www.", "")
             if not url or not title:
                 continue
             eids = []
@@ -50,7 +51,7 @@ def extract_from_cache() -> list[dict]:
                 hit = lib.match_entity(title)
                 if hit and hit[0] not in eids:
                     eids.append(hit[0])
-            if not eids and owner:
+            if not eids and owner and _credible(owner_term or "", title, domain):
                 eids = [owner]  # l'article vient de la requête de cette entité
             if not eids:
                 continue

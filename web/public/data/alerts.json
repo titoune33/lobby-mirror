@@ -1,7 +1,477 @@
 [
  {
+  "body": "Score de pression 61/100 — DOSSIER : rapport d'information déposé en application de l'article 145 du règlement, par la commission de la défense nationale et des forces armées, en conclusion des travaux d'une mission d'information sur le thème de « la mobilité stratégique en Europe et dans les territoires ultramarins ». Signaux : 1 articles, registre, dons, marché.",
+  "date": "2026-08-12T16:18:33+00:00",
+  "entity_id": "thales",
+  "id": "f57477f7058b",
+  "kind": "pression_forte",
+  "law_id": "DLR5L17N54458",
+  "severity": "critical",
+  "title": "Thales pousse le texte DLR5L17N54458"
+ },
+ {
+  "body": "Score de pression 65/100 — Décision demandant à l'Autorité pour les partis politiques européens et les fondations politiques européennes de vérifier si le parti Europe des nations souveraines respecte les conditions énoncées dans le règlement (UE, Euratom) 2025/2445. Signaux : 1 articles, registre, dons, marché.",
+  "date": "2026-08-12T16:18:33+00:00",
+  "entity_id": "thales",
+  "id": "4317600cbdd9",
+  "kind": "pression_forte",
+  "law_id": "eli/dl/doc/B-10-2026-0338",
+  "severity": "critical",
+  "title": "Thales pousse le texte eli/dl/doc/B-10-2026-0338"
+ },
+ {
+  "body": "Score de pression 61/100 — Faciliter l’accès à la climatisation. Signaux : 1 articles, registre, dons, marché.",
+  "date": "2026-08-12T16:18:33+00:00",
+  "entity_id": "totalenergies",
+  "id": "ef4c958cf958",
+  "kind": "pression_forte",
+  "law_id": "DLR5L17N54723",
+  "severity": "critical",
+  "title": "TotalEnergies pousse le texte DLR5L17N54723"
+ },
+ {
+  "body": "Score de pression 61/100 — Modifier la politique forestière pour répondre aux enjeux d’adaptation des forêts au changement climatique. Signaux : 1 articles, registre, dons, marché.",
+  "date": "2026-08-12T16:18:33+00:00",
+  "entity_id": "totalenergies",
+  "id": "d7da86f24692",
+  "kind": "pression_forte",
+  "law_id": "DLR5L17N54715",
+  "severity": "critical",
+  "title": "TotalEnergies pousse le texte DLR5L17N54715"
+ },
+ {
+  "body": "Score de pression 61/100 — Faire de la climatisation un véritable outil de protection face aux vagues de chaleur. Signaux : 1 articles, registre, dons, marché.",
+  "date": "2026-08-12T16:18:33+00:00",
+  "entity_id": "totalenergies",
+  "id": "52efb0fb6b3a",
+  "kind": "pression_forte",
+  "law_id": "DLR5L17N54697",
+  "severity": "critical",
+  "title": "TotalEnergies pousse le texte DLR5L17N54697"
+ },
+ {
+  "body": "Score de pression 61/100 — Projet de loi autorisant la ratification de l’accord de passation conjointe de marché en vue de l’acquisition d’une plateforme centrale commune pour le mécanisme d’ajustement carbone aux frontières. Signaux : 1 articles, registre, dons, marché.",
+  "date": "2026-08-12T16:18:33+00:00",
+  "entity_id": "totalenergies",
+  "id": "1e8e53d15bd0",
+  "kind": "pression_forte",
+  "law_id": "DLR5L17N54567",
+  "severity": "critical",
+  "title": "TotalEnergies pousse le texte DLR5L17N54567"
+ },
+ {
+  "body": "Score de pression 61/100 — Climatisation des établissements recevant un public vulnérable. Signaux : 1 articles, registre, dons, marché.",
+  "date": "2026-08-12T16:18:33+00:00",
+  "entity_id": "totalenergies",
+  "id": "8a5dbf3af3cd",
+  "kind": "pression_forte",
+  "law_id": "DLR5L17N54639",
+  "severity": "critical",
+  "title": "TotalEnergies pousse le texte DLR5L17N54639"
+ },
+ {
+  "body": "Score de pression 61/100 — L’évaluation de la décarbonation du secteur des transports terrestres en application de l’article 73 de la loi n° 2019-1428 du 24 décembre 2019 d’orientation des mobilités. Signaux : 1 articles, registre, dons, marché.",
+  "date": "2026-08-12T16:18:33+00:00",
+  "entity_id": "totalenergies",
+  "id": "a9635549c4df",
+  "kind": "pression_forte",
+  "law_id": "DLR5L17N54611",
+  "severity": "critical",
+  "title": "TotalEnergies pousse le texte DLR5L17N54611"
+ },
+ {
+  "body": "Score de pression 61/100 — La révision des directives européennes relatives aux marchés publics et la consécration d’un critère carbone au service de la décarbonation et de la souveraineté industrielle. Signaux : 1 articles, registre, dons, marché.",
+  "date": "2026-08-12T16:18:33+00:00",
+  "entity_id": "totalenergies",
+  "id": "91cbea3dd665",
+  "kind": "pression_forte",
+  "law_id": "DLR5L17N54464",
+  "severity": "critical",
+  "title": "TotalEnergies pousse le texte DLR5L17N54464"
+ },
+ {
+  "body": "Score de pression 61/100 — Projet de loi portant habilitation de l’assemblée de Martinique à fixer elle-même des règles applicables sur son territoire en application de l’article 73 de la Constitution en matière d’énergie, d’eau et d’assainissement. Signaux : 1 articles, registre, dons, marché.",
+  "date": "2026-08-12T16:18:33+00:00",
+  "entity_id": "totalenergies",
+  "id": "e99b0cdfebde",
+  "kind": "pression_forte",
+  "law_id": "DLR5L17N53600",
+  "severity": "critical",
+  "title": "TotalEnergies pousse le texte DLR5L17N53600"
+ },
+ {
+  "body": "Score de pression 61/100 — Relancer les investissements dans le secteur de l’hydroélectricité pour contribuer à la transition énergétique. Signaux : 1 articles, registre, dons, marché.",
+  "date": "2026-08-12T16:18:33+00:00",
+  "entity_id": "totalenergies",
+  "id": "5d80ea5a9f74",
+  "kind": "pression_forte",
+  "law_id": "DLR5L17N53530",
+  "severity": "critical",
+  "title": "TotalEnergies pousse le texte DLR5L17N53530"
+ },
+ {
+  "body": "Score de pression 61/100 — Abroger les zones à faibles émissions-mobilités. Signaux : 1 articles, registre, dons, marché.",
+  "date": "2026-08-12T16:18:33+00:00",
+  "entity_id": "totalenergies",
+  "id": "f27a4fc7df8b",
+  "kind": "pression_forte",
+  "law_id": "DLR5L17N54557",
+  "severity": "critical",
+  "title": "TotalEnergies pousse le texte DLR5L17N54557"
+ },
+ {
+  "body": "Score de pression 61/100 — L’évaluation du chèque énergie. Signaux : 1 articles, registre, dons, marché.",
+  "date": "2026-08-12T16:18:33+00:00",
+  "entity_id": "totalenergies",
+  "id": "322e1efb1342",
+  "kind": "pression_forte",
+  "law_id": "DLR5L17N54520",
+  "severity": "critical",
+  "title": "TotalEnergies pousse le texte DLR5L17N54520"
+ },
+ {
+  "body": "Score de pression 61/100 — Assurer l’autonomie stratégique de la France pour la production décarbonée d’engrais azotés. Signaux : 1 articles, registre, dons, marché.",
+  "date": "2026-08-12T16:18:33+00:00",
+  "entity_id": "totalenergies",
+  "id": "e3596d032f28",
+  "kind": "pression_forte",
+  "law_id": "DLR5L17N54312",
+  "severity": "critical",
+  "title": "TotalEnergies pousse le texte DLR5L17N54312"
+ },
+ {
+  "body": "Score de pression 61/100 — Proposition de loi d'adaptation des territoires aux effets du changement climatique. Signaux : 1 articles, registre, dons, marché.",
+  "date": "2026-08-12T16:18:33+00:00",
+  "entity_id": "totalenergies",
+  "id": "cd4494ea426c",
+  "kind": "pression_forte",
+  "law_id": "DLR5L17N54518",
+  "severity": "critical",
+  "title": "TotalEnergies pousse le texte DLR5L17N54518"
+ },
+ {
+  "body": "Score de pression 61/100 — Proposition de loi visant à adapter la rénovation énergétique au « petit patrimoine ». Signaux : 1 articles, registre, dons, marché.",
+  "date": "2026-08-12T16:18:33+00:00",
+  "entity_id": "totalenergies",
+  "id": "408e3aeeae35",
+  "kind": "pression_forte",
+  "law_id": "DLR5L17N54456",
+  "severity": "critical",
+  "title": "TotalEnergies pousse le texte DLR5L17N54456"
+ },
+ {
+  "body": "Score de pression 61/100 — Proposer au Président de la République l’organisation d’un référendum constitutionnel portant sur l’abrogation des zones à faibles émissions mobilités. Signaux : 1 articles, registre, dons, marché.",
+  "date": "2026-08-12T16:18:33+00:00",
+  "entity_id": "totalenergies",
+  "id": "c557b00d254f",
+  "kind": "pression_forte",
+  "law_id": "DLR5L17N54371",
+  "severity": "critical",
+  "title": "TotalEnergies pousse le texte DLR5L17N54371"
+ },
+ {
+  "body": "Score de pression 61/100 — La formation des prix des carburants, la propagation inflationniste du choc pétrolier et l'adéquation des mécanismes de protection du pouvoir d'achat des ménages. Signaux : 1 articles, registre, dons, marché.",
+  "date": "2026-08-12T16:18:33+00:00",
+  "entity_id": "totalenergies",
+  "id": "bce09ba7c3b7",
+  "kind": "pression_forte",
+  "law_id": "DLR5L17N54374",
+  "severity": "critical",
+  "title": "TotalEnergies pousse le texte DLR5L17N54374"
+ },
+ {
+  "body": "Score de pression 65/100 — Proposition de loi visant à permettre à l'État de détenir une action spécifique au capital de la société TotalEnergies et à limiter les projets climaticides. Signaux : 1 articles, registre, dons, marché.",
+  "date": "2026-08-12T16:18:33+00:00",
+  "entity_id": "totalenergies",
+  "id": "9e94625fc759",
+  "kind": "pression_forte",
+  "law_id": "DLR5L17N54377",
+  "severity": "critical",
+  "title": "TotalEnergies pousse le texte DLR5L17N54377"
+ },
+ {
+  "body": "Score de pression 61/100 — Projet de loi portant diverses dispositions d'adaptation au droit de l’Union européenne en matière économique, financière, environnementale, énergétique, d’information, de transport, de santé, d’agriculture et de pêche. Signaux : 1 articles, registre, dons, marché.",
+  "date": "2026-08-12T16:18:33+00:00",
+  "entity_id": "totalenergies",
+  "id": "6e91a34dab5f",
+  "kind": "pression_forte",
+  "law_id": "DLR5L17N53140",
+  "severity": "critical",
+  "title": "TotalEnergies pousse le texte DLR5L17N53140"
+ },
+ {
+  "body": "Score de pression 65/100 — Proposition de loi visant à définir des critères de priorisation du raccordement des installations de production d’énergies renouvelables aux réseaux d’électricité. Signaux : 1 articles, registre, dons, marché.",
+  "date": "2026-08-12T16:18:33+00:00",
+  "entity_id": "totalenergies",
+  "id": "a65cb2bc90ca",
+  "kind": "pression_forte",
+  "law_id": "DLR5L17N53540",
+  "severity": "critical",
+  "title": "TotalEnergies pousse le texte DLR5L17N53540"
+ },
+ {
+  "body": "Score de pression 61/100 — La taxation des superprofits des compagnies pétrolières pour faire baisser le prix du carburant. Signaux : 1 articles, registre, dons, marché.",
+  "date": "2026-08-12T16:18:33+00:00",
+  "entity_id": "totalenergies",
+  "id": "1e3684f00352",
+  "kind": "pression_forte",
+  "law_id": "DLR5L17N54252",
+  "severity": "critical",
+  "title": "TotalEnergies pousse le texte DLR5L17N54252"
+ },
+ {
+  "body": "Score de pression 61/100 — visant à rendre obligatoire l’affichage du détail des taxes appliquées au prix des carburants routiers sur le justificatif de paiement délivré à la pompe. Signaux : 1 articles, registre, dons, marché.",
+  "date": "2026-08-12T16:18:33+00:00",
+  "entity_id": "totalenergies",
+  "id": "2b5b061a7754",
+  "kind": "pression_forte",
+  "law_id": "DLR5L17N54238",
+  "severity": "critical",
+  "title": "TotalEnergies pousse le texte DLR5L17N54238"
+ },
+ {
+  "body": "Score de pression 61/100 — visant à assurer l’autonomie stratégique de la France pour la production décarbonée d’engrais azotés. Signaux : 1 articles, registre, dons, marché.",
+  "date": "2026-08-12T16:18:33+00:00",
+  "entity_id": "totalenergies",
+  "id": "03b3921974f3",
+  "kind": "pression_forte",
+  "law_id": "DLR5L17N54247",
+  "severity": "critical",
+  "title": "TotalEnergies pousse le texte DLR5L17N54247"
+ },
+ {
+  "body": "Score de pression 61/100 — La nationalisation d’industries pétrolières en France afin de garantir la souveraineté énergétique et la justice économique. Signaux : 1 articles, registre, dons, marché.",
+  "date": "2026-08-12T16:18:33+00:00",
+  "entity_id": "totalenergies",
+  "id": "6f6893adba1b",
+  "kind": "pression_forte",
+  "law_id": "DLR5L17N54230",
+  "severity": "critical",
+  "title": "TotalEnergies pousse le texte DLR5L17N54230"
+ },
+ {
+  "body": "Score de pression 61/100 — Supprimer les certificats d'économie d'énergie. Signaux : 1 articles, registre, dons, marché.",
+  "date": "2026-08-12T16:18:33+00:00",
+  "entity_id": "totalenergies",
+  "id": "0dc20fb6f209",
+  "kind": "pression_forte",
+  "law_id": "DLR5L17N54250",
+  "severity": "critical",
+  "title": "TotalEnergies pousse le texte DLR5L17N54250"
+ },
+ {
+  "body": "Score de pression 61/100 — Bloquer les prix du gaz et des carburants et à encadrer les marges en période de crise. Signaux : 1 articles, registre, dons, marché.",
+  "date": "2026-08-12T16:18:33+00:00",
+  "entity_id": "totalenergies",
+  "id": "461f4166d06b",
+  "kind": "pression_forte",
+  "law_id": "DLR5L17N54150",
+  "severity": "critical",
+  "title": "TotalEnergies pousse le texte DLR5L17N54150"
+ },
+ {
+  "body": "Score de pression 61/100 — Reconnaître une politique nationale d’adaptation au changement climatique et à adapter les mécanismes d’assurance. Signaux : 1 articles, registre, dons, marché.",
+  "date": "2026-08-12T16:18:33+00:00",
+  "entity_id": "totalenergies",
+  "id": "0101810823de",
+  "kind": "pression_forte",
+  "law_id": "DLR5L17N53067",
+  "severity": "critical",
+  "title": "TotalEnergies pousse le texte DLR5L17N53067"
+ },
+ {
+  "body": "Score de pression 61/100 — Prévenir l’utilisation de contrats d’énergie pour légitimer des occupations illicites. Signaux : 1 articles, registre, dons, marché.",
+  "date": "2026-08-12T16:18:33+00:00",
+  "entity_id": "totalenergies",
+  "id": "7358cf98726d",
+  "kind": "pression_forte",
+  "law_id": "DLR5L17N53771",
+  "severity": "critical",
+  "title": "TotalEnergies pousse le texte DLR5L17N53771"
+ },
+ {
+  "body": "Score de pression 61/100 — Permettre le blocage temporaire des prix de l’énergie. Signaux : 1 articles, registre, dons, marché.",
+  "date": "2026-08-12T16:18:33+00:00",
+  "entity_id": "totalenergies",
+  "id": "f923904227ae",
+  "kind": "pression_forte",
+  "law_id": "DLR5L17N54002",
+  "severity": "critical",
+  "title": "TotalEnergies pousse le texte DLR5L17N54002"
+ },
+ {
+  "body": "Score de pression 61/100 — Renforcer la place des agriculteurs dans l’aménagement du territoire et à sécuriser l’exercice des activités agricoles face au changement climatique. Signaux : 1 articles, registre, dons, marché.",
+  "date": "2026-08-12T16:18:33+00:00",
+  "entity_id": "totalenergies",
+  "id": "86e67cb3148b",
+  "kind": "pression_forte",
+  "law_id": "DLR5L17N53715",
+  "severity": "critical",
+  "title": "TotalEnergies pousse le texte DLR5L17N53715"
+ },
+ {
+  "body": "Score de pression 61/100 — Proposition de loi visant à bloquer les prix du gaz et des carburants et à encadrer les marges en période de crise. Signaux : 1 articles, registre, dons, marché.",
+  "date": "2026-08-12T16:18:33+00:00",
+  "entity_id": "totalenergies",
+  "id": "f7ccf6f676e3",
+  "kind": "pression_forte",
+  "law_id": "DLR5L17N53938",
+  "severity": "critical",
+  "title": "TotalEnergies pousse le texte DLR5L17N53938"
+ },
+ {
+  "body": "Score de pression 61/100 — Améliorer l’environnement alimentaire dans la grande distribution pour contribuer à l’atteinte des objectifs fixés par la stratégie nationale pour l’alimentation, la nutrition et le climat. Signaux : 1 articles, registre, dons, marché.",
+  "date": "2026-08-12T16:18:33+00:00",
+  "entity_id": "totalenergies",
+  "id": "3a068b6bd593",
+  "kind": "pression_forte",
+  "law_id": "DLR5L17N53874",
+  "severity": "critical",
+  "title": "TotalEnergies pousse le texte DLR5L17N53874"
+ },
+ {
+  "body": "Score de pression 61/100 — Proposition de loi visant à confier à la recherche publique une mission de collecte, de diffusion et de conservation des données scientifiques sur la Terre, le climat et l'environnement. Signaux : 1 articles, registre, dons, marché.",
+  "date": "2026-08-12T16:18:33+00:00",
+  "entity_id": "totalenergies",
+  "id": "7aadbf7b54c7",
+  "kind": "pression_forte",
+  "law_id": "DLR5L17N53888",
+  "severity": "critical",
+  "title": "TotalEnergies pousse le texte DLR5L17N53888"
+ },
+ {
+  "body": "Score de pression 61/100 — La territorialisation et le portage des politiques publiques en termes d’aménagement du territoire et de transition énergétique et écologique. Signaux : 1 articles, registre, dons, marché.",
+  "date": "2026-08-12T16:18:33+00:00",
+  "entity_id": "totalenergies",
+  "id": "5fc3f8e3a2b7",
+  "kind": "pression_forte",
+  "law_id": "DLR5L17N53788",
+  "severity": "critical",
+  "title": "TotalEnergies pousse le texte DLR5L17N53788"
+ },
+ {
+  "body": "Score de pression 61/100 — Réaffirmer l’ambition climatique de la France au niveau européen. Signaux : 1 articles, registre, dons, marché.",
+  "date": "2026-08-12T16:18:33+00:00",
+  "entity_id": "totalenergies",
+  "id": "77ae76c16ff1",
+  "kind": "pression_forte",
+  "law_id": "DLR5L17N53014",
+  "severity": "critical",
+  "title": "TotalEnergies pousse le texte DLR5L17N53014"
+ },
+ {
+  "body": "Score de pression 61/100 — Garantir la mise à l'abri de la population face aux événements climatiques extrêmes. Signaux : 1 articles, registre, dons, marché.",
+  "date": "2026-08-12T16:18:33+00:00",
+  "entity_id": "totalenergies",
+  "id": "2cc91b3eb3a3",
+  "kind": "pression_forte",
+  "law_id": "DLR5L17N53529",
+  "severity": "critical",
+  "title": "TotalEnergies pousse le texte DLR5L17N53529"
+ },
+ {
+  "body": "Score de pression 61/100 — Garantir l'intégrité de l'information sur le changement climatique face à la désinformation climatique et aux ingérences étrangères. Signaux : 1 articles, registre, dons, marché.",
+  "date": "2026-08-12T16:18:33+00:00",
+  "entity_id": "totalenergies",
+  "id": "8d3b6a782211",
+  "kind": "pression_forte",
+  "law_id": "DLR5L17N52803",
+  "severity": "critical",
+  "title": "TotalEnergies pousse le texte DLR5L17N52803"
+ },
+ {
+  "body": "Score de pression 61/100 — Projet de loi ratifiant l’ordonnance n° 2025-979 du 14 octobre 2025 portant transposition des articles 7, 26 et 27 de la directive (UE) 2023/1791 du Parlement européen et du Conseil du 13 septembre 2023 relative à l'efficacité énergétique. Signaux : 1 articles, registre, dons, marché.",
+  "date": "2026-08-12T16:18:33+00:00",
+  "entity_id": "totalenergies",
+  "id": "06cf29b95d2e",
+  "kind": "pression_forte",
+  "law_id": "DLR5L17N53762",
+  "severity": "critical",
+  "title": "TotalEnergies pousse le texte DLR5L17N53762"
+ },
+ {
+  "body": "Score de pression 61/100 — La politique monétaire de la zone euro face au défi climatique. Signaux : 1 articles, registre, dons, marché.",
+  "date": "2026-08-12T16:18:33+00:00",
+  "entity_id": "totalenergies",
+  "id": "ac6a68e3f137",
+  "kind": "pression_forte",
+  "law_id": "DLR5L17N53373",
+  "severity": "critical",
+  "title": "TotalEnergies pousse le texte DLR5L17N53373"
+ },
+ {
+  "body": "Score de pression 61/100 — Réaffirmer l’importance de la décarbonation du transport routier. Signaux : 1 articles, registre, dons, marché.",
+  "date": "2026-08-12T16:18:33+00:00",
+  "entity_id": "totalenergies",
+  "id": "40b1a7953303",
+  "kind": "pression_forte",
+  "law_id": "DLR5L17N53010",
+  "severity": "critical",
+  "title": "TotalEnergies pousse le texte DLR5L17N53010"
+ },
+ {
+  "body": "Score de pression 61/100 — Les impacts technologiques de l’évolution du mix énergétique et ses conséquences sur l’outil industriel et les réseaux. Signaux : 1 articles, registre, dons, marché.",
+  "date": "2026-08-12T16:18:33+00:00",
+  "entity_id": "totalenergies",
+  "id": "da90771083f7",
+  "kind": "pression_forte",
+  "law_id": "DLR5L17N53228",
+  "severity": "critical",
+  "title": "TotalEnergies pousse le texte DLR5L17N53228"
+ },
+ {
+  "body": "Score de pression 61/100 — L’application du règlement contre la déforestation et la dégradation des forêts. Signaux : 1 articles, registre, dons, marché.",
+  "date": "2026-08-12T16:18:33+00:00",
+  "entity_id": "totalenergies",
+  "id": "622644228bb8",
+  "kind": "pression_forte",
+  "law_id": "DLR5L17N53143",
+  "severity": "critical",
+  "title": "TotalEnergies pousse le texte DLR5L17N53143"
+ },
+ {
+  "body": "Score de pression 61/100 — Lever les freins au développement du stockage massif d’électricité dans les zones non interconnectées, au bénéfice de la décarbonation et de la sécurisation de leur système électrique. Signaux : 1 articles, registre, dons, marché.",
+  "date": "2026-08-12T16:18:33+00:00",
+  "entity_id": "totalenergies",
+  "id": "edeb7c73d30c",
+  "kind": "pression_forte",
+  "law_id": "DLR5L17N53060",
+  "severity": "critical",
+  "title": "TotalEnergies pousse le texte DLR5L17N53060"
+ },
+ {
+  "body": "Score de pression 61/100 — Instaurer une gratuité de l’électricité décarbonée pour les industries selon leur bilan carbone. Signaux : 1 articles, registre, dons, marché.",
+  "date": "2026-08-12T16:18:33+00:00",
+  "entity_id": "totalenergies",
+  "id": "5030587bbb44",
+  "kind": "pression_forte",
+  "law_id": "DLR5L17N53041",
+  "severity": "critical",
+  "title": "TotalEnergies pousse le texte DLR5L17N53041"
+ },
+ {
+  "body": "Score de pression 61/100 — Le secteur des transports européens face à l’enjeu de la décarbonation. Signaux : 1 articles, registre, dons, marché.",
+  "date": "2026-08-12T16:18:33+00:00",
+  "entity_id": "totalenergies",
+  "id": "913f4753489f",
+  "kind": "pression_forte",
+  "law_id": "DLR5L17N53009",
+  "severity": "critical",
+  "title": "TotalEnergies pousse le texte DLR5L17N53009"
+ },
+ {
+  "body": "Score de pression 65/100 — Objection conformément à l'article 114, paragraphe 3, du règlement: trajectoire visant à réduire la contribution aux objectifs en matière d’énergies renouvelables des biocarburants, bioliquides et combustibles issus de la biomasse présentant un risque élevé d’induire des changements indirects dans l’affectation des sols. Signaux : 1 articles, registre, dons, marché.",
+  "date": "2026-08-12T16:18:33+00:00",
+  "entity_id": "totalenergies",
+  "id": "057f1b1104b2",
+  "kind": "pression_forte",
+  "law_id": "eli/dl/doc/B-10-2026-0337",
+  "severity": "critical",
+  "title": "TotalEnergies pousse le texte eli/dl/doc/B-10-2026-0337"
+ },
+ {
   "body": "Déclaration d'intérêts (Professional consultancies). Domaines : agriculture, climat, commerce, energie, environnement, finance, fiscalite, numerique, sante, transport.",
-  "date": "2026-08-12T15:51:08+00:00",
+  "date": "2026-08-12T16:18:33+00:00",
   "entity_id": "british-american-tobacco",
   "id": "e241492004a9",
   "kind": "registre",
@@ -10,7 +480,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Other organisations, public or mixed entities). Domaines : agriculture, climat, commerce, defense, energie, environnement, finance, numerique, sante, transport.",
-  "date": "2026-08-12T15:51:08+00:00",
+  "date": "2026-08-12T16:18:33+00:00",
   "entity_id": "microsoft",
   "id": "de343634b029",
   "kind": "registre",
@@ -19,7 +489,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Companies & groups). Domaines : climat, commerce, energie, environnement, finance, fiscalite, numerique, transport.",
-  "date": "2026-08-12T15:51:08+00:00",
+  "date": "2026-08-12T16:18:33+00:00",
   "entity_id": "engie",
   "id": "37b40b1f9f02",
   "kind": "registre",
@@ -28,7 +498,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Professional consultancies). Domaines : agriculture, climat, commerce, defense, energie, environnement, finance, fiscalite, numerique, sante, social, transport.",
-  "date": "2026-08-12T15:51:08+00:00",
+  "date": "2026-08-12T16:18:33+00:00",
   "entity_id": "exxonmobil",
   "id": "62dc37a2c535",
   "kind": "registre",
@@ -37,7 +507,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Companies & groups). Domaines : agriculture, climat, commerce, energie, environnement, finance, fiscalite, numerique, sante.",
-  "date": "2026-08-12T15:51:08+00:00",
+  "date": "2026-08-12T16:18:33+00:00",
   "entity_id": "veolia",
   "id": "8175abe27474",
   "kind": "registre",
@@ -46,7 +516,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Professional consultancies). Domaines : agriculture, climat, commerce, defense, energie, environnement, finance, fiscalite, numerique, sante, social, transport.",
-  "date": "2026-08-12T15:51:08+00:00",
+  "date": "2026-08-12T16:18:33+00:00",
   "entity_id": "basf",
   "id": "27ffb6488922",
   "kind": "registre",
@@ -55,7 +525,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Professional consultancies). Domaines : agriculture, climat, commerce, energie, environnement, finance, fiscalite, numerique, sante, social, transport.",
-  "date": "2026-08-12T15:51:08+00:00",
+  "date": "2026-08-12T16:18:33+00:00",
   "entity_id": "meta",
   "id": "7b90b49d7843",
   "kind": "registre",
@@ -64,7 +534,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Companies & groups). Domaines : agriculture, climat, commerce, defense, environnement, finance, fiscalite, numerique, sante, social.",
-  "date": "2026-08-12T15:51:08+00:00",
+  "date": "2026-08-12T16:18:33+00:00",
   "entity_id": "lvmh",
   "id": "9d259ef0f39c",
   "kind": "registre",
@@ -73,7 +543,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Professional consultancies). Domaines : agriculture, climat, commerce, defense, energie, environnement, finance, fiscalite, numerique, sante, social, transport.",
-  "date": "2026-08-12T15:51:08+00:00",
+  "date": "2026-08-12T16:18:33+00:00",
   "entity_id": "bayer",
   "id": "80a64d3641a5",
   "kind": "registre",
@@ -82,7 +552,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Professional consultancies). Domaines : agriculture, climat, commerce, defense, energie, environnement, finance, fiscalite, numerique, sante, social, transport.",
-  "date": "2026-08-12T15:51:08+00:00",
+  "date": "2026-08-12T16:18:33+00:00",
   "entity_id": "alphabet",
   "id": "5f70b3edf1c1",
   "kind": "registre",
@@ -91,7 +561,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Professional consultancies). Domaines : agriculture, climat, commerce, defense, energie, environnement, finance, fiscalite, numerique, sante, social, transport.",
-  "date": "2026-08-12T15:51:08+00:00",
+  "date": "2026-08-12T16:18:33+00:00",
   "entity_id": "meta",
   "id": "3324bea37112",
   "kind": "registre",
@@ -100,7 +570,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Professional consultancies). Domaines : agriculture, climat, commerce, defense, energie, environnement, finance, fiscalite, numerique, sante, social, transport.",
-  "date": "2026-08-12T15:51:08+00:00",
+  "date": "2026-08-12T16:18:33+00:00",
   "entity_id": "apple",
   "id": "8b45b208a5a2",
   "kind": "registre",
@@ -109,7 +579,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Professional consultancies). Domaines : agriculture, climat, commerce, defense, energie, environnement, finance, fiscalite, numerique, sante, social, transport.",
-  "date": "2026-08-12T15:51:08+00:00",
+  "date": "2026-08-12T16:18:33+00:00",
   "entity_id": "philip-morris",
   "id": "bb002d3a1b94",
   "kind": "registre",
@@ -118,7 +588,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Professional consultancies). Domaines : agriculture, climat, commerce, energie, environnement, finance, fiscalite, numerique, sante, social, transport.",
-  "date": "2026-08-12T15:51:08+00:00",
+  "date": "2026-08-12T16:18:33+00:00",
   "entity_id": "alphabet",
   "id": "f53d1404dea3",
   "kind": "registre",
@@ -127,7 +597,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Companies & groups). Domaines : climat, commerce, energie, environnement, finance, fiscalite, numerique, sante.",
-  "date": "2026-08-12T15:51:08+00:00",
+  "date": "2026-08-12T16:18:33+00:00",
   "entity_id": "apple",
   "id": "ed64f74e755c",
   "kind": "registre",
@@ -136,7 +606,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Professional consultancies). Domaines : agriculture, climat, commerce, defense, energie, environnement, finance, fiscalite, numerique, sante, social, transport.",
-  "date": "2026-08-12T15:51:08+00:00",
+  "date": "2026-08-12T16:18:33+00:00",
   "entity_id": "bayer",
   "id": "bc0d34df4a02",
   "kind": "registre",
@@ -145,7 +615,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Companies & groups). Domaines : agriculture, climat, commerce, energie, environnement, finance, fiscalite, numerique, sante, social, transport.",
-  "date": "2026-08-12T15:51:08+00:00",
+  "date": "2026-08-12T16:18:33+00:00",
   "entity_id": "nestle",
   "id": "9c498627b16e",
   "kind": "registre",
@@ -154,7 +624,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Self-employed individuals). Domaines : agriculture, climat, commerce, energie, environnement, finance, fiscalite, numerique, sante, social, transport.",
-  "date": "2026-08-12T15:51:08+00:00",
+  "date": "2026-08-12T16:18:33+00:00",
   "entity_id": "british-american-tobacco",
   "id": "0cb96e0e9513",
   "kind": "registre",
@@ -163,7 +633,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Professional consultancies). Domaines : agriculture, climat, commerce, defense, energie, environnement, finance, fiscalite, numerique, sante, social, transport.",
-  "date": "2026-08-12T15:51:08+00:00",
+  "date": "2026-08-12T16:18:33+00:00",
   "entity_id": "alphabet",
   "id": "a814c71d43c0",
   "kind": "registre",
@@ -172,7 +642,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Companies & groups). Domaines : agriculture, climat, commerce, defense, energie, environnement, finance, fiscalite, numerique, sante, social, transport.",
-  "date": "2026-08-12T15:51:08+00:00",
+  "date": "2026-08-12T16:18:33+00:00",
   "entity_id": "societe-generale",
   "id": "3252c7705671",
   "kind": "registre",
@@ -181,7 +651,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Professional consultancies). Domaines : agriculture, climat, commerce, defense, energie, environnement, finance, fiscalite, numerique, sante, social, transport.",
-  "date": "2026-08-12T15:51:08+00:00",
+  "date": "2026-08-12T16:18:33+00:00",
   "entity_id": "orange",
   "id": "db638cabbaf9",
   "kind": "registre",
@@ -190,7 +660,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Companies & groups). Domaines : climat, commerce, energie, environnement, finance, fiscalite, numerique, sante, transport.",
-  "date": "2026-08-12T15:51:08+00:00",
+  "date": "2026-08-12T16:18:33+00:00",
   "entity_id": "air-liquide",
   "id": "e1e846f7de5a",
   "kind": "registre",
@@ -199,7 +669,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Professional consultancies). Domaines : commerce, numerique.",
-  "date": "2026-08-12T15:51:08+00:00",
+  "date": "2026-08-12T16:18:33+00:00",
   "entity_id": "meta",
   "id": "9ae3fb4574c9",
   "kind": "registre",
@@ -208,7 +678,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Professional consultancies). Domaines : climat, commerce, defense, energie, environnement, finance, fiscalite, numerique, sante, social, transport.",
-  "date": "2026-08-12T15:51:08+00:00",
+  "date": "2026-08-12T16:18:33+00:00",
   "entity_id": "apple",
   "id": "099affb6448e",
   "kind": "registre",
@@ -217,7 +687,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Self-employed individuals). Domaines : agriculture, commerce, finance, fiscalite.",
-  "date": "2026-08-12T15:51:08+00:00",
+  "date": "2026-08-12T16:18:33+00:00",
   "entity_id": "british-american-tobacco",
   "id": "f416378005d5",
   "kind": "registre",
@@ -226,7 +696,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Companies & groups). Domaines : finance.",
-  "date": "2026-08-12T15:51:08+00:00",
+  "date": "2026-08-12T16:18:33+00:00",
   "entity_id": "credit-agricole",
   "id": "e499093c16a4",
   "kind": "registre",
@@ -235,7 +705,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Professional consultancies). Domaines : agriculture, climat, commerce, defense, energie, environnement, finance, fiscalite, numerique, sante, social.",
-  "date": "2026-08-12T15:51:08+00:00",
+  "date": "2026-08-12T16:18:33+00:00",
   "entity_id": "apple",
   "id": "097fb30bb508",
   "kind": "registre",
@@ -244,7 +714,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Professional consultancies). Domaines : agriculture, climat, commerce, energie, environnement, finance, fiscalite, numerique, sante, transport.",
-  "date": "2026-08-12T15:51:08+00:00",
+  "date": "2026-08-12T16:18:33+00:00",
   "entity_id": "microsoft",
   "id": "80a7f251cb35",
   "kind": "registre",
@@ -253,7 +723,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Professional consultancies). Domaines : agriculture, climat, commerce, defense, energie, environnement, finance, fiscalite, numerique, sante, social, transport.",
-  "date": "2026-08-12T15:51:08+00:00",
+  "date": "2026-08-12T16:18:33+00:00",
   "entity_id": "lvmh",
   "id": "5bd02f2b50b4",
   "kind": "registre",
@@ -262,7 +732,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Professional consultancies). Domaines : agriculture, climat, commerce, defense, energie, environnement, finance, fiscalite, numerique, sante, social, transport.",
-  "date": "2026-08-12T15:51:08+00:00",
+  "date": "2026-08-12T16:18:33+00:00",
   "entity_id": "stellantis",
   "id": "ad815c34d939",
   "kind": "registre",
@@ -271,7 +741,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Companies & groups). Domaines : climat, commerce, energie, environnement, finance, fiscalite, numerique, social, transport.",
-  "date": "2026-08-12T15:51:08+00:00",
+  "date": "2026-08-12T16:18:33+00:00",
   "entity_id": "bnp-paribas",
   "id": "2ac277af0ef3",
   "kind": "registre",
@@ -280,7 +750,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Companies & groups). Domaines : climat, commerce, energie, environnement, finance, fiscalite, numerique, sante, social, transport.",
-  "date": "2026-08-12T15:51:08+00:00",
+  "date": "2026-08-12T16:18:33+00:00",
   "entity_id": "renault",
   "id": "b7d934b9dc37",
   "kind": "registre",
@@ -289,7 +759,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Companies & groups). Domaines : agriculture, climat, commerce, energie, environnement, finance, fiscalite, numerique, sante.",
-  "date": "2026-08-12T15:51:08+00:00",
+  "date": "2026-08-12T16:18:33+00:00",
   "entity_id": "bayer",
   "id": "befe2c46597d",
   "kind": "registre",
@@ -298,7 +768,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Companies & groups). Domaines : climat, commerce, environnement, finance, fiscalite, numerique, sante, social.",
-  "date": "2026-08-12T15:51:08+00:00",
+  "date": "2026-08-12T16:18:33+00:00",
   "entity_id": "sanofi",
   "id": "7e19fae1fb6c",
   "kind": "registre",
@@ -307,7 +777,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Professional consultancies). Domaines : agriculture, climat, commerce, defense, energie, environnement, finance, fiscalite, numerique, sante, transport.",
-  "date": "2026-08-12T15:51:08+00:00",
+  "date": "2026-08-12T16:18:33+00:00",
   "entity_id": "lvmh",
   "id": "c1412e5c4ca9",
   "kind": "registre",
@@ -316,7 +786,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Professional consultancies). Domaines : agriculture, climat, commerce, energie, environnement, numerique, sante, social, transport.",
-  "date": "2026-08-12T15:51:08+00:00",
+  "date": "2026-08-12T16:18:33+00:00",
   "entity_id": "apple",
   "id": "7d4262cb8300",
   "kind": "registre",
@@ -325,7 +795,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Professional consultancies). Domaines : agriculture, climat, commerce, defense, energie, environnement, finance, fiscalite, numerique, sante, social, transport.",
-  "date": "2026-08-12T15:51:08+00:00",
+  "date": "2026-08-12T16:18:33+00:00",
   "entity_id": "microsoft",
   "id": "f0ce8e348322",
   "kind": "registre",
@@ -334,7 +804,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Law firms). Domaines : agriculture, climat, commerce, defense, energie, environnement, finance, numerique, sante, transport.",
-  "date": "2026-08-12T15:51:08+00:00",
+  "date": "2026-08-12T16:18:33+00:00",
   "entity_id": "meta",
   "id": "3152ccb84197",
   "kind": "registre",
@@ -343,7 +813,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Think tanks and research institutions). Domaines : climat, commerce, defense, energie, environnement, finance, fiscalite, numerique, sante, social, transport.",
-  "date": "2026-08-12T15:51:08+00:00",
+  "date": "2026-08-12T16:18:33+00:00",
   "entity_id": "sanofi",
   "id": "50cd98c1300c",
   "kind": "registre",
@@ -352,7 +822,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Professional consultancies). Domaines : agriculture, climat, commerce, defense, energie, environnement, finance, fiscalite, numerique, sante, social, transport.",
-  "date": "2026-08-12T15:51:08+00:00",
+  "date": "2026-08-12T16:18:33+00:00",
   "entity_id": "pfizer",
   "id": "863654584fe9",
   "kind": "registre",
@@ -361,7 +831,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Self-employed individuals). Domaines : finance, fiscalite, sante.",
-  "date": "2026-08-12T15:51:08+00:00",
+  "date": "2026-08-12T16:18:33+00:00",
   "entity_id": "british-american-tobacco",
   "id": "20f48847bbfb",
   "kind": "registre",
@@ -370,7 +840,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Professional consultancies). Domaines : agriculture, climat, commerce, defense, energie, environnement, finance, fiscalite, numerique, sante, social, transport.",
-  "date": "2026-08-12T15:51:08+00:00",
+  "date": "2026-08-12T16:18:33+00:00",
   "entity_id": "alphabet",
   "id": "264b11731dab",
   "kind": "registre",
@@ -379,7 +849,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Companies & groups). Domaines : climat, commerce, defense, energie, environnement, finance, fiscalite, numerique, social, transport.",
-  "date": "2026-08-12T15:51:08+00:00",
+  "date": "2026-08-12T16:18:33+00:00",
   "entity_id": "stellantis",
   "id": "38b6bfc06f49",
   "kind": "registre",
@@ -388,7 +858,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Professional consultancies). Domaines : agriculture, climat, commerce, defense, energie, environnement, finance, fiscalite, numerique, sante, social, transport.",
-  "date": "2026-08-12T15:51:08+00:00",
+  "date": "2026-08-12T16:18:33+00:00",
   "entity_id": "meta",
   "id": "50d3a4541bb4",
   "kind": "registre",
@@ -397,7 +867,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Companies & groups). Domaines : agriculture, climat, commerce, energie, environnement, sante.",
-  "date": "2026-08-12T15:51:08+00:00",
+  "date": "2026-08-12T16:18:33+00:00",
   "entity_id": "bayer",
   "id": "007ec217b109",
   "kind": "registre",
@@ -406,7 +876,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Professional consultancies). Domaines : climat, commerce, defense, energie, environnement, numerique, transport.",
-  "date": "2026-08-12T15:51:08+00:00",
+  "date": "2026-08-12T16:18:33+00:00",
   "entity_id": "apple",
   "id": "cfbb627ef463",
   "kind": "registre",
@@ -415,7 +885,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Professional consultancies). Domaines : agriculture, climat, commerce, defense, energie, environnement, finance, fiscalite, numerique, sante, social, transport.",
-  "date": "2026-08-12T15:51:08+00:00",
+  "date": "2026-08-12T16:18:33+00:00",
   "entity_id": "airbus",
   "id": "43fefdd005e9",
   "kind": "registre",
@@ -424,7 +894,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Professional consultancies). Domaines : agriculture, climat, commerce, defense, energie, environnement, finance, fiscalite, numerique, sante, social, transport.",
-  "date": "2026-08-12T15:51:08+00:00",
+  "date": "2026-08-12T16:18:33+00:00",
   "entity_id": "sanofi",
   "id": "02e358ba34d8",
   "kind": "registre",
@@ -433,7 +903,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Professional consultancies). Domaines : agriculture, climat, commerce, defense, energie, environnement, finance, fiscalite, numerique, sante, social, transport.",
-  "date": "2026-08-12T15:51:08+00:00",
+  "date": "2026-08-12T16:18:33+00:00",
   "entity_id": "sanofi",
   "id": "549e8ea84c03",
   "kind": "registre",
@@ -442,7 +912,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Self-employed individuals). Domaines : climat, commerce, defense, energie, environnement, finance, numerique, sante.",
-  "date": "2026-08-12T15:51:08+00:00",
+  "date": "2026-08-12T16:18:33+00:00",
   "entity_id": "meta",
   "id": "98f635560f2b",
   "kind": "registre",
@@ -451,7 +921,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Companies & groups). Domaines : climat, commerce, defense, environnement, finance, fiscalite, numerique, sante, social.",
-  "date": "2026-08-12T15:51:08+00:00",
+  "date": "2026-08-12T16:18:33+00:00",
   "entity_id": "novartis",
   "id": "224940f58677",
   "kind": "registre",
@@ -460,7 +930,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Companies & groups). Domaines : climat, commerce, defense, environnement, finance, fiscalite, numerique, social.",
-  "date": "2026-08-12T15:51:08+00:00",
+  "date": "2026-08-12T16:18:33+00:00",
   "entity_id": "meta",
   "id": "e4c86f3d1386",
   "kind": "registre",
@@ -469,7 +939,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Professional consultancies). Domaines : agriculture, climat, commerce, defense, energie, environnement, finance, fiscalite, numerique, sante, social, transport.",
-  "date": "2026-08-12T15:51:08+00:00",
+  "date": "2026-08-12T16:18:33+00:00",
   "entity_id": "alphabet",
   "id": "27108aadb28c",
   "kind": "registre",
@@ -478,7 +948,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Self-employed individuals). Domaines : climat, energie, environnement, numerique, sante, transport.",
-  "date": "2026-08-12T15:51:08+00:00",
+  "date": "2026-08-12T16:18:33+00:00",
   "entity_id": "apple",
   "id": "82ae3eec2689",
   "kind": "registre",
@@ -487,7 +957,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Professional consultancies). Domaines : agriculture, climat, commerce, defense, energie, environnement, finance, fiscalite, numerique, sante, social, transport.",
-  "date": "2026-08-12T15:51:08+00:00",
+  "date": "2026-08-12T16:18:33+00:00",
   "entity_id": "apple",
   "id": "a35f9dbbb1ea",
   "kind": "registre",
@@ -496,7 +966,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Trade unions and professional associations). Domaines : climat, commerce, environnement, finance, numerique.",
-  "date": "2026-08-12T15:51:08+00:00",
+  "date": "2026-08-12T16:18:33+00:00",
   "entity_id": "credit-agricole",
   "id": "91c75811c542",
   "kind": "registre",
@@ -505,7 +975,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Professional consultancies). Domaines : agriculture, climat, commerce, defense, energie, environnement, finance, fiscalite, numerique, sante, transport.",
-  "date": "2026-08-12T15:51:08+00:00",
+  "date": "2026-08-12T16:18:33+00:00",
   "entity_id": "airbus",
   "id": "8ea0084c1933",
   "kind": "registre",
@@ -514,7 +984,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Professional consultancies). Domaines : agriculture, climat, commerce, defense, energie, environnement, numerique, sante.",
-  "date": "2026-08-12T15:51:08+00:00",
+  "date": "2026-08-12T16:18:33+00:00",
   "entity_id": "basf",
   "id": "85632672cae4",
   "kind": "registre",
@@ -523,7 +993,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Companies & groups). Domaines : climat, commerce, energie, environnement, finance, fiscalite, numerique, social, transport.",
-  "date": "2026-08-12T15:51:08+00:00",
+  "date": "2026-08-12T16:18:33+00:00",
   "entity_id": "edf",
   "id": "c9519c4ee2d9",
   "kind": "registre",
@@ -532,7 +1002,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Professional consultancies). Domaines : agriculture, climat, commerce, defense, energie, environnement, finance, fiscalite, numerique, sante, social, transport.",
-  "date": "2026-08-12T15:51:08+00:00",
+  "date": "2026-08-12T16:18:33+00:00",
   "entity_id": "alphabet",
   "id": "dbe03e5bd44b",
   "kind": "registre",
@@ -541,7 +1011,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Professional consultancies). Domaines : agriculture, climat, commerce, defense, energie, environnement, finance, fiscalite, numerique, sante.",
-  "date": "2026-08-12T15:51:08+00:00",
+  "date": "2026-08-12T16:18:33+00:00",
   "entity_id": "lvmh",
   "id": "0cb63dffc7de",
   "kind": "registre",
@@ -550,7 +1020,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Professional consultancies). Domaines : sante.",
-  "date": "2026-08-12T15:51:08+00:00",
+  "date": "2026-08-12T16:18:33+00:00",
   "entity_id": "novartis",
   "id": "6909b9d2092c",
   "kind": "registre",
@@ -559,7 +1029,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Think tanks and research institutions). Domaines : agriculture, climat, commerce, defense, energie, environnement, finance, fiscalite, numerique, sante, social, transport.",
-  "date": "2026-08-12T15:51:08+00:00",
+  "date": "2026-08-12T16:18:33+00:00",
   "entity_id": "basf",
   "id": "1f8c6b88bdec",
   "kind": "registre",
@@ -568,7 +1038,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Professional consultancies). Domaines : numerique.",
-  "date": "2026-08-12T15:51:08+00:00",
+  "date": "2026-08-12T16:18:33+00:00",
   "entity_id": "meta",
   "id": "b091d425fb4b",
   "kind": "registre",
@@ -577,7 +1047,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Professional consultancies). Domaines : climat, commerce, defense, energie, environnement, numerique, sante.",
-  "date": "2026-08-12T15:51:08+00:00",
+  "date": "2026-08-12T16:18:33+00:00",
   "entity_id": "philip-morris",
   "id": "2a2ab80363f6",
   "kind": "registre",
@@ -586,7 +1056,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Other organisations, public or mixed entities). Domaines : agriculture, climat, commerce, defense, energie, environnement, finance, fiscalite, numerique, sante, social, transport.",
-  "date": "2026-08-12T15:51:08+00:00",
+  "date": "2026-08-12T16:18:33+00:00",
   "entity_id": "engie",
   "id": "cb530889ab3c",
   "kind": "registre",
@@ -595,7 +1065,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Companies  groups). Domaines : climat, commerce, energie, environnement, numerique, sante, social, transport.",
-  "date": "2026-08-12T15:51:08+00:00",
+  "date": "2026-08-12T16:18:33+00:00",
   "entity_id": "bouygues",
   "id": "c0cc6cf0c672",
   "kind": "registre",
@@ -604,7 +1074,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Self-employed individuals). Domaines : climat, environnement.",
-  "date": "2026-08-12T15:51:08+00:00",
+  "date": "2026-08-12T16:18:33+00:00",
   "entity_id": "apple",
   "id": "55e4075d7111",
   "kind": "registre",
@@ -613,7 +1083,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Professional consultancies). Domaines : agriculture, climat, commerce, energie, environnement, finance, fiscalite, numerique, sante, social, transport.",
-  "date": "2026-08-12T15:51:08+00:00",
+  "date": "2026-08-12T16:18:33+00:00",
   "entity_id": "nestle",
   "id": "2c01fc21e44f",
   "kind": "registre",
@@ -622,7 +1092,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Law firms). Domaines : agriculture, climat, commerce, energie, environnement, finance, fiscalite, numerique, sante, transport.",
-  "date": "2026-08-12T15:51:08+00:00",
+  "date": "2026-08-12T16:18:33+00:00",
   "entity_id": "british-american-tobacco",
   "id": "16a452f6230c",
   "kind": "registre",
@@ -631,7 +1101,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Professional consultancies). Domaines : commerce, defense, numerique, sante, social.",
-  "date": "2026-08-12T15:51:08+00:00",
+  "date": "2026-08-12T16:18:33+00:00",
   "entity_id": "sanofi",
   "id": "8701a3ea7d2f",
   "kind": "registre",
@@ -640,7 +1110,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Law firms). Domaines : agriculture, climat, commerce, defense, energie, environnement, finance, fiscalite, numerique, sante, social, transport.",
-  "date": "2026-08-12T15:51:08+00:00",
+  "date": "2026-08-12T16:18:33+00:00",
   "entity_id": "microsoft",
   "id": "b491318b4720",
   "kind": "registre",
@@ -649,7 +1119,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Professional consultancies). Domaines : agriculture, climat, commerce, defense, energie, environnement, finance, fiscalite, numerique, sante, social, transport.",
-  "date": "2026-08-12T15:51:08+00:00",
+  "date": "2026-08-12T16:18:33+00:00",
   "entity_id": "microsoft",
   "id": "2e785bb968b9",
   "kind": "registre",
@@ -658,7 +1128,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Professional consultancies). Domaines : agriculture, climat, commerce, defense, energie, environnement, finance, fiscalite, numerique, sante, social, transport.",
-  "date": "2026-08-12T15:51:08+00:00",
+  "date": "2026-08-12T16:18:33+00:00",
   "entity_id": "nestle",
   "id": "e67b0e06359a",
   "kind": "registre",
@@ -667,7 +1137,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Professional consultancies). Domaines : agriculture, climat, commerce, energie, environnement, finance, fiscalite, numerique, sante, social, transport.",
-  "date": "2026-08-12T15:51:08+00:00",
+  "date": "2026-08-12T16:18:33+00:00",
   "entity_id": "nestle",
   "id": "3626df91750c",
   "kind": "registre",
@@ -676,7 +1146,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Professional consultancies). Domaines : agriculture, climat, commerce, defense, energie, environnement, numerique, sante, transport.",
-  "date": "2026-08-12T15:51:08+00:00",
+  "date": "2026-08-12T16:18:33+00:00",
   "entity_id": "philip-morris",
   "id": "f42704993ce1",
   "kind": "registre",
@@ -685,7 +1155,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Professional consultancies). Domaines : climat, commerce, energie, environnement, finance, fiscalite, numerique, sante, transport.",
-  "date": "2026-08-12T15:51:08+00:00",
+  "date": "2026-08-12T16:18:33+00:00",
   "entity_id": "philip-morris",
   "id": "38d75d0d59a9",
   "kind": "registre",
@@ -694,7 +1164,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Companies  groups). Domaines : agriculture, climat, commerce, energie, environnement, finance, fiscalite, numerique, sante, social, transport.",
-  "date": "2026-08-12T15:51:08+00:00",
+  "date": "2026-08-12T16:18:33+00:00",
   "entity_id": "basf",
   "id": "2eecc73743d7",
   "kind": "registre",
@@ -703,7 +1173,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Companies  groups). Domaines : climat, commerce, defense, energie, environnement, finance, numerique, transport.",
-  "date": "2026-08-12T15:51:08+00:00",
+  "date": "2026-08-12T16:18:33+00:00",
   "entity_id": "thales",
   "id": "286c086bf006",
   "kind": "registre",
@@ -712,7 +1182,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Companies  groups). Domaines : climat, commerce, environnement, finance, fiscalite, numerique, social.",
-  "date": "2026-08-12T15:51:08+00:00",
+  "date": "2026-08-12T16:18:33+00:00",
   "entity_id": "societe-generale",
   "id": "eaa62dac9a6c",
   "kind": "registre",
@@ -721,7 +1191,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Companies  groups). Domaines : agriculture, climat, commerce, defense, energie, environnement, finance, fiscalite, numerique, sante, social, transport.",
-  "date": "2026-08-12T15:51:08+00:00",
+  "date": "2026-08-12T16:18:33+00:00",
   "entity_id": "totalenergies",
   "id": "f1221b09eae7",
   "kind": "registre",
@@ -730,7 +1200,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Professional consultancies). Domaines : agriculture, climat, commerce, defense, energie, environnement, finance, fiscalite, numerique, sante, social, transport.",
-  "date": "2026-08-12T15:51:08+00:00",
+  "date": "2026-08-12T16:18:33+00:00",
   "entity_id": "british-american-tobacco",
   "id": "9c50aec32768",
   "kind": "registre",
@@ -739,7 +1209,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Companies  groups). Domaines : climat, commerce, defense, energie, environnement, finance, numerique, transport.",
-  "date": "2026-08-12T15:51:08+00:00",
+  "date": "2026-08-12T16:18:33+00:00",
   "entity_id": "airbus",
   "id": "0aa572f384fd",
   "kind": "registre",
@@ -748,7 +1218,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Companies  groups). Domaines : climat, commerce, defense, energie, environnement, finance, fiscalite, numerique, sante, transport.",
-  "date": "2026-08-12T15:51:08+00:00",
+  "date": "2026-08-12T16:18:33+00:00",
   "entity_id": "orange",
   "id": "d0e4ef760487",
   "kind": "registre",
@@ -757,7 +1227,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Professional consultancies). Domaines : agriculture, climat, commerce, defense, energie, environnement, finance, fiscalite, numerique, sante, social, transport.",
-  "date": "2026-08-12T15:51:08+00:00",
+  "date": "2026-08-12T16:18:33+00:00",
   "entity_id": "british-american-tobacco",
   "id": "de4ce6bac588",
   "kind": "registre",
@@ -766,7 +1236,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Law firms). Domaines : agriculture, climat, commerce, environnement, finance, fiscalite, numerique, sante.",
-  "date": "2026-08-12T15:51:08+00:00",
+  "date": "2026-08-12T16:18:33+00:00",
   "entity_id": "novartis",
   "id": "dde861517450",
   "kind": "registre",
@@ -775,7 +1245,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Professional consultancies). Domaines : numerique.",
-  "date": "2026-08-12T15:51:08+00:00",
+  "date": "2026-08-12T16:18:33+00:00",
   "entity_id": "apple",
   "id": "5e48c6d5f048",
   "kind": "registre",
@@ -784,7 +1254,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Professional consultancies). Domaines : climat, energie, environnement, transport.",
-  "date": "2026-08-12T15:51:08+00:00",
+  "date": "2026-08-12T16:18:33+00:00",
   "entity_id": "shell",
   "id": "f5133d012c72",
   "kind": "registre",
@@ -793,7 +1263,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Professional consultancies). Domaines : agriculture, climat, commerce, energie, environnement, finance, fiscalite, numerique, sante.",
-  "date": "2026-08-12T15:51:08+00:00",
+  "date": "2026-08-12T16:18:33+00:00",
   "entity_id": "british-american-tobacco",
   "id": "5849d8f2a002",
   "kind": "registre",
@@ -802,7 +1272,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Companies  groups). Domaines : climat, commerce, defense, environnement, finance, fiscalite, numerique, sante.",
-  "date": "2026-08-12T15:51:08+00:00",
+  "date": "2026-08-12T16:18:33+00:00",
   "entity_id": "pfizer",
   "id": "13892640346e",
   "kind": "registre",
@@ -811,7 +1281,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Professional consultancies). Domaines : agriculture, climat, commerce, defense, energie, environnement, finance, fiscalite, numerique, sante, social, transport.",
-  "date": "2026-08-12T15:51:08+00:00",
+  "date": "2026-08-12T16:18:33+00:00",
   "entity_id": "microsoft",
   "id": "ca273f559e9c",
   "kind": "registre",
@@ -820,7 +1290,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Companies  groups). Domaines : agriculture, climat, commerce, defense, environnement, finance, fiscalite, numerique, sante, social.",
-  "date": "2026-08-12T15:51:08+00:00",
+  "date": "2026-08-12T16:18:33+00:00",
   "entity_id": "philip-morris",
   "id": "b1ae86049d4c",
   "kind": "registre",
@@ -829,7 +1299,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Companies  groups). Domaines : climat, commerce, defense, energie, environnement, finance, fiscalite, numerique, sante, social, transport.",
-  "date": "2026-08-12T15:51:08+00:00",
+  "date": "2026-08-12T16:18:33+00:00",
   "entity_id": "microsoft",
   "id": "de11763c02c6",
   "kind": "registre",
@@ -838,7 +1308,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Law firms). Domaines : climat, commerce, defense, numerique, transport.",
-  "date": "2026-08-12T15:51:08+00:00",
+  "date": "2026-08-12T16:18:33+00:00",
   "entity_id": "meta",
   "id": "e1b5186461e7",
   "kind": "registre",
@@ -847,7 +1317,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Professional consultancies). Domaines : agriculture, climat, commerce, defense, energie, environnement, finance, fiscalite, numerique, sante, social, transport.",
-  "date": "2026-08-12T15:51:08+00:00",
+  "date": "2026-08-12T16:18:33+00:00",
   "entity_id": "meta",
   "id": "135c7b88e471",
   "kind": "registre",
@@ -856,7 +1326,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Self-employed individuals). Domaines : agriculture, climat, commerce, environnement, numerique, sante, social, transport.",
-  "date": "2026-08-12T15:51:08+00:00",
+  "date": "2026-08-12T16:18:33+00:00",
   "entity_id": "philip-morris",
   "id": "b34d70303a45",
   "kind": "registre",
@@ -865,7 +1335,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Professional consultancies). Domaines : agriculture, climat, commerce, defense, energie, environnement, finance, fiscalite, numerique, sante, social, transport.",
-  "date": "2026-08-12T15:51:08+00:00",
+  "date": "2026-08-12T16:18:33+00:00",
   "entity_id": "alphabet",
   "id": "498e7056f1ab",
   "kind": "registre",
@@ -874,7 +1344,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Professional consultancies). Domaines : agriculture, climat, commerce, defense, energie, environnement, finance, fiscalite, numerique, sante, social, transport.",
-  "date": "2026-08-12T15:51:08+00:00",
+  "date": "2026-08-12T16:18:33+00:00",
   "entity_id": "novartis",
   "id": "dffe0c38b9e3",
   "kind": "registre",
@@ -883,7 +1353,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Companies  groups). Domaines : climat, commerce, defense, energie, environnement, finance, fiscalite, numerique, sante, social, transport.",
-  "date": "2026-08-12T15:51:08+00:00",
+  "date": "2026-08-12T16:18:33+00:00",
   "entity_id": "exxonmobil",
   "id": "1110488b112e",
   "kind": "registre",
@@ -892,7 +1362,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Companies  groups). Domaines : climat, commerce, defense, energie, environnement, finance, fiscalite, numerique, sante.",
-  "date": "2026-08-12T15:51:08+00:00",
+  "date": "2026-08-12T16:18:33+00:00",
   "entity_id": "dassault-systemes",
   "id": "ab6ecd150e60",
   "kind": "registre",
@@ -901,7 +1371,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Professional consultancies). Domaines : .",
-  "date": "2026-08-12T15:51:08+00:00",
+  "date": "2026-08-12T16:18:33+00:00",
   "entity_id": "philip-morris",
   "id": "6dd5ba05fd6c",
   "kind": "registre",
@@ -910,7 +1380,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Professional consultancies). Domaines : climat, commerce, defense, energie, environnement, finance, fiscalite, numerique, sante, social, transport.",
-  "date": "2026-08-12T15:51:08+00:00",
+  "date": "2026-08-12T16:18:33+00:00",
   "entity_id": "microsoft",
   "id": "f97c5ad4781c",
   "kind": "registre",
@@ -919,7 +1389,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Professional consultancies). Domaines : agriculture, climat, commerce, defense, energie, environnement, finance, fiscalite, numerique, sante, transport.",
-  "date": "2026-08-12T15:51:08+00:00",
+  "date": "2026-08-12T16:18:33+00:00",
   "entity_id": "meta",
   "id": "342f26e226e0",
   "kind": "registre",
@@ -928,7 +1398,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Professional consultancies). Domaines : climat, commerce, energie, environnement, finance, fiscalite, numerique, sante, transport.",
-  "date": "2026-08-12T15:51:08+00:00",
+  "date": "2026-08-12T16:18:33+00:00",
   "entity_id": "apple",
   "id": "022bb82156e3",
   "kind": "registre",
@@ -937,7 +1407,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Professional consultancies). Domaines : agriculture, climat, commerce, defense, energie, environnement, finance, fiscalite, numerique, sante, social, transport.",
-  "date": "2026-08-12T15:51:08+00:00",
+  "date": "2026-08-12T16:18:33+00:00",
   "entity_id": "bayer",
   "id": "55238bcabe42",
   "kind": "registre",
@@ -946,7 +1416,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Professional consultancies). Domaines : climat, commerce, defense, energie, environnement, finance, fiscalite, numerique, sante, social, transport.",
-  "date": "2026-08-12T15:51:08+00:00",
+  "date": "2026-08-12T16:18:33+00:00",
   "entity_id": "bayer",
   "id": "3a9c51b0b58a",
   "kind": "registre",
@@ -955,7 +1425,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Professional consultancies). Domaines : agriculture, climat, commerce, defense, energie, environnement, finance, fiscalite, numerique, sante, social, transport.",
-  "date": "2026-08-12T15:51:08+00:00",
+  "date": "2026-08-12T16:18:33+00:00",
   "entity_id": "philip-morris",
   "id": "e669599229f2",
   "kind": "registre",
@@ -964,7 +1434,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Professional consultancies). Domaines : commerce, defense, numerique.",
-  "date": "2026-08-12T15:51:08+00:00",
+  "date": "2026-08-12T16:18:33+00:00",
   "entity_id": "alphabet",
   "id": "b0e8a657d22f",
   "kind": "registre",
@@ -973,7 +1443,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Law firms). Domaines : agriculture, climat, commerce, defense, energie, environnement, finance, fiscalite, numerique, social, transport.",
-  "date": "2026-08-12T15:51:08+00:00",
+  "date": "2026-08-12T16:18:33+00:00",
   "entity_id": "apple",
   "id": "621127c00006",
   "kind": "registre",
@@ -982,7 +1452,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Professional consultancies). Domaines : climat, commerce, energie, environnement, numerique.",
-  "date": "2026-08-12T15:51:08+00:00",
+  "date": "2026-08-12T16:18:33+00:00",
   "entity_id": "meta",
   "id": "0c6d8a47d7a9",
   "kind": "registre",
@@ -991,7 +1461,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Professional consultancies). Domaines : agriculture, climat, commerce, defense, energie, environnement, finance, fiscalite, numerique, sante, social, transport.",
-  "date": "2026-08-12T15:51:08+00:00",
+  "date": "2026-08-12T16:18:33+00:00",
   "entity_id": "nestle",
   "id": "2ad57b21a61d",
   "kind": "registre",
@@ -1000,7 +1470,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Companies  groups). Domaines : agriculture, climat, commerce, defense, environnement, finance, fiscalite, numerique, sante, social.",
-  "date": "2026-08-12T15:51:08+00:00",
+  "date": "2026-08-12T16:18:33+00:00",
   "entity_id": "british-american-tobacco",
   "id": "c31f460f11b0",
   "kind": "registre",
@@ -1009,7 +1479,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Professional consultancies). Domaines : agriculture, climat, commerce, energie, environnement, numerique, sante, transport.",
-  "date": "2026-08-12T15:51:08+00:00",
+  "date": "2026-08-12T16:18:33+00:00",
   "entity_id": "novartis",
   "id": "7d0528d160d1",
   "kind": "registre",
