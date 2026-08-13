@@ -55,85 +55,6 @@
  ],
  "airbus": [
   {
-   "law_id": "DLR5L17N54253",
-   "reasons": [
-    "2 article(s) de presse lient Airbus à cette thématique"
-   ],
-   "score": 30.0,
-   "signals": {
-    "donations": 0.0,
-    "news": 0.667,
-    "register": 0.0,
-    "stock": 0.0
-   }
-  },
-  {
-   "law_id": "DLR5L17N54598",
-   "reasons": [
-    "2 article(s) de presse lient Airbus à cette thématique"
-   ],
-   "score": 30.0,
-   "signals": {
-    "donations": 0.0,
-    "news": 0.667,
-    "register": 0.0,
-    "stock": 0.0
-   }
-  },
-  {
-   "law_id": "DLR5L17N52134",
-   "reasons": [
-    "2 article(s) de presse lient Airbus à cette thématique"
-   ],
-   "score": 30.0,
-   "signals": {
-    "donations": 0.0,
-    "news": 0.667,
-    "register": 0.0,
-    "stock": 0.0
-   }
-  },
-  {
-   "law_id": "DLR5L17N54458",
-   "reasons": [
-    "2 article(s) de presse lient Airbus à cette thématique",
-    "registre de lobbying (juridiction), thématique commune : defense"
-   ],
-   "score": 46.0,
-   "signals": {
-    "donations": 0.0,
-    "news": 0.667,
-    "register": 0.8,
-    "stock": 0.0
-   }
-  },
-  {
-   "law_id": "DLR5L17N54257",
-   "reasons": [
-    "2 article(s) de presse lient Airbus à cette thématique"
-   ],
-   "score": 30.0,
-   "signals": {
-    "donations": 0.0,
-    "news": 0.667,
-    "register": 0.0,
-    "stock": 0.0
-   }
-  },
-  {
-   "law_id": "DLR5L17N53219",
-   "reasons": [
-    "2 article(s) de presse lient Airbus à cette thématique"
-   ],
-   "score": 30.0,
-   "signals": {
-    "donations": 0.0,
-    "news": 0.667,
-    "register": 0.0,
-    "stock": 0.0
-   }
-  },
-  {
    "law_id": "eli/dl/event/MTG-PL-2026-07-09-VOT-ITM-993015",
    "reasons": [
     "registre de lobbying (juridiction), texte explicitement suivi (déclaration UE)"
@@ -227,13 +148,12 @@
   {
    "law_id": "eli/dl/doc/B-10-2026-0338",
    "reasons": [
-    "2 article(s) de presse lient Airbus à cette thématique",
     "registre de lobbying (juridiction), texte explicitement suivi (déclaration UE)"
    ],
-   "score": 50.0,
+   "score": 20.0,
    "signals": {
     "donations": 0.0,
-    "news": 0.667,
+    "news": 0.0,
     "register": 1.0,
     "stock": 0.0
    }
@@ -253,6 +173,230 @@
   }
  ],
  "alphabet": [
+  {
+   "law_id": "DLR5L17N54760",
+   "reasons": [
+    "registre de lobbying (juridiction), thématique commune : numerique",
+    "mouvement de bourse de -9.2% autour de la date clé"
+   ],
+   "score": 29.7,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 0.8,
+    "stock": 0.917
+   }
+  },
+  {
+   "law_id": "DLR5L17N54711",
+   "reasons": [
+    "registre de lobbying (juridiction), thématique commune : numerique",
+    "mouvement de bourse de -9.3% autour de la date clé"
+   ],
+   "score": 29.9,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 0.8,
+    "stock": 0.93
+   }
+  },
+  {
+   "law_id": "DLR5L17N54731",
+   "reasons": [
+    "registre de lobbying (juridiction), thématique commune : numerique",
+    "mouvement de bourse de -9.3% autour de la date clé"
+   ],
+   "score": 29.9,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 0.8,
+    "stock": 0.93
+   }
+  },
+  {
+   "law_id": "DLR5L17N54716",
+   "reasons": [
+    "registre de lobbying (juridiction), thématique commune : numerique",
+    "mouvement de bourse de -9.3% autour de la date clé"
+   ],
+   "score": 29.9,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 0.8,
+    "stock": 0.93
+   }
+  },
+  {
+   "law_id": "DLR5L17N53704",
+   "reasons": [
+    "registre de lobbying (juridiction), thématique commune : numerique",
+    "mouvement de bourse de -3.1% autour de la date clé"
+   ],
+   "score": 20.7,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 0.8,
+    "stock": 0.312
+   }
+  },
+  {
+   "law_id": "DLR5L17N54567",
+   "reasons": [
+    "registre de lobbying (juridiction), thématique commune : numerique",
+    "mouvement de bourse de -8.7% autour de la date clé"
+   ],
+   "score": 29.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 0.8,
+    "stock": 0.865
+   }
+  },
+  {
+   "law_id": "DLR5L17N54237",
+   "reasons": [
+    "registre de lobbying (juridiction), thématique commune : numerique",
+    "mouvement de bourse de +14.3% autour de la date clé"
+   ],
+   "score": 31.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 0.8,
+    "stock": 1.0
+   }
+  },
+  {
+   "law_id": "DLR5L17N52900",
+   "reasons": [
+    "registre de lobbying (juridiction), thématique commune : numerique",
+    "mouvement de bourse de -3.1% autour de la date clé"
+   ],
+   "score": 20.6,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 0.8,
+    "stock": 0.306
+   }
+  },
+  {
+   "law_id": "DLR5L17N53753",
+   "reasons": [
+    "registre de lobbying (juridiction), thématique commune : numerique",
+    "mouvement de bourse de -3.1% autour de la date clé"
+   ],
+   "score": 20.7,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 0.8,
+    "stock": 0.312
+   }
+  },
+  {
+   "law_id": "DLR5L17N53360",
+   "reasons": [
+    "registre de lobbying (juridiction), thématique commune : numerique",
+    "mouvement de bourse de -5.9% autour de la date clé"
+   ],
+   "score": 24.8,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 0.8,
+    "stock": 0.585
+   }
+  },
+  {
+   "law_id": "DLR5L17N53668",
+   "reasons": [
+    "registre de lobbying (juridiction), thématique commune : numerique",
+    "mouvement de bourse de +5.0% autour de la date clé"
+   ],
+   "score": 23.5,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 0.8,
+    "stock": 0.497
+   }
+  },
+  {
+   "law_id": "DLR5L17N52716",
+   "reasons": [
+    "registre de lobbying (juridiction), thématique commune : numerique",
+    "mouvement de bourse de +12.9% autour de la date clé"
+   ],
+   "score": 31.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 0.8,
+    "stock": 1.0
+   }
+  },
+  {
+   "law_id": "DLR5L17N53202",
+   "reasons": [
+    "registre de lobbying (juridiction), thématique commune : numerique",
+    "mouvement de bourse de +3.3% autour de la date clé"
+   ],
+   "score": 20.9,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 0.8,
+    "stock": 0.33
+   }
+  },
+  {
+   "law_id": "DLR5L17N53170",
+   "reasons": [
+    "registre de lobbying (juridiction), thématique commune : numerique",
+    "mouvement de bourse de +3.3% autour de la date clé"
+   ],
+   "score": 20.9,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 0.8,
+    "stock": 0.33
+   }
+  },
+  {
+   "law_id": "DLR5L17N53110",
+   "reasons": [
+    "registre de lobbying (juridiction), thématique commune : numerique",
+    "mouvement de bourse de +3.6% autour de la date clé"
+   ],
+   "score": 21.3,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 0.8,
+    "stock": 0.355
+   }
+  },
+  {
+   "law_id": "DLR5L17N53007",
+   "reasons": [
+    "registre de lobbying (juridiction), thématique commune : numerique",
+    "mouvement de bourse de +6.5% autour de la date clé"
+   ],
+   "score": 25.7,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 0.8,
+    "stock": 0.646
+   }
+  },
   {
    "law_id": "eli/dl/event/MTG-PL-2026-07-09-VOT-ITM-993015",
    "reasons": [
@@ -1288,110 +1432,6 @@
    }
   },
   {
-   "law_id": "DLR5L17N54304",
-   "reasons": [
-    "2 article(s) de presse lient Bayer à cette thématique"
-   ],
-   "score": 30.0,
-   "signals": {
-    "donations": 0.0,
-    "news": 0.667,
-    "register": 0.0,
-    "stock": 0.0
-   }
-  },
-  {
-   "law_id": "DLR5L17N54305",
-   "reasons": [
-    "2 article(s) de presse lient Bayer à cette thématique"
-   ],
-   "score": 30.0,
-   "signals": {
-    "donations": 0.0,
-    "news": 0.667,
-    "register": 0.0,
-    "stock": 0.0
-   }
-  },
-  {
-   "law_id": "DLR5L17N54146",
-   "reasons": [
-    "2 article(s) de presse lient Bayer à cette thématique"
-   ],
-   "score": 30.0,
-   "signals": {
-    "donations": 0.0,
-    "news": 0.667,
-    "register": 0.0,
-    "stock": 0.0
-   }
-  },
-  {
-   "law_id": "DLR5L17N53772",
-   "reasons": [
-    "2 article(s) de presse lient Bayer à cette thématique"
-   ],
-   "score": 30.0,
-   "signals": {
-    "donations": 0.0,
-    "news": 0.667,
-    "register": 0.0,
-    "stock": 0.0
-   }
-  },
-  {
-   "law_id": "DLR5L17N54012",
-   "reasons": [
-    "2 article(s) de presse lient Bayer à cette thématique"
-   ],
-   "score": 30.0,
-   "signals": {
-    "donations": 0.0,
-    "news": 0.667,
-    "register": 0.0,
-    "stock": 0.0
-   }
-  },
-  {
-   "law_id": "DLR5L17N53405",
-   "reasons": [
-    "2 article(s) de presse lient Bayer à cette thématique"
-   ],
-   "score": 30.0,
-   "signals": {
-    "donations": 0.0,
-    "news": 0.667,
-    "register": 0.0,
-    "stock": 0.0
-   }
-  },
-  {
-   "law_id": "DLR5L17N53161",
-   "reasons": [
-    "2 article(s) de presse lient Bayer à cette thématique"
-   ],
-   "score": 30.0,
-   "signals": {
-    "donations": 0.0,
-    "news": 0.667,
-    "register": 0.0,
-    "stock": 0.0
-   }
-  },
-  {
-   "law_id": "DLR5L17N53060",
-   "reasons": [
-    "2 article(s) de presse lient Bayer à cette thématique"
-   ],
-   "score": 30.0,
-   "signals": {
-    "donations": 0.0,
-    "news": 0.667,
-    "register": 0.0,
-    "stock": 0.0
-   }
-  },
-  {
    "law_id": "eli/dl/event/MTG-PL-2026-07-09-VOT-ITM-993015",
    "reasons": [
     "registre de lobbying (juridiction), texte explicitement suivi (déclaration UE)"
@@ -1721,20 +1761,6 @@
  ],
  "bouygues": [
   {
-   "law_id": "DLR5L17N54628",
-   "reasons": [
-    "1 article(s) de presse lient Bouygues à cette thématique",
-    "registre de lobbying (juridiction), thématique commune : btp"
-   ],
-   "score": 31.0,
-   "signals": {
-    "donations": 0.0,
-    "news": 0.333,
-    "register": 0.8,
-    "stock": 0.0
-   }
-  },
-  {
    "law_id": "DLR5L17N54124",
    "reasons": [
     "registre de lobbying (juridiction), thématiques communes : btp, telecoms"
@@ -1744,33 +1770,6 @@
     "donations": 0.0,
     "news": 0.0,
     "register": 1.0,
-    "stock": 0.0
-   }
-  },
-  {
-   "law_id": "DLR5L17N52729",
-   "reasons": [
-    "2 article(s) de presse lient Bouygues à cette thématique"
-   ],
-   "score": 30.0,
-   "signals": {
-    "donations": 0.0,
-    "news": 0.667,
-    "register": 0.0,
-    "stock": 0.0
-   }
-  },
-  {
-   "law_id": "DLR5L17N53177",
-   "reasons": [
-    "1 article(s) de presse lient Bouygues à cette thématique",
-    "registre de lobbying (juridiction), thématique commune : btp"
-   ],
-   "score": 31.0,
-   "signals": {
-    "donations": 0.0,
-    "news": 0.333,
-    "register": 0.8,
     "stock": 0.0
    }
   },
@@ -2649,190 +2648,7 @@
    }
   }
  ],
- "chevron": [
-  {
-   "law_id": "119-HCONRES29",
-   "reasons": [
-    "2 article(s) de presse lient Chevron à cette thématique"
-   ],
-   "score": 30.0,
-   "signals": {
-    "donations": 0.0,
-    "news": 0.667,
-    "register": 0.0,
-    "stock": 0.0
-   }
-  },
-  {
-   "law_id": "119-HRES339",
-   "reasons": [
-    "4 article(s) de presse lient Chevron à cette thématique"
-   ],
-   "score": 45.0,
-   "signals": {
-    "donations": 0.0,
-    "news": 1.0,
-    "register": 0.0,
-    "stock": 0.0
-   }
-  },
-  {
-   "law_id": "119-HRES1155",
-   "reasons": [
-    "4 article(s) de presse lient Chevron à cette thématique"
-   ],
-   "score": 45.0,
-   "signals": {
-    "donations": 0.0,
-    "news": 1.0,
-    "register": 0.0,
-    "stock": 0.0
-   }
-  },
-  {
-   "law_id": "119-HR5766",
-   "reasons": [
-    "4 article(s) de presse lient Chevron à cette thématique"
-   ],
-   "score": 45.0,
-   "signals": {
-    "donations": 0.0,
-    "news": 1.0,
-    "register": 0.0,
-    "stock": 0.0
-   }
-  },
-  {
-   "law_id": "119-HRES825",
-   "reasons": [
-    "2 article(s) de presse lient Chevron à cette thématique"
-   ],
-   "score": 30.0,
-   "signals": {
-    "donations": 0.0,
-    "news": 0.667,
-    "register": 0.0,
-    "stock": 0.0
-   }
-  },
-  {
-   "law_id": "119-SRES460",
-   "reasons": [
-    "4 article(s) de presse lient Chevron à cette thématique"
-   ],
-   "score": 45.0,
-   "signals": {
-    "donations": 0.0,
-    "news": 1.0,
-    "register": 0.0,
-    "stock": 0.0
-   }
-  },
-  {
-   "law_id": "119-SRES466",
-   "reasons": [
-    "4 article(s) de presse lient Chevron à cette thématique"
-   ],
-   "score": 45.0,
-   "signals": {
-    "donations": 0.0,
-    "news": 1.0,
-    "register": 0.0,
-    "stock": 0.0
-   }
-  },
-  {
-   "law_id": "119-HRES883",
-   "reasons": [
-    "3 article(s) de presse lient Chevron à cette thématique"
-   ],
-   "score": 45.0,
-   "signals": {
-    "donations": 0.0,
-    "news": 1.0,
-    "register": 0.0,
-    "stock": 0.0
-   }
-  },
-  {
-   "law_id": "119-HRES1333",
-   "reasons": [
-    "2 article(s) de presse lient Chevron à cette thématique"
-   ],
-   "score": 30.0,
-   "signals": {
-    "donations": 0.0,
-    "news": 0.667,
-    "register": 0.0,
-    "stock": 0.0
-   }
-  },
-  {
-   "law_id": "119-HRES1335",
-   "reasons": [
-    "2 article(s) de presse lient Chevron à cette thématique"
-   ],
-   "score": 30.0,
-   "signals": {
-    "donations": 0.0,
-    "news": 0.667,
-    "register": 0.0,
-    "stock": 0.0
-   }
-  },
-  {
-   "law_id": "119-S3513",
-   "reasons": [
-    "2 article(s) de presse lient Chevron à cette thématique"
-   ],
-   "score": 30.0,
-   "signals": {
-    "donations": 0.0,
-    "news": 0.667,
-    "register": 0.0,
-    "stock": 0.0
-   }
-  },
-  {
-   "law_id": "119-HJRES194",
-   "reasons": [
-    "2 article(s) de presse lient Chevron à cette thématique"
-   ],
-   "score": 30.0,
-   "signals": {
-    "donations": 0.0,
-    "news": 0.667,
-    "register": 0.0,
-    "stock": 0.0
-   }
-  },
-  {
-   "law_id": "119-HRES1339",
-   "reasons": [
-    "2 article(s) de presse lient Chevron à cette thématique"
-   ],
-   "score": 30.0,
-   "signals": {
-    "donations": 0.0,
-    "news": 0.667,
-    "register": 0.0,
-    "stock": 0.0
-   }
-  },
-  {
-   "law_id": "DLR5L17N51285",
-   "reasons": [
-    "2 article(s) de presse lient Chevron à cette thématique"
-   ],
-   "score": 30.0,
-   "signals": {
-    "donations": 0.0,
-    "news": 0.667,
-    "register": 0.0,
-    "stock": 0.0
-   }
-  }
- ],
+ "chevron": [],
  "credit-agricole": [
   {
    "law_id": "DLR5L17N53140",
@@ -3466,19 +3282,6 @@
   }
  ],
  "exxonmobil": [
-  {
-   "law_id": "119-HRES883",
-   "reasons": [
-    "2 article(s) de presse lient ExxonMobil à cette thématique"
-   ],
-   "score": 30.0,
-   "signals": {
-    "donations": 0.0,
-    "news": 0.667,
-    "register": 0.0,
-    "stock": 0.0
-   }
-  },
   {
    "law_id": "DLR5L17N54377",
    "reasons": [
@@ -7109,990 +6912,6 @@
  ],
  "thales": [
   {
-   "law_id": "119-S4656",
-   "reasons": [
-    "2 article(s) de presse lient Thales à cette thématique"
-   ],
-   "score": 30.0,
-   "signals": {
-    "donations": 0.0,
-    "news": 0.667,
-    "register": 0.0,
-    "stock": 0.0
-   }
-  },
-  {
-   "law_id": "119-SRES467",
-   "reasons": [
-    "2 article(s) de presse lient Thales à cette thématique"
-   ],
-   "score": 30.0,
-   "signals": {
-    "donations": 0.0,
-    "news": 0.667,
-    "register": 0.0,
-    "stock": 0.0
-   }
-  },
-  {
-   "law_id": "DLR5L17N54083",
-   "reasons": [
-    "1 article(s) de presse lient Thales à cette thématique",
-    "registre de lobbying (juridiction), thématique commune : defense"
-   ],
-   "score": 31.0,
-   "signals": {
-    "donations": 0.0,
-    "news": 0.333,
-    "register": 0.8,
-    "stock": 0.0
-   }
-  },
-  {
-   "law_id": "DLR5L17N54677",
-   "reasons": [
-    "1 article(s) de presse lient Thales à cette thématique",
-    "registre de lobbying (juridiction), thématique commune : defense"
-   ],
-   "score": 31.0,
-   "signals": {
-    "donations": 0.0,
-    "news": 0.333,
-    "register": 0.8,
-    "stock": 0.0
-   }
-  },
-  {
-   "law_id": "DLR5L17N53704",
-   "reasons": [
-    "3 article(s) de presse lient Thales à cette thématique"
-   ],
-   "score": 45.0,
-   "signals": {
-    "donations": 0.0,
-    "news": 1.0,
-    "register": 0.0,
-    "stock": 0.0
-   }
-  },
-  {
-   "law_id": "DLR5L17N54253",
-   "reasons": [
-    "4 article(s) de presse lient Thales à cette thématique"
-   ],
-   "score": 45.0,
-   "signals": {
-    "donations": 0.0,
-    "news": 1.0,
-    "register": 0.0,
-    "stock": 0.0
-   }
-  },
-  {
-   "law_id": "DLR5L17N51037",
-   "reasons": [
-    "1 article(s) de presse lient Thales à cette thématique",
-    "registre de lobbying (juridiction), thématique commune : defense"
-   ],
-   "score": 31.0,
-   "signals": {
-    "donations": 0.0,
-    "news": 0.333,
-    "register": 0.8,
-    "stock": 0.0
-   }
-  },
-  {
-   "law_id": "DLR5L17N54598",
-   "reasons": [
-    "3 article(s) de presse lient Thales à cette thématique"
-   ],
-   "score": 45.0,
-   "signals": {
-    "donations": 0.0,
-    "news": 1.0,
-    "register": 0.0,
-    "stock": 0.0
-   }
-  },
-  {
-   "law_id": "DLR5L17N51845",
-   "reasons": [
-    "2 article(s) de presse lient Thales à cette thématique"
-   ],
-   "score": 30.0,
-   "signals": {
-    "donations": 0.0,
-    "news": 0.667,
-    "register": 0.0,
-    "stock": 0.0
-   }
-  },
-  {
-   "law_id": "DLR5L17N52406",
-   "reasons": [
-    "1 article(s) de presse lient Thales à cette thématique",
-    "registre de lobbying (juridiction), thématique commune : defense"
-   ],
-   "score": 31.0,
-   "signals": {
-    "donations": 0.0,
-    "news": 0.333,
-    "register": 0.8,
-    "stock": 0.0
-   }
-  },
-  {
-   "law_id": "DLR5L17N54312",
-   "reasons": [
-    "2 article(s) de presse lient Thales à cette thématique"
-   ],
-   "score": 30.0,
-   "signals": {
-    "donations": 0.0,
-    "news": 0.667,
-    "register": 0.0,
-    "stock": 0.0
-   }
-  },
-  {
-   "law_id": "DLR5L17N54320",
-   "reasons": [
-    "3 article(s) de presse lient Thales à cette thématique"
-   ],
-   "score": 45.0,
-   "signals": {
-    "donations": 0.0,
-    "news": 1.0,
-    "register": 0.0,
-    "stock": 0.0
-   }
-  },
-  {
-   "law_id": "DLR5L17N52977",
-   "reasons": [
-    "2 article(s) de presse lient Thales à cette thématique"
-   ],
-   "score": 30.0,
-   "signals": {
-    "donations": 0.0,
-    "news": 0.667,
-    "register": 0.0,
-    "stock": 0.0
-   }
-  },
-  {
-   "law_id": "DLR5L17N52134",
-   "reasons": [
-    "3 article(s) de presse lient Thales à cette thématique"
-   ],
-   "score": 45.0,
-   "signals": {
-    "donations": 0.0,
-    "news": 1.0,
-    "register": 0.0,
-    "stock": 0.0
-   }
-  },
-  {
-   "law_id": "DLR5L17N54254",
-   "reasons": [
-    "1 article(s) de presse lient Thales à cette thématique",
-    "registre de lobbying (juridiction), thématique commune : defense"
-   ],
-   "score": 31.0,
-   "signals": {
-    "donations": 0.0,
-    "news": 0.333,
-    "register": 0.8,
-    "stock": 0.0
-   }
-  },
-  {
-   "law_id": "DLR5L17N54458",
-   "reasons": [
-    "3 article(s) de presse lient Thales à cette thématique",
-    "registre de lobbying (juridiction), thématique commune : defense"
-   ],
-   "score": 61.0,
-   "signals": {
-    "donations": 0.0,
-    "news": 1.0,
-    "register": 0.8,
-    "stock": 0.0
-   }
-  },
-  {
-   "law_id": "DLR5L17N54449",
-   "reasons": [
-    "2 article(s) de presse lient Thales à cette thématique",
-    "registre de lobbying (juridiction), thématique commune : defense"
-   ],
-   "score": 46.0,
-   "signals": {
-    "donations": 0.0,
-    "news": 0.667,
-    "register": 0.8,
-    "stock": 0.0
-   }
-  },
-  {
-   "law_id": "DLR5L17N54417",
-   "reasons": [
-    "2 article(s) de presse lient Thales à cette thématique"
-   ],
-   "score": 30.0,
-   "signals": {
-    "donations": 0.0,
-    "news": 0.667,
-    "register": 0.0,
-    "stock": 0.0
-   }
-  },
-  {
-   "law_id": "DLR5L17N54398",
-   "reasons": [
-    "2 article(s) de presse lient Thales à cette thématique"
-   ],
-   "score": 30.0,
-   "signals": {
-    "donations": 0.0,
-    "news": 0.667,
-    "register": 0.0,
-    "stock": 0.0
-   }
-  },
-  {
-   "law_id": "DLR5L17N54396",
-   "reasons": [
-    "2 article(s) de presse lient Thales à cette thématique"
-   ],
-   "score": 30.0,
-   "signals": {
-    "donations": 0.0,
-    "news": 0.667,
-    "register": 0.0,
-    "stock": 0.0
-   }
-  },
-  {
-   "law_id": "DLR5L17N54358",
-   "reasons": [
-    "1 article(s) de presse lient Thales à cette thématique",
-    "registre de lobbying (juridiction), thématique commune : defense"
-   ],
-   "score": 31.0,
-   "signals": {
-    "donations": 0.0,
-    "news": 0.333,
-    "register": 0.8,
-    "stock": 0.0
-   }
-  },
-  {
-   "law_id": "DLR5L17N54345",
-   "reasons": [
-    "2 article(s) de presse lient Thales à cette thématique"
-   ],
-   "score": 30.0,
-   "signals": {
-    "donations": 0.0,
-    "news": 0.667,
-    "register": 0.0,
-    "stock": 0.0
-   }
-  },
-  {
-   "law_id": "DLR5L17N53192",
-   "reasons": [
-    "2 article(s) de presse lient Thales à cette thématique"
-   ],
-   "score": 30.0,
-   "signals": {
-    "donations": 0.0,
-    "news": 0.667,
-    "register": 0.0,
-    "stock": 0.0
-   }
-  },
-  {
-   "law_id": "DLR5L17N54289",
-   "reasons": [
-    "3 article(s) de presse lient Thales à cette thématique"
-   ],
-   "score": 45.0,
-   "signals": {
-    "donations": 0.0,
-    "news": 1.0,
-    "register": 0.0,
-    "stock": 0.0
-   }
-  },
-  {
-   "law_id": "DLR5L17N54285",
-   "reasons": [
-    "2 article(s) de presse lient Thales à cette thématique"
-   ],
-   "score": 30.0,
-   "signals": {
-    "donations": 0.0,
-    "news": 0.667,
-    "register": 0.0,
-    "stock": 0.0
-   }
-  },
-  {
-   "law_id": "DLR5L17N53936",
-   "reasons": [
-    "2 article(s) de presse lient Thales à cette thématique"
-   ],
-   "score": 30.0,
-   "signals": {
-    "donations": 0.0,
-    "news": 0.667,
-    "register": 0.0,
-    "stock": 0.0
-   }
-  },
-  {
-   "law_id": "DLR5L17N53075",
-   "reasons": [
-    "2 article(s) de presse lient Thales à cette thématique",
-    "registre de lobbying (juridiction), thématique commune : defense"
-   ],
-   "score": 46.0,
-   "signals": {
-    "donations": 0.0,
-    "news": 0.667,
-    "register": 0.8,
-    "stock": 0.0
-   }
-  },
-  {
-   "law_id": "DLR5L17N54276",
-   "reasons": [
-    "2 article(s) de presse lient Thales à cette thématique"
-   ],
-   "score": 30.0,
-   "signals": {
-    "donations": 0.0,
-    "news": 0.667,
-    "register": 0.0,
-    "stock": 0.0
-   }
-  },
-  {
-   "law_id": "DLR5L17N54257",
-   "reasons": [
-    "3 article(s) de presse lient Thales à cette thématique"
-   ],
-   "score": 45.0,
-   "signals": {
-    "donations": 0.0,
-    "news": 1.0,
-    "register": 0.0,
-    "stock": 0.0
-   }
-  },
-  {
-   "law_id": "DLR5L17N54251",
-   "reasons": [
-    "2 article(s) de presse lient Thales à cette thématique"
-   ],
-   "score": 30.0,
-   "signals": {
-    "donations": 0.0,
-    "news": 0.667,
-    "register": 0.0,
-    "stock": 0.0
-   }
-  },
-  {
-   "law_id": "DLR5L17N53984",
-   "reasons": [
-    "2 article(s) de presse lient Thales à cette thématique"
-   ],
-   "score": 30.0,
-   "signals": {
-    "donations": 0.0,
-    "news": 0.667,
-    "register": 0.0,
-    "stock": 0.0
-   }
-  },
-  {
-   "law_id": "DLR5L17N54247",
-   "reasons": [
-    "2 article(s) de presse lient Thales à cette thématique"
-   ],
-   "score": 30.0,
-   "signals": {
-    "donations": 0.0,
-    "news": 0.667,
-    "register": 0.0,
-    "stock": 0.0
-   }
-  },
-  {
-   "law_id": "DLR5L17N54230",
-   "reasons": [
-    "2 article(s) de presse lient Thales à cette thématique"
-   ],
-   "score": 30.0,
-   "signals": {
-    "donations": 0.0,
-    "news": 0.667,
-    "register": 0.0,
-    "stock": 0.0
-   }
-  },
-  {
-   "law_id": "DLR5L17N54241",
-   "reasons": [
-    "2 article(s) de presse lient Thales à cette thématique"
-   ],
-   "score": 30.0,
-   "signals": {
-    "donations": 0.0,
-    "news": 0.667,
-    "register": 0.0,
-    "stock": 0.0
-   }
-  },
-  {
-   "law_id": "DLR5L17N53259",
-   "reasons": [
-    "2 article(s) de presse lient Thales à cette thématique"
-   ],
-   "score": 30.0,
-   "signals": {
-    "donations": 0.0,
-    "news": 0.667,
-    "register": 0.0,
-    "stock": 0.0
-   }
-  },
-  {
-   "law_id": "DLR5L17N54159",
-   "reasons": [
-    "2 article(s) de presse lient Thales à cette thématique"
-   ],
-   "score": 30.0,
-   "signals": {
-    "donations": 0.0,
-    "news": 0.667,
-    "register": 0.0,
-    "stock": 0.0
-   }
-  },
-  {
-   "law_id": "DLR5L17N54175",
-   "reasons": [
-    "2 article(s) de presse lient Thales à cette thématique"
-   ],
-   "score": 30.0,
-   "signals": {
-    "donations": 0.0,
-    "news": 0.667,
-    "register": 0.0,
-    "stock": 0.0
-   }
-  },
-  {
-   "law_id": "DLR5L17N52429",
-   "reasons": [
-    "2 article(s) de presse lient Thales à cette thématique"
-   ],
-   "score": 30.0,
-   "signals": {
-    "donations": 0.0,
-    "news": 0.667,
-    "register": 0.0,
-    "stock": 0.0
-   }
-  },
-  {
-   "law_id": "DLR5L17N54037",
-   "reasons": [
-    "2 article(s) de presse lient Thales à cette thématique",
-    "registre de lobbying (juridiction), thématique commune : defense"
-   ],
-   "score": 46.0,
-   "signals": {
-    "donations": 0.0,
-    "news": 0.667,
-    "register": 0.8,
-    "stock": 0.0
-   }
-  },
-  {
-   "law_id": "DLR5L17N53672",
-   "reasons": [
-    "1 article(s) de presse lient Thales à cette thématique",
-    "registre de lobbying (juridiction), thématique commune : defense"
-   ],
-   "score": 31.0,
-   "signals": {
-    "donations": 0.0,
-    "news": 0.333,
-    "register": 0.8,
-    "stock": 0.0
-   }
-  },
-  {
-   "law_id": "DLR5L17N53978",
-   "reasons": [
-    "1 article(s) de presse lient Thales à cette thématique",
-    "registre de lobbying (juridiction), thématique commune : defense"
-   ],
-   "score": 31.0,
-   "signals": {
-    "donations": 0.0,
-    "news": 0.333,
-    "register": 0.8,
-    "stock": 0.0
-   }
-  },
-  {
-   "law_id": "DLR5L17N52561",
-   "reasons": [
-    "2 article(s) de presse lient Thales à cette thématique",
-    "registre de lobbying (juridiction), thématique commune : defense"
-   ],
-   "score": 46.0,
-   "signals": {
-    "donations": 0.0,
-    "news": 0.667,
-    "register": 0.8,
-    "stock": 0.0
-   }
-  },
-  {
-   "law_id": "DLR5L17N53867",
-   "reasons": [
-    "1 article(s) de presse lient Thales à cette thématique",
-    "registre de lobbying (juridiction), thématique commune : defense"
-   ],
-   "score": 31.0,
-   "signals": {
-    "donations": 0.0,
-    "news": 0.333,
-    "register": 0.8,
-    "stock": 0.0
-   }
-  },
-  {
-   "law_id": "DLR5L17N53836",
-   "reasons": [
-    "2 article(s) de presse lient Thales à cette thématique"
-   ],
-   "score": 30.0,
-   "signals": {
-    "donations": 0.0,
-    "news": 0.667,
-    "register": 0.0,
-    "stock": 0.0
-   }
-  },
-  {
-   "law_id": "DLR5L17N53820",
-   "reasons": [
-    "2 article(s) de presse lient Thales à cette thématique"
-   ],
-   "score": 30.0,
-   "signals": {
-    "donations": 0.0,
-    "news": 0.667,
-    "register": 0.0,
-    "stock": 0.0
-   }
-  },
-  {
-   "law_id": "DLR5L17N52119",
-   "reasons": [
-    "2 article(s) de presse lient Thales à cette thématique"
-   ],
-   "score": 30.0,
-   "signals": {
-    "donations": 0.0,
-    "news": 0.667,
-    "register": 0.0,
-    "stock": 0.0
-   }
-  },
-  {
-   "law_id": "DLR5L17N53740",
-   "reasons": [
-    "2 article(s) de presse lient Thales à cette thématique"
-   ],
-   "score": 30.0,
-   "signals": {
-    "donations": 0.0,
-    "news": 0.667,
-    "register": 0.0,
-    "stock": 0.0
-   }
-  },
-  {
-   "law_id": "DLR5L17N53729",
-   "reasons": [
-    "2 article(s) de presse lient Thales à cette thématique"
-   ],
-   "score": 30.0,
-   "signals": {
-    "donations": 0.0,
-    "news": 0.667,
-    "register": 0.0,
-    "stock": 0.0
-   }
-  },
-  {
-   "law_id": "DLR5L17N53014",
-   "reasons": [
-    "2 article(s) de presse lient Thales à cette thématique"
-   ],
-   "score": 30.0,
-   "signals": {
-    "donations": 0.0,
-    "news": 0.667,
-    "register": 0.0,
-    "stock": 0.0
-   }
-  },
-  {
-   "law_id": "DLR5L17N51777",
-   "reasons": [
-    "1 article(s) de presse lient Thales à cette thématique",
-    "registre de lobbying (juridiction), thématique commune : defense"
-   ],
-   "score": 31.0,
-   "signals": {
-    "donations": 0.0,
-    "news": 0.333,
-    "register": 0.8,
-    "stock": 0.0
-   }
-  },
-  {
-   "law_id": "DLR5L17N50794",
-   "reasons": [
-    "2 article(s) de presse lient Thales à cette thématique"
-   ],
-   "score": 30.0,
-   "signals": {
-    "donations": 0.0,
-    "news": 0.667,
-    "register": 0.0,
-    "stock": 0.0
-   }
-  },
-  {
-   "law_id": "DLR5L17N53360",
-   "reasons": [
-    "3 article(s) de presse lient Thales à cette thématique"
-   ],
-   "score": 45.0,
-   "signals": {
-    "donations": 0.0,
-    "news": 1.0,
-    "register": 0.0,
-    "stock": 0.0
-   }
-  },
-  {
-   "law_id": "DLR5L17N53596",
-   "reasons": [
-    "3 article(s) de presse lient Thales à cette thématique"
-   ],
-   "score": 45.0,
-   "signals": {
-    "donations": 0.0,
-    "news": 1.0,
-    "register": 0.0,
-    "stock": 0.0
-   }
-  },
-  {
-   "law_id": "DLR5L17N53576",
-   "reasons": [
-    "2 article(s) de presse lient Thales à cette thématique"
-   ],
-   "score": 30.0,
-   "signals": {
-    "donations": 0.0,
-    "news": 0.667,
-    "register": 0.0,
-    "stock": 0.0
-   }
-  },
-  {
-   "law_id": "DLR5L17N53476",
-   "reasons": [
-    "1 article(s) de presse lient Thales à cette thématique",
-    "registre de lobbying (juridiction), thématique commune : defense"
-   ],
-   "score": 31.0,
-   "signals": {
-    "donations": 0.0,
-    "news": 0.333,
-    "register": 0.8,
-    "stock": 0.0
-   }
-  },
-  {
-   "law_id": "DLR5L17N53400",
-   "reasons": [
-    "2 article(s) de presse lient Thales à cette thématique"
-   ],
-   "score": 30.0,
-   "signals": {
-    "donations": 0.0,
-    "news": 0.667,
-    "register": 0.0,
-    "stock": 0.0
-   }
-  },
-  {
-   "law_id": "DLR5L17N53393",
-   "reasons": [
-    "1 article(s) de presse lient Thales à cette thématique",
-    "registre de lobbying (juridiction), thématique commune : defense"
-   ],
-   "score": 31.0,
-   "signals": {
-    "donations": 0.0,
-    "news": 0.333,
-    "register": 0.8,
-    "stock": 0.0
-   }
-  },
-  {
-   "law_id": "DLR5L17N53365",
-   "reasons": [
-    "2 article(s) de presse lient Thales à cette thématique"
-   ],
-   "score": 30.0,
-   "signals": {
-    "donations": 0.0,
-    "news": 0.667,
-    "register": 0.0,
-    "stock": 0.0
-   }
-  },
-  {
-   "law_id": "DLR5L17N52420",
-   "reasons": [
-    "2 article(s) de presse lient Thales à cette thématique"
-   ],
-   "score": 30.0,
-   "signals": {
-    "donations": 0.0,
-    "news": 0.667,
-    "register": 0.0,
-    "stock": 0.0
-   }
-  },
-  {
-   "law_id": "DLR5L17N53012",
-   "reasons": [
-    "1 article(s) de presse lient Thales à cette thématique",
-    "registre de lobbying (juridiction), thématique commune : defense"
-   ],
-   "score": 31.0,
-   "signals": {
-    "donations": 0.0,
-    "news": 0.333,
-    "register": 0.8,
-    "stock": 0.0
-   }
-  },
-  {
-   "law_id": "DLR5L17N52716",
-   "reasons": [
-    "1 article(s) de presse lient Thales à cette thématique",
-    "registre de lobbying (juridiction), thématique commune : defense"
-   ],
-   "score": 31.0,
-   "signals": {
-    "donations": 0.0,
-    "news": 0.333,
-    "register": 0.8,
-    "stock": 0.0
-   }
-  },
-  {
-   "law_id": "DLR5L17N53274",
-   "reasons": [
-    "2 article(s) de presse lient Thales à cette thématique"
-   ],
-   "score": 30.0,
-   "signals": {
-    "donations": 0.0,
-    "news": 0.667,
-    "register": 0.0,
-    "stock": 0.0
-   }
-  },
-  {
-   "law_id": "DLR5L17N53255",
-   "reasons": [
-    "2 article(s) de presse lient Thales à cette thématique"
-   ],
-   "score": 30.0,
-   "signals": {
-    "donations": 0.0,
-    "news": 0.667,
-    "register": 0.0,
-    "stock": 0.0
-   }
-  },
-  {
-   "law_id": "DLR5L17N53233",
-   "reasons": [
-    "2 article(s) de presse lient Thales à cette thématique"
-   ],
-   "score": 30.0,
-   "signals": {
-    "donations": 0.0,
-    "news": 0.667,
-    "register": 0.0,
-    "stock": 0.0
-   }
-  },
-  {
-   "law_id": "DLR5L17N52973",
-   "reasons": [
-    "2 article(s) de presse lient Thales à cette thématique"
-   ],
-   "score": 30.0,
-   "signals": {
-    "donations": 0.0,
-    "news": 0.667,
-    "register": 0.0,
-    "stock": 0.0
-   }
-  },
-  {
-   "law_id": "DLR5L17N53218",
-   "reasons": [
-    "2 article(s) de presse lient Thales à cette thématique"
-   ],
-   "score": 30.0,
-   "signals": {
-    "donations": 0.0,
-    "news": 0.667,
-    "register": 0.0,
-    "stock": 0.0
-   }
-  },
-  {
-   "law_id": "DLR5L17N53219",
-   "reasons": [
-    "3 article(s) de presse lient Thales à cette thématique"
-   ],
-   "score": 45.0,
-   "signals": {
-    "donations": 0.0,
-    "news": 1.0,
-    "register": 0.0,
-    "stock": 0.0
-   }
-  },
-  {
-   "law_id": "DLR5L17N53232",
-   "reasons": [
-    "1 article(s) de presse lient Thales à cette thématique",
-    "registre de lobbying (juridiction), thématique commune : defense"
-   ],
-   "score": 31.0,
-   "signals": {
-    "donations": 0.0,
-    "news": 0.333,
-    "register": 0.8,
-    "stock": 0.0
-   }
-  },
-  {
-   "law_id": "DLR5L17N53199",
-   "reasons": [
-    "2 article(s) de presse lient Thales à cette thématique"
-   ],
-   "score": 30.0,
-   "signals": {
-    "donations": 0.0,
-    "news": 0.667,
-    "register": 0.0,
-    "stock": 0.0
-   }
-  },
-  {
-   "law_id": "DLR5L17N52226",
-   "reasons": [
-    "2 article(s) de presse lient Thales à cette thématique",
-    "registre de lobbying (juridiction), thématique commune : defense"
-   ],
-   "score": 46.0,
-   "signals": {
-    "donations": 0.0,
-    "news": 0.667,
-    "register": 0.8,
-    "stock": 0.0
-   }
-  },
-  {
-   "law_id": "DLR5L17N53054",
-   "reasons": [
-    "2 article(s) de presse lient Thales à cette thématique"
-   ],
-   "score": 30.0,
-   "signals": {
-    "donations": 0.0,
-    "news": 0.667,
-    "register": 0.0,
-    "stock": 0.0
-   }
-  },
-  {
-   "law_id": "DLR5L17N53064",
-   "reasons": [
-    "2 article(s) de presse lient Thales à cette thématique"
-   ],
-   "score": 30.0,
-   "signals": {
-    "donations": 0.0,
-    "news": 0.667,
-    "register": 0.0,
-    "stock": 0.0
-   }
-  },
-  {
-   "law_id": "DLR5L17N53052",
-   "reasons": [
-    "2 article(s) de presse lient Thales à cette thématique"
-   ],
-   "score": 30.0,
-   "signals": {
-    "donations": 0.0,
-    "news": 0.667,
-    "register": 0.0,
-    "stock": 0.0
-   }
-  },
-  {
-   "law_id": "DLR5L17N53035",
-   "reasons": [
-    "1 article(s) de presse lient Thales à cette thématique",
-    "registre de lobbying (juridiction), thématique commune : defense"
-   ],
-   "score": 31.0,
-   "signals": {
-    "donations": 0.0,
-    "news": 0.333,
-    "register": 0.8,
-    "stock": 0.0
-   }
-  },
-  {
    "law_id": "eli/dl/doc/B-10-2026-0361",
    "reasons": [
     "registre de lobbying (juridiction), texte explicitement suivi (déclaration UE)"
@@ -8147,13 +6966,12 @@
   {
    "law_id": "eli/dl/doc/A-10-2026-0174",
    "reasons": [
-    "1 article(s) de presse lient Thales à cette thématique",
     "registre de lobbying (juridiction), texte explicitement suivi (déclaration UE)"
    ],
-   "score": 35.0,
+   "score": 20.0,
    "signals": {
     "donations": 0.0,
-    "news": 0.333,
+    "news": 0.0,
     "register": 1.0,
     "stock": 0.0
    }
@@ -8161,13 +6979,12 @@
   {
    "law_id": "eli/dl/doc/B-10-2026-0338",
    "reasons": [
-    "3 article(s) de presse lient Thales à cette thématique",
     "registre de lobbying (juridiction), texte explicitement suivi (déclaration UE)"
    ],
-   "score": 65.0,
+   "score": 20.0,
    "signals": {
     "donations": 0.0,
-    "news": 1.0,
+    "news": 0.0,
     "register": 1.0,
     "stock": 0.0
    }
@@ -8175,865 +6992,40 @@
  ],
  "totalenergies": [
   {
-   "law_id": "119-HR8990",
-   "reasons": [
-    "5 article(s) de presse lient TotalEnergies à cette thématique"
-   ],
-   "score": 45.0,
-   "signals": {
-    "donations": 0.0,
-    "news": 1.0,
-    "register": 0.0,
-    "stock": 0.0
-   }
-  },
-  {
-   "law_id": "119-S4892",
-   "reasons": [
-    "5 article(s) de presse lient TotalEnergies à cette thématique"
-   ],
-   "score": 45.0,
-   "signals": {
-    "donations": 0.0,
-    "news": 1.0,
-    "register": 0.0,
-    "stock": 0.0
-   }
-  },
-  {
-   "law_id": "119-HR9035",
-   "reasons": [
-    "5 article(s) de presse lient TotalEnergies à cette thématique"
-   ],
-   "score": 45.0,
-   "signals": {
-    "donations": 0.0,
-    "news": 1.0,
-    "register": 0.0,
-    "stock": 0.0
-   }
-  },
-  {
-   "law_id": "119-HR2831",
-   "reasons": [
-    "5 article(s) de presse lient TotalEnergies à cette thématique"
-   ],
-   "score": 45.0,
-   "signals": {
-    "donations": 0.0,
-    "news": 1.0,
-    "register": 0.0,
-    "stock": 0.0
-   }
-  },
-  {
-   "law_id": "119-SJRES113",
-   "reasons": [
-    "4 article(s) de presse lient TotalEnergies à cette thématique"
-   ],
-   "score": 45.0,
-   "signals": {
-    "donations": 0.0,
-    "news": 1.0,
-    "register": 0.0,
-    "stock": 0.0
-   }
-  },
-  {
-   "law_id": "119-HR5765",
-   "reasons": [
-    "5 article(s) de presse lient TotalEnergies à cette thématique"
-   ],
-   "score": 45.0,
-   "signals": {
-    "donations": 0.0,
-    "news": 1.0,
-    "register": 0.0,
-    "stock": 0.0
-   }
-  },
-  {
-   "law_id": "119-HRES826",
-   "reasons": [
-    "5 article(s) de presse lient TotalEnergies à cette thématique"
-   ],
-   "score": 45.0,
-   "signals": {
-    "donations": 0.0,
-    "news": 1.0,
-    "register": 0.0,
-    "stock": 0.0
-   }
-  },
-  {
-   "law_id": "119-HR8948",
-   "reasons": [
-    "5 article(s) de presse lient TotalEnergies à cette thématique"
-   ],
-   "score": 45.0,
-   "signals": {
-    "donations": 0.0,
-    "news": 1.0,
-    "register": 0.0,
-    "stock": 0.0
-   }
-  },
-  {
-   "law_id": "119-S3044",
-   "reasons": [
-    "4 article(s) de presse lient TotalEnergies à cette thématique"
-   ],
-   "score": 45.0,
-   "signals": {
-    "donations": 0.0,
-    "news": 1.0,
-    "register": 0.0,
-    "stock": 0.0
-   }
-  },
-  {
-   "law_id": "119-S3035",
-   "reasons": [
-    "5 article(s) de presse lient TotalEnergies à cette thématique"
-   ],
-   "score": 45.0,
-   "signals": {
-    "donations": 0.0,
-    "news": 1.0,
-    "register": 0.0,
-    "stock": 0.0
-   }
-  },
-  {
-   "law_id": "119-S3282",
-   "reasons": [
-    "4 article(s) de presse lient TotalEnergies à cette thématique"
-   ],
-   "score": 45.0,
-   "signals": {
-    "donations": 0.0,
-    "news": 1.0,
-    "register": 0.0,
-    "stock": 0.0
-   }
-  },
-  {
-   "law_id": "119-S3513",
-   "reasons": [
-    "5 article(s) de presse lient TotalEnergies à cette thématique"
-   ],
-   "score": 45.0,
-   "signals": {
-    "donations": 0.0,
-    "news": 1.0,
-    "register": 0.0,
-    "stock": 0.0
-   }
-  },
-  {
-   "law_id": "119-S3509",
-   "reasons": [
-    "4 article(s) de presse lient TotalEnergies à cette thématique"
-   ],
-   "score": 45.0,
-   "signals": {
-    "donations": 0.0,
-    "news": 1.0,
-    "register": 0.0,
-    "stock": 0.0
-   }
-  },
-  {
-   "law_id": "119-HJRES194",
-   "reasons": [
-    "3 article(s) de presse lient TotalEnergies à cette thématique"
-   ],
-   "score": 45.0,
-   "signals": {
-    "donations": 0.0,
-    "news": 1.0,
-    "register": 0.0,
-    "stock": 0.0
-   }
-  },
-  {
-   "law_id": "DLR5L17N54723",
-   "reasons": [
-    "4 article(s) de presse lient TotalEnergies à cette thématique",
-    "registre de lobbying (juridiction), thématique commune : climat"
-   ],
-   "score": 61.0,
-   "signals": {
-    "donations": 0.0,
-    "news": 1.0,
-    "register": 0.8,
-    "stock": 0.0
-   }
-  },
-  {
-   "law_id": "DLR5L17N54715",
-   "reasons": [
-    "4 article(s) de presse lient TotalEnergies à cette thématique",
-    "registre de lobbying (juridiction), thématique commune : climat"
-   ],
-   "score": 61.0,
-   "signals": {
-    "donations": 0.0,
-    "news": 1.0,
-    "register": 0.8,
-    "stock": 0.0
-   }
-  },
-  {
-   "law_id": "DLR5L17N54697",
-   "reasons": [
-    "4 article(s) de presse lient TotalEnergies à cette thématique",
-    "registre de lobbying (juridiction), thématique commune : climat"
-   ],
-   "score": 61.0,
-   "signals": {
-    "donations": 0.0,
-    "news": 1.0,
-    "register": 0.8,
-    "stock": 0.0
-   }
-  },
-  {
-   "law_id": "DLR5L17N54567",
-   "reasons": [
-    "4 article(s) de presse lient TotalEnergies à cette thématique",
-    "registre de lobbying (juridiction), thématique commune : climat"
-   ],
-   "score": 61.0,
-   "signals": {
-    "donations": 0.0,
-    "news": 1.0,
-    "register": 0.8,
-    "stock": 0.0
-   }
-  },
-  {
-   "law_id": "DLR5L17N54639",
-   "reasons": [
-    "4 article(s) de presse lient TotalEnergies à cette thématique",
-    "registre de lobbying (juridiction), thématique commune : climat"
-   ],
-   "score": 61.0,
-   "signals": {
-    "donations": 0.0,
-    "news": 1.0,
-    "register": 0.8,
-    "stock": 0.0
-   }
-  },
-  {
-   "law_id": "DLR5L17N54611",
-   "reasons": [
-    "4 article(s) de presse lient TotalEnergies à cette thématique",
-    "registre de lobbying (juridiction), thématique commune : climat"
-   ],
-   "score": 61.0,
-   "signals": {
-    "donations": 0.0,
-    "news": 1.0,
-    "register": 0.8,
-    "stock": 0.0
-   }
-  },
-  {
-   "law_id": "DLR5L17N54464",
-   "reasons": [
-    "4 article(s) de presse lient TotalEnergies à cette thématique",
-    "registre de lobbying (juridiction), thématique commune : climat"
-   ],
-   "score": 61.0,
-   "signals": {
-    "donations": 0.0,
-    "news": 1.0,
-    "register": 0.8,
-    "stock": 0.0
-   }
-  },
-  {
-   "law_id": "DLR5L17N53600",
-   "reasons": [
-    "5 article(s) de presse lient TotalEnergies à cette thématique",
-    "registre de lobbying (juridiction), thématique commune : energie"
-   ],
-   "score": 61.0,
-   "signals": {
-    "donations": 0.0,
-    "news": 1.0,
-    "register": 0.8,
-    "stock": 0.0
-   }
-  },
-  {
-   "law_id": "DLR5L17N53530",
-   "reasons": [
-    "5 article(s) de presse lient TotalEnergies à cette thématique",
-    "registre de lobbying (juridiction), thématique commune : energie"
-   ],
-   "score": 61.0,
-   "signals": {
-    "donations": 0.0,
-    "news": 1.0,
-    "register": 0.8,
-    "stock": 0.0
-   }
-  },
-  {
-   "law_id": "DLR5L17N54557",
-   "reasons": [
-    "4 article(s) de presse lient TotalEnergies à cette thématique",
-    "registre de lobbying (juridiction), thématique commune : climat"
-   ],
-   "score": 61.0,
-   "signals": {
-    "donations": 0.0,
-    "news": 1.0,
-    "register": 0.8,
-    "stock": 0.0
-   }
-  },
-  {
-   "law_id": "DLR5L17N54520",
-   "reasons": [
-    "5 article(s) de presse lient TotalEnergies à cette thématique",
-    "registre de lobbying (juridiction), thématique commune : energie"
-   ],
-   "score": 61.0,
-   "signals": {
-    "donations": 0.0,
-    "news": 1.0,
-    "register": 0.8,
-    "stock": 0.0
-   }
-  },
-  {
-   "law_id": "DLR5L17N54312",
-   "reasons": [
-    "4 article(s) de presse lient TotalEnergies à cette thématique",
-    "registre de lobbying (juridiction), thématique commune : climat"
-   ],
-   "score": 61.0,
-   "signals": {
-    "donations": 0.0,
-    "news": 1.0,
-    "register": 0.8,
-    "stock": 0.0
-   }
-  },
-  {
-   "law_id": "DLR5L17N54518",
-   "reasons": [
-    "4 article(s) de presse lient TotalEnergies à cette thématique",
-    "registre de lobbying (juridiction), thématique commune : climat"
-   ],
-   "score": 61.0,
-   "signals": {
-    "donations": 0.0,
-    "news": 1.0,
-    "register": 0.8,
-    "stock": 0.0
-   }
-  },
-  {
-   "law_id": "DLR5L17N54456",
-   "reasons": [
-    "5 article(s) de presse lient TotalEnergies à cette thématique",
-    "registre de lobbying (juridiction), thématique commune : energie"
-   ],
-   "score": 61.0,
-   "signals": {
-    "donations": 0.0,
-    "news": 1.0,
-    "register": 0.8,
-    "stock": 0.0
-   }
-  },
-  {
-   "law_id": "DLR5L17N54371",
-   "reasons": [
-    "4 article(s) de presse lient TotalEnergies à cette thématique",
-    "registre de lobbying (juridiction), thématique commune : climat"
-   ],
-   "score": 61.0,
-   "signals": {
-    "donations": 0.0,
-    "news": 1.0,
-    "register": 0.8,
-    "stock": 0.0
-   }
-  },
-  {
-   "law_id": "DLR5L17N54374",
-   "reasons": [
-    "5 article(s) de presse lient TotalEnergies à cette thématique",
-    "registre de lobbying (juridiction), thématique commune : energie"
-   ],
-   "score": 61.0,
-   "signals": {
-    "donations": 0.0,
-    "news": 1.0,
-    "register": 0.8,
-    "stock": 0.0
-   }
-  },
-  {
    "law_id": "DLR5L17N54377",
    "reasons": [
-    "5 article(s) de presse lient TotalEnergies à cette thématique",
     "registre de lobbying (juridiction), thématiques communes : climat, energie"
    ],
-   "score": 65.0,
+   "score": 20.0,
    "signals": {
     "donations": 0.0,
-    "news": 1.0,
+    "news": 0.0,
     "register": 1.0,
-    "stock": 0.0
-   }
-  },
-  {
-   "law_id": "DLR5L17N53140",
-   "reasons": [
-    "5 article(s) de presse lient TotalEnergies à cette thématique",
-    "registre de lobbying (juridiction), thématique commune : energie"
-   ],
-   "score": 61.0,
-   "signals": {
-    "donations": 0.0,
-    "news": 1.0,
-    "register": 0.8,
     "stock": 0.0
    }
   },
   {
    "law_id": "DLR5L17N53540",
    "reasons": [
-    "5 article(s) de presse lient TotalEnergies à cette thématique",
     "registre de lobbying (juridiction), thématiques communes : energie, renouvelables"
    ],
-   "score": 65.0,
+   "score": 20.0,
    "signals": {
     "donations": 0.0,
-    "news": 1.0,
+    "news": 0.0,
     "register": 1.0,
-    "stock": 0.0
-   }
-  },
-  {
-   "law_id": "DLR5L17N54252",
-   "reasons": [
-    "5 article(s) de presse lient TotalEnergies à cette thématique",
-    "registre de lobbying (juridiction), thématique commune : energie"
-   ],
-   "score": 61.0,
-   "signals": {
-    "donations": 0.0,
-    "news": 1.0,
-    "register": 0.8,
-    "stock": 0.0
-   }
-  },
-  {
-   "law_id": "DLR5L17N54238",
-   "reasons": [
-    "5 article(s) de presse lient TotalEnergies à cette thématique",
-    "registre de lobbying (juridiction), thématique commune : energie"
-   ],
-   "score": 61.0,
-   "signals": {
-    "donations": 0.0,
-    "news": 1.0,
-    "register": 0.8,
-    "stock": 0.0
-   }
-  },
-  {
-   "law_id": "DLR5L17N54247",
-   "reasons": [
-    "4 article(s) de presse lient TotalEnergies à cette thématique",
-    "registre de lobbying (juridiction), thématique commune : climat"
-   ],
-   "score": 61.0,
-   "signals": {
-    "donations": 0.0,
-    "news": 1.0,
-    "register": 0.8,
-    "stock": 0.0
-   }
-  },
-  {
-   "law_id": "DLR5L17N54230",
-   "reasons": [
-    "5 article(s) de presse lient TotalEnergies à cette thématique",
-    "registre de lobbying (juridiction), thématique commune : energie"
-   ],
-   "score": 61.0,
-   "signals": {
-    "donations": 0.0,
-    "news": 1.0,
-    "register": 0.8,
-    "stock": 0.0
-   }
-  },
-  {
-   "law_id": "DLR5L17N54250",
-   "reasons": [
-    "5 article(s) de presse lient TotalEnergies à cette thématique",
-    "registre de lobbying (juridiction), thématique commune : energie"
-   ],
-   "score": 61.0,
-   "signals": {
-    "donations": 0.0,
-    "news": 1.0,
-    "register": 0.8,
-    "stock": 0.0
-   }
-  },
-  {
-   "law_id": "DLR5L17N54150",
-   "reasons": [
-    "5 article(s) de presse lient TotalEnergies à cette thématique",
-    "registre de lobbying (juridiction), thématique commune : energie"
-   ],
-   "score": 61.0,
-   "signals": {
-    "donations": 0.0,
-    "news": 1.0,
-    "register": 0.8,
-    "stock": 0.0
-   }
-  },
-  {
-   "law_id": "DLR5L17N53067",
-   "reasons": [
-    "4 article(s) de presse lient TotalEnergies à cette thématique",
-    "registre de lobbying (juridiction), thématique commune : climat"
-   ],
-   "score": 61.0,
-   "signals": {
-    "donations": 0.0,
-    "news": 1.0,
-    "register": 0.8,
-    "stock": 0.0
-   }
-  },
-  {
-   "law_id": "DLR5L17N53771",
-   "reasons": [
-    "5 article(s) de presse lient TotalEnergies à cette thématique",
-    "registre de lobbying (juridiction), thématique commune : energie"
-   ],
-   "score": 61.0,
-   "signals": {
-    "donations": 0.0,
-    "news": 1.0,
-    "register": 0.8,
-    "stock": 0.0
-   }
-  },
-  {
-   "law_id": "DLR5L17N54002",
-   "reasons": [
-    "5 article(s) de presse lient TotalEnergies à cette thématique",
-    "registre de lobbying (juridiction), thématique commune : energie"
-   ],
-   "score": 61.0,
-   "signals": {
-    "donations": 0.0,
-    "news": 1.0,
-    "register": 0.8,
-    "stock": 0.0
-   }
-  },
-  {
-   "law_id": "DLR5L17N53715",
-   "reasons": [
-    "4 article(s) de presse lient TotalEnergies à cette thématique",
-    "registre de lobbying (juridiction), thématique commune : climat"
-   ],
-   "score": 61.0,
-   "signals": {
-    "donations": 0.0,
-    "news": 1.0,
-    "register": 0.8,
-    "stock": 0.0
-   }
-  },
-  {
-   "law_id": "DLR5L17N53938",
-   "reasons": [
-    "5 article(s) de presse lient TotalEnergies à cette thématique",
-    "registre de lobbying (juridiction), thématique commune : energie"
-   ],
-   "score": 61.0,
-   "signals": {
-    "donations": 0.0,
-    "news": 1.0,
-    "register": 0.8,
-    "stock": 0.0
-   }
-  },
-  {
-   "law_id": "DLR5L17N53874",
-   "reasons": [
-    "4 article(s) de presse lient TotalEnergies à cette thématique",
-    "registre de lobbying (juridiction), thématique commune : climat"
-   ],
-   "score": 61.0,
-   "signals": {
-    "donations": 0.0,
-    "news": 1.0,
-    "register": 0.8,
-    "stock": 0.0
-   }
-  },
-  {
-   "law_id": "DLR5L17N53888",
-   "reasons": [
-    "4 article(s) de presse lient TotalEnergies à cette thématique",
-    "registre de lobbying (juridiction), thématique commune : climat"
-   ],
-   "score": 61.0,
-   "signals": {
-    "donations": 0.0,
-    "news": 1.0,
-    "register": 0.8,
-    "stock": 0.0
-   }
-  },
-  {
-   "law_id": "DLR5L17N53788",
-   "reasons": [
-    "5 article(s) de presse lient TotalEnergies à cette thématique",
-    "registre de lobbying (juridiction), thématique commune : energie"
-   ],
-   "score": 61.0,
-   "signals": {
-    "donations": 0.0,
-    "news": 1.0,
-    "register": 0.8,
-    "stock": 0.0
-   }
-  },
-  {
-   "law_id": "DLR5L17N53014",
-   "reasons": [
-    "4 article(s) de presse lient TotalEnergies à cette thématique",
-    "registre de lobbying (juridiction), thématique commune : climat"
-   ],
-   "score": 61.0,
-   "signals": {
-    "donations": 0.0,
-    "news": 1.0,
-    "register": 0.8,
-    "stock": 0.0
-   }
-  },
-  {
-   "law_id": "DLR5L17N53670",
-   "reasons": [
-    "4 article(s) de presse lient TotalEnergies à cette thématique"
-   ],
-   "score": 45.0,
-   "signals": {
-    "donations": 0.0,
-    "news": 1.0,
-    "register": 0.0,
-    "stock": 0.0
-   }
-  },
-  {
-   "law_id": "DLR5L17N53529",
-   "reasons": [
-    "4 article(s) de presse lient TotalEnergies à cette thématique",
-    "registre de lobbying (juridiction), thématique commune : climat"
-   ],
-   "score": 61.0,
-   "signals": {
-    "donations": 0.0,
-    "news": 1.0,
-    "register": 0.8,
-    "stock": 0.0
-   }
-  },
-  {
-   "law_id": "DLR5L17N52803",
-   "reasons": [
-    "4 article(s) de presse lient TotalEnergies à cette thématique",
-    "registre de lobbying (juridiction), thématique commune : climat"
-   ],
-   "score": 61.0,
-   "signals": {
-    "donations": 0.0,
-    "news": 1.0,
-    "register": 0.8,
-    "stock": 0.0
-   }
-  },
-  {
-   "law_id": "DLR5L17N53762",
-   "reasons": [
-    "5 article(s) de presse lient TotalEnergies à cette thématique",
-    "registre de lobbying (juridiction), thématique commune : energie"
-   ],
-   "score": 61.0,
-   "signals": {
-    "donations": 0.0,
-    "news": 1.0,
-    "register": 0.8,
-    "stock": 0.0
-   }
-  },
-  {
-   "law_id": "DLR5L17N53410",
-   "reasons": [
-    "5 article(s) de presse lient TotalEnergies à cette thématique"
-   ],
-   "score": 45.0,
-   "signals": {
-    "donations": 0.0,
-    "news": 1.0,
-    "register": 0.0,
-    "stock": 0.0
-   }
-  },
-  {
-   "law_id": "DLR5L17N53373",
-   "reasons": [
-    "4 article(s) de presse lient TotalEnergies à cette thématique",
-    "registre de lobbying (juridiction), thématique commune : climat"
-   ],
-   "score": 61.0,
-   "signals": {
-    "donations": 0.0,
-    "news": 1.0,
-    "register": 0.8,
-    "stock": 0.0
-   }
-  },
-  {
-   "law_id": "DLR5L17N53010",
-   "reasons": [
-    "4 article(s) de presse lient TotalEnergies à cette thématique",
-    "registre de lobbying (juridiction), thématique commune : climat"
-   ],
-   "score": 61.0,
-   "signals": {
-    "donations": 0.0,
-    "news": 1.0,
-    "register": 0.8,
-    "stock": 0.0
-   }
-  },
-  {
-   "law_id": "DLR5L17N53340",
-   "reasons": [
-    "5 article(s) de presse lient TotalEnergies à cette thématique"
-   ],
-   "score": 45.0,
-   "signals": {
-    "donations": 0.0,
-    "news": 1.0,
-    "register": 0.0,
-    "stock": 0.0
-   }
-  },
-  {
-   "law_id": "DLR5L17N53228",
-   "reasons": [
-    "5 article(s) de presse lient TotalEnergies à cette thématique",
-    "registre de lobbying (juridiction), thématique commune : energie"
-   ],
-   "score": 61.0,
-   "signals": {
-    "donations": 0.0,
-    "news": 1.0,
-    "register": 0.8,
-    "stock": 0.0
-   }
-  },
-  {
-   "law_id": "DLR5L17N52972",
-   "reasons": [
-    "5 article(s) de presse lient TotalEnergies à cette thématique"
-   ],
-   "score": 45.0,
-   "signals": {
-    "donations": 0.0,
-    "news": 1.0,
-    "register": 0.0,
-    "stock": 0.0
-   }
-  },
-  {
-   "law_id": "DLR5L17N53143",
-   "reasons": [
-    "4 article(s) de presse lient TotalEnergies à cette thématique",
-    "registre de lobbying (juridiction), thématique commune : climat"
-   ],
-   "score": 61.0,
-   "signals": {
-    "donations": 0.0,
-    "news": 1.0,
-    "register": 0.8,
-    "stock": 0.0
-   }
-  },
-  {
-   "law_id": "DLR5L17N53060",
-   "reasons": [
-    "4 article(s) de presse lient TotalEnergies à cette thématique",
-    "registre de lobbying (juridiction), thématique commune : climat"
-   ],
-   "score": 61.0,
-   "signals": {
-    "donations": 0.0,
-    "news": 1.0,
-    "register": 0.8,
-    "stock": 0.0
-   }
-  },
-  {
-   "law_id": "DLR5L17N53041",
-   "reasons": [
-    "4 article(s) de presse lient TotalEnergies à cette thématique",
-    "registre de lobbying (juridiction), thématique commune : climat"
-   ],
-   "score": 61.0,
-   "signals": {
-    "donations": 0.0,
-    "news": 1.0,
-    "register": 0.8,
-    "stock": 0.0
-   }
-  },
-  {
-   "law_id": "DLR5L17N53009",
-   "reasons": [
-    "4 article(s) de presse lient TotalEnergies à cette thématique",
-    "registre de lobbying (juridiction), thématique commune : climat"
-   ],
-   "score": 61.0,
-   "signals": {
-    "donations": 0.0,
-    "news": 1.0,
-    "register": 0.8,
     "stock": 0.0
    }
   },
   {
    "law_id": "eli/dl/doc/B-10-2026-0337",
    "reasons": [
-    "5 article(s) de presse lient TotalEnergies à cette thématique",
     "registre de lobbying (juridiction), thématiques communes : energie, renouvelables"
    ],
-   "score": 65.0,
+   "score": 20.0,
    "signals": {
     "donations": 0.0,
-    "news": 1.0,
+    "news": 0.0,
     "register": 1.0,
     "stock": 0.0
    }
@@ -9223,356 +7215,5 @@
    }
   }
  ],
- "vinci": [
-  {
-   "law_id": "DLR5L17N54608",
-   "reasons": [
-    "1 article(s) de presse lient Vinci à cette thématique",
-    "registre de lobbying (juridiction), thématique commune : btp"
-   ],
-   "score": 31.0,
-   "signals": {
-    "donations": 0.0,
-    "news": 0.333,
-    "register": 0.8,
-    "stock": 0.0
-   }
-  },
-  {
-   "law_id": "DLR5L17N54743",
-   "reasons": [
-    "1 article(s) de presse lient Vinci à cette thématique",
-    "registre de lobbying (juridiction), thématique commune : btp"
-   ],
-   "score": 31.0,
-   "signals": {
-    "donations": 0.0,
-    "news": 0.333,
-    "register": 0.8,
-    "stock": 0.0
-   }
-  },
-  {
-   "law_id": "DLR5L17N54677",
-   "reasons": [
-    "1 article(s) de presse lient Vinci à cette thématique",
-    "registre de lobbying (juridiction), thématique commune : btp"
-   ],
-   "score": 31.0,
-   "signals": {
-    "donations": 0.0,
-    "news": 0.333,
-    "register": 0.8,
-    "stock": 0.0
-   }
-  },
-  {
-   "law_id": "DLR5L17N54653",
-   "reasons": [
-    "1 article(s) de presse lient Vinci à cette thématique",
-    "registre de lobbying (juridiction), thématique commune : btp"
-   ],
-   "score": 31.0,
-   "signals": {
-    "donations": 0.0,
-    "news": 0.333,
-    "register": 0.8,
-    "stock": 0.0
-   }
-  },
-  {
-   "law_id": "DLR5L17N54566",
-   "reasons": [
-    "1 article(s) de presse lient Vinci à cette thématique",
-    "registre de lobbying (juridiction), thématique commune : btp"
-   ],
-   "score": 31.0,
-   "signals": {
-    "donations": 0.0,
-    "news": 0.333,
-    "register": 0.8,
-    "stock": 0.0
-   }
-  },
-  {
-   "law_id": "DLR5L17N51968",
-   "reasons": [
-    "1 article(s) de presse lient Vinci à cette thématique",
-    "registre de lobbying (juridiction), thématique commune : btp"
-   ],
-   "score": 31.0,
-   "signals": {
-    "donations": 0.0,
-    "news": 0.333,
-    "register": 0.8,
-    "stock": 0.0
-   }
-  },
-  {
-   "law_id": "DLR5L17N54628",
-   "reasons": [
-    "1 article(s) de presse lient Vinci à cette thématique",
-    "registre de lobbying (juridiction), thématique commune : btp"
-   ],
-   "score": 31.0,
-   "signals": {
-    "donations": 0.0,
-    "news": 0.333,
-    "register": 0.8,
-    "stock": 0.0
-   }
-  },
-  {
-   "law_id": "DLR5L17N54568",
-   "reasons": [
-    "1 article(s) de presse lient Vinci à cette thématique",
-    "registre de lobbying (juridiction), thématique commune : btp"
-   ],
-   "score": 31.0,
-   "signals": {
-    "donations": 0.0,
-    "news": 0.333,
-    "register": 0.8,
-    "stock": 0.0
-   }
-  },
-  {
-   "law_id": "DLR5L17N54548",
-   "reasons": [
-    "1 article(s) de presse lient Vinci à cette thématique",
-    "registre de lobbying (juridiction), thématique commune : btp"
-   ],
-   "score": 31.0,
-   "signals": {
-    "donations": 0.0,
-    "news": 0.333,
-    "register": 0.8,
-    "stock": 0.0
-   }
-  },
-  {
-   "law_id": "DLR5L17N54457",
-   "reasons": [
-    "1 article(s) de presse lient Vinci à cette thématique",
-    "registre de lobbying (juridiction), thématique commune : btp"
-   ],
-   "score": 31.0,
-   "signals": {
-    "donations": 0.0,
-    "news": 0.333,
-    "register": 0.8,
-    "stock": 0.0
-   }
-  },
-  {
-   "law_id": "DLR5L17N54144",
-   "reasons": [
-    "1 article(s) de presse lient Vinci à cette thématique",
-    "registre de lobbying (juridiction), thématique commune : btp"
-   ],
-   "score": 31.0,
-   "signals": {
-    "donations": 0.0,
-    "news": 0.333,
-    "register": 0.8,
-    "stock": 0.0
-   }
-  },
-  {
-   "law_id": "DLR5L17N54149",
-   "reasons": [
-    "2 article(s) de presse lient Vinci à cette thématique",
-    "registre de lobbying (juridiction), thématique commune : btp"
-   ],
-   "score": 46.0,
-   "signals": {
-    "donations": 0.0,
-    "news": 0.667,
-    "register": 0.8,
-    "stock": 0.0
-   }
-  },
-  {
-   "law_id": "DLR5L17N54127",
-   "reasons": [
-    "1 article(s) de presse lient Vinci à cette thématique",
-    "registre de lobbying (juridiction), thématique commune : btp"
-   ],
-   "score": 31.0,
-   "signals": {
-    "donations": 0.0,
-    "news": 0.333,
-    "register": 0.8,
-    "stock": 0.0
-   }
-  },
-  {
-   "law_id": "DLR5L17N54124",
-   "reasons": [
-    "1 article(s) de presse lient Vinci à cette thématique",
-    "registre de lobbying (juridiction), thématique commune : btp"
-   ],
-   "score": 31.0,
-   "signals": {
-    "donations": 0.0,
-    "news": 0.333,
-    "register": 0.8,
-    "stock": 0.0
-   }
-  },
-  {
-   "law_id": "DLR5L17N53864",
-   "reasons": [
-    "1 article(s) de presse lient Vinci à cette thématique",
-    "registre de lobbying (juridiction), thématique commune : btp"
-   ],
-   "score": 31.0,
-   "signals": {
-    "donations": 0.0,
-    "news": 0.333,
-    "register": 0.8,
-    "stock": 0.0
-   }
-  },
-  {
-   "law_id": "DLR5L17N53868",
-   "reasons": [
-    "1 article(s) de presse lient Vinci à cette thématique",
-    "registre de lobbying (juridiction), thématique commune : btp"
-   ],
-   "score": 31.0,
-   "signals": {
-    "donations": 0.0,
-    "news": 0.333,
-    "register": 0.8,
-    "stock": 0.0
-   }
-  },
-  {
-   "law_id": "DLR5L17N53764",
-   "reasons": [
-    "1 article(s) de presse lient Vinci à cette thématique",
-    "registre de lobbying (juridiction), thématique commune : btp"
-   ],
-   "score": 31.0,
-   "signals": {
-    "donations": 0.0,
-    "news": 0.333,
-    "register": 0.8,
-    "stock": 0.0
-   }
-  },
-  {
-   "law_id": "DLR5L17N53420",
-   "reasons": [
-    "1 article(s) de presse lient Vinci à cette thématique",
-    "registre de lobbying (juridiction), thématique commune : btp"
-   ],
-   "score": 31.0,
-   "signals": {
-    "donations": 0.0,
-    "news": 0.333,
-    "register": 0.8,
-    "stock": 0.0
-   }
-  },
-  {
-   "law_id": "DLR5L17N53292",
-   "reasons": [
-    "1 article(s) de presse lient Vinci à cette thématique",
-    "registre de lobbying (juridiction), thématique commune : btp"
-   ],
-   "score": 31.0,
-   "signals": {
-    "donations": 0.0,
-    "news": 0.333,
-    "register": 0.8,
-    "stock": 0.0
-   }
-  },
-  {
-   "law_id": "DLR5L17N53521",
-   "reasons": [
-    "1 article(s) de presse lient Vinci à cette thématique",
-    "registre de lobbying (juridiction), thématique commune : btp"
-   ],
-   "score": 31.0,
-   "signals": {
-    "donations": 0.0,
-    "news": 0.333,
-    "register": 0.8,
-    "stock": 0.0
-   }
-  },
-  {
-   "law_id": "DLR5L17N53320",
-   "reasons": [
-    "1 article(s) de presse lient Vinci à cette thématique",
-    "registre de lobbying (juridiction), thématique commune : btp"
-   ],
-   "score": 31.0,
-   "signals": {
-    "donations": 0.0,
-    "news": 0.333,
-    "register": 0.8,
-    "stock": 0.0
-   }
-  },
-  {
-   "law_id": "DLR5L17N51852",
-   "reasons": [
-    "1 article(s) de presse lient Vinci à cette thématique",
-    "registre de lobbying (juridiction), thématique commune : btp"
-   ],
-   "score": 31.0,
-   "signals": {
-    "donations": 0.0,
-    "news": 0.333,
-    "register": 0.8,
-    "stock": 0.0
-   }
-  },
-  {
-   "law_id": "DLR5L17N53182",
-   "reasons": [
-    "1 article(s) de presse lient Vinci à cette thématique",
-    "registre de lobbying (juridiction), thématique commune : btp"
-   ],
-   "score": 31.0,
-   "signals": {
-    "donations": 0.0,
-    "news": 0.333,
-    "register": 0.8,
-    "stock": 0.0
-   }
-  },
-  {
-   "law_id": "DLR5L17N53177",
-   "reasons": [
-    "1 article(s) de presse lient Vinci à cette thématique",
-    "registre de lobbying (juridiction), thématique commune : btp"
-   ],
-   "score": 31.0,
-   "signals": {
-    "donations": 0.0,
-    "news": 0.333,
-    "register": 0.8,
-    "stock": 0.0
-   }
-  },
-  {
-   "law_id": "DLR5L17N52964",
-   "reasons": [
-    "2 article(s) de presse lient Vinci à cette thématique",
-    "registre de lobbying (juridiction), thématique commune : btp"
-   ],
-   "score": 46.0,
-   "signals": {
-    "donations": 0.0,
-    "news": 0.667,
-    "register": 0.8,
-    "stock": 0.0
-   }
-  }
- ]
+ "vinci": []
 }
