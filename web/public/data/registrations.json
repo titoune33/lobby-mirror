@@ -564,7 +564,7 @@
    "social"
   ],
   "entity_id": "lvmh",
-  "eu_proposals_text": "* Stratégie numérique de l'UE (Digital Services Act, Data Act, Digital Markets Act, AI Act), y inclus l'implémentation et la mise en oeuvre de ces textes. \n* Sujets liés à la protection des marques: plan d’Action sur la Propriété Intellectuelle, y compris la Directive sur la mise en application des droits de propriété intellectuelle (IPRED), le suivi de la \"EU toolbox against counterfeiting and piracy\", la recommandation sur le e-commerce, la révision de la Directive sur les Dessins et Modèles, ainsi que la révision du code douanier européen\n* Politique de concurrence (Règlement d'exemption pour les accords de fourniture et de distribution verticaux (VBER))\n* Environnement et soutenabilité (suivi et implémentation des différentes initiatives relatives au Pacte Vert pour l'Europe)\n* Règlementation sectorielle (en particulier Règlement 2019/787 sur les spiritueux, Règlement cosmétiques 1223/2009, Règlement sur l'étiquetage des textiles 1007/2011)\n* Commerce international (accords de libre-échange, relations commerciales avec les états tiers) et accès aux marchés\n* Protection des consommateurs (Digital Fairness Act, publicité)\n* Gouvernance d'entreprise ",
+  "eu_proposals_text": "* Stratégie numérique de l'UE (Digital Services Act, Data Act, Digital Markets Act, AI Act), y inclus l'implémentation et la mise en oeuvre de ces textes. \n* Sujets liés à la protection des marques: plan d’Action sur la Propriété Intellectuelle, y compris la Directive sur la mise en application des droits de propriété intellectuelle (IPRED), le suivi de la \"EU toolbox against counterfeiting and piracy\", la recommandation sur le e-commerce, la révision de la Directive sur les Dessins et Modèles, ainsi que la révision du code douanier européen, European Product Act\n* Politique de concurrence (Règlement d'exemption pour les accords de fourniture et de distribution verticaux (VBER))\n* Environnement et soutenabilité (suivi et implémentation des différentes initiatives relatives au Pacte Vert pour l'Europe, Circular Economy Act)\n* Règlementation sectorielle (en particulier Règlement 2019/787 sur les spiritueux, Règlement cosmétiques 1223/2009, Règlement sur l'étiquetage des textiles 1007/2011)\n* Commerce international (accords de libre-échange, relations commerciales avec les états tiers) et accès aux marchés\n* Protection des consommateurs (Digital Fairness Act, publicité)\n* Gouvernance d'entreprise ",
   "id": "EU_TR-16094042309-21",
   "match_field": "name",
   "name": "LVMH - Moët Hennessy Louis Vuitton",
@@ -2580,7 +2580,18 @@
    "Canada Grains Council",
    "Lockheed Martin Global Inc.",
    "Tallano Technologies",
-   "Uludag Automotive Industry Exporters Association"
+   "Uludag Automotive Industry Exporters Association",
+   "BASF SE",
+   "Biotalys NV",
+   "Ciena Ltd",
+   "European Federation of Pharmaceutical Industries and Associations",
+   "European Sovereign Tech Industry Alliance",
+   "FERRERO International",
+   "Grundfos A/S",
+   "Ingevity Corporation",
+   "IonQ, Inc.",
+   "Novonesis A/S",
+   "SOLAR MATERIALS GmbH"
   ],
   "confidence": 100,
   "cost_band": "49999",
