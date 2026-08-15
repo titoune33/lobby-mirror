@@ -174,6 +174,230 @@
  ],
  "alphabet": [
   {
+   "law_id": "DLR5L17N54760",
+   "reasons": [
+    "registre de lobbying (juridiction), thématique commune : numerique",
+    "mouvement de bourse de -9.2% autour de la date clé"
+   ],
+   "score": 29.7,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 0.8,
+    "stock": 0.917
+   }
+  },
+  {
+   "law_id": "DLR5L17N54711",
+   "reasons": [
+    "registre de lobbying (juridiction), thématique commune : numerique",
+    "mouvement de bourse de -9.3% autour de la date clé"
+   ],
+   "score": 29.9,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 0.8,
+    "stock": 0.93
+   }
+  },
+  {
+   "law_id": "DLR5L17N54731",
+   "reasons": [
+    "registre de lobbying (juridiction), thématique commune : numerique",
+    "mouvement de bourse de -9.3% autour de la date clé"
+   ],
+   "score": 29.9,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 0.8,
+    "stock": 0.93
+   }
+  },
+  {
+   "law_id": "DLR5L17N54716",
+   "reasons": [
+    "registre de lobbying (juridiction), thématique commune : numerique",
+    "mouvement de bourse de -9.3% autour de la date clé"
+   ],
+   "score": 29.9,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 0.8,
+    "stock": 0.93
+   }
+  },
+  {
+   "law_id": "DLR5L17N53704",
+   "reasons": [
+    "registre de lobbying (juridiction), thématique commune : numerique",
+    "mouvement de bourse de -3.1% autour de la date clé"
+   ],
+   "score": 20.7,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 0.8,
+    "stock": 0.312
+   }
+  },
+  {
+   "law_id": "DLR5L17N54567",
+   "reasons": [
+    "registre de lobbying (juridiction), thématique commune : numerique",
+    "mouvement de bourse de -8.7% autour de la date clé"
+   ],
+   "score": 29.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 0.8,
+    "stock": 0.865
+   }
+  },
+  {
+   "law_id": "DLR5L17N54237",
+   "reasons": [
+    "registre de lobbying (juridiction), thématique commune : numerique",
+    "mouvement de bourse de +14.3% autour de la date clé"
+   ],
+   "score": 31.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 0.8,
+    "stock": 1.0
+   }
+  },
+  {
+   "law_id": "DLR5L17N52900",
+   "reasons": [
+    "registre de lobbying (juridiction), thématique commune : numerique",
+    "mouvement de bourse de -3.1% autour de la date clé"
+   ],
+   "score": 20.6,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 0.8,
+    "stock": 0.306
+   }
+  },
+  {
+   "law_id": "DLR5L17N53753",
+   "reasons": [
+    "registre de lobbying (juridiction), thématique commune : numerique",
+    "mouvement de bourse de -3.1% autour de la date clé"
+   ],
+   "score": 20.7,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 0.8,
+    "stock": 0.312
+   }
+  },
+  {
+   "law_id": "DLR5L17N53360",
+   "reasons": [
+    "registre de lobbying (juridiction), thématique commune : numerique",
+    "mouvement de bourse de -5.9% autour de la date clé"
+   ],
+   "score": 24.8,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 0.8,
+    "stock": 0.585
+   }
+  },
+  {
+   "law_id": "DLR5L17N53668",
+   "reasons": [
+    "registre de lobbying (juridiction), thématique commune : numerique",
+    "mouvement de bourse de +5.0% autour de la date clé"
+   ],
+   "score": 23.5,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 0.8,
+    "stock": 0.497
+   }
+  },
+  {
+   "law_id": "DLR5L17N52716",
+   "reasons": [
+    "registre de lobbying (juridiction), thématique commune : numerique",
+    "mouvement de bourse de +12.9% autour de la date clé"
+   ],
+   "score": 31.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 0.8,
+    "stock": 1.0
+   }
+  },
+  {
+   "law_id": "DLR5L17N53202",
+   "reasons": [
+    "registre de lobbying (juridiction), thématique commune : numerique",
+    "mouvement de bourse de +3.3% autour de la date clé"
+   ],
+   "score": 20.9,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 0.8,
+    "stock": 0.33
+   }
+  },
+  {
+   "law_id": "DLR5L17N53170",
+   "reasons": [
+    "registre de lobbying (juridiction), thématique commune : numerique",
+    "mouvement de bourse de +3.3% autour de la date clé"
+   ],
+   "score": 20.9,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 0.8,
+    "stock": 0.33
+   }
+  },
+  {
+   "law_id": "DLR5L17N53110",
+   "reasons": [
+    "registre de lobbying (juridiction), thématique commune : numerique",
+    "mouvement de bourse de +3.6% autour de la date clé"
+   ],
+   "score": 21.3,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 0.8,
+    "stock": 0.355
+   }
+  },
+  {
+   "law_id": "DLR5L17N53007",
+   "reasons": [
+    "registre de lobbying (juridiction), thématique commune : numerique",
+    "mouvement de bourse de +6.5% autour de la date clé"
+   ],
+   "score": 25.7,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 0.8,
+    "stock": 0.646
+   }
+  },
+  {
    "law_id": "eli/dl/event/MTG-PL-2026-07-09-VOT-ITM-993015",
    "reasons": [
     "registre de lobbying (juridiction), texte explicitement suivi (déclaration UE)"
@@ -548,230 +772,6 @@
     "news": 0.0,
     "register": 1.0,
     "stock": 0.0
-   }
-  },
-  {
-   "law_id": "DLR5L17N54760",
-   "reasons": [
-    "registre de lobbying (juridiction), thématique commune : numerique",
-    "mouvement de bourse de -9.2% autour de la date clé"
-   ],
-   "score": 29.7,
-   "signals": {
-    "donations": 0.0,
-    "news": 0.0,
-    "register": 0.8,
-    "stock": 0.917
-   }
-  },
-  {
-   "law_id": "DLR5L17N54716",
-   "reasons": [
-    "registre de lobbying (juridiction), thématique commune : numerique",
-    "mouvement de bourse de -9.3% autour de la date clé"
-   ],
-   "score": 29.9,
-   "signals": {
-    "donations": 0.0,
-    "news": 0.0,
-    "register": 0.8,
-    "stock": 0.93
-   }
-  },
-  {
-   "law_id": "DLR5L17N54711",
-   "reasons": [
-    "registre de lobbying (juridiction), thématique commune : numerique",
-    "mouvement de bourse de -9.3% autour de la date clé"
-   ],
-   "score": 29.9,
-   "signals": {
-    "donations": 0.0,
-    "news": 0.0,
-    "register": 0.8,
-    "stock": 0.93
-   }
-  },
-  {
-   "law_id": "DLR5L17N54731",
-   "reasons": [
-    "registre de lobbying (juridiction), thématique commune : numerique",
-    "mouvement de bourse de -9.3% autour de la date clé"
-   ],
-   "score": 29.9,
-   "signals": {
-    "donations": 0.0,
-    "news": 0.0,
-    "register": 0.8,
-    "stock": 0.93
-   }
-  },
-  {
-   "law_id": "DLR5L17N53704",
-   "reasons": [
-    "registre de lobbying (juridiction), thématique commune : numerique",
-    "mouvement de bourse de -3.1% autour de la date clé"
-   ],
-   "score": 20.7,
-   "signals": {
-    "donations": 0.0,
-    "news": 0.0,
-    "register": 0.8,
-    "stock": 0.312
-   }
-  },
-  {
-   "law_id": "DLR5L17N54567",
-   "reasons": [
-    "registre de lobbying (juridiction), thématique commune : numerique",
-    "mouvement de bourse de -8.7% autour de la date clé"
-   ],
-   "score": 29.0,
-   "signals": {
-    "donations": 0.0,
-    "news": 0.0,
-    "register": 0.8,
-    "stock": 0.865
-   }
-  },
-  {
-   "law_id": "DLR5L17N54237",
-   "reasons": [
-    "registre de lobbying (juridiction), thématique commune : numerique",
-    "mouvement de bourse de +14.3% autour de la date clé"
-   ],
-   "score": 31.0,
-   "signals": {
-    "donations": 0.0,
-    "news": 0.0,
-    "register": 0.8,
-    "stock": 1.0
-   }
-  },
-  {
-   "law_id": "DLR5L17N52900",
-   "reasons": [
-    "registre de lobbying (juridiction), thématique commune : numerique",
-    "mouvement de bourse de -3.1% autour de la date clé"
-   ],
-   "score": 20.6,
-   "signals": {
-    "donations": 0.0,
-    "news": 0.0,
-    "register": 0.8,
-    "stock": 0.306
-   }
-  },
-  {
-   "law_id": "DLR5L17N53753",
-   "reasons": [
-    "registre de lobbying (juridiction), thématique commune : numerique",
-    "mouvement de bourse de -3.1% autour de la date clé"
-   ],
-   "score": 20.7,
-   "signals": {
-    "donations": 0.0,
-    "news": 0.0,
-    "register": 0.8,
-    "stock": 0.312
-   }
-  },
-  {
-   "law_id": "DLR5L17N53360",
-   "reasons": [
-    "registre de lobbying (juridiction), thématique commune : numerique",
-    "mouvement de bourse de -5.9% autour de la date clé"
-   ],
-   "score": 24.8,
-   "signals": {
-    "donations": 0.0,
-    "news": 0.0,
-    "register": 0.8,
-    "stock": 0.585
-   }
-  },
-  {
-   "law_id": "DLR5L17N53668",
-   "reasons": [
-    "registre de lobbying (juridiction), thématique commune : numerique",
-    "mouvement de bourse de +5.0% autour de la date clé"
-   ],
-   "score": 23.5,
-   "signals": {
-    "donations": 0.0,
-    "news": 0.0,
-    "register": 0.8,
-    "stock": 0.497
-   }
-  },
-  {
-   "law_id": "DLR5L17N52716",
-   "reasons": [
-    "registre de lobbying (juridiction), thématique commune : numerique",
-    "mouvement de bourse de +12.9% autour de la date clé"
-   ],
-   "score": 31.0,
-   "signals": {
-    "donations": 0.0,
-    "news": 0.0,
-    "register": 0.8,
-    "stock": 1.0
-   }
-  },
-  {
-   "law_id": "DLR5L17N53202",
-   "reasons": [
-    "registre de lobbying (juridiction), thématique commune : numerique",
-    "mouvement de bourse de +3.3% autour de la date clé"
-   ],
-   "score": 20.9,
-   "signals": {
-    "donations": 0.0,
-    "news": 0.0,
-    "register": 0.8,
-    "stock": 0.33
-   }
-  },
-  {
-   "law_id": "DLR5L17N53170",
-   "reasons": [
-    "registre de lobbying (juridiction), thématique commune : numerique",
-    "mouvement de bourse de +3.3% autour de la date clé"
-   ],
-   "score": 20.9,
-   "signals": {
-    "donations": 0.0,
-    "news": 0.0,
-    "register": 0.8,
-    "stock": 0.33
-   }
-  },
-  {
-   "law_id": "DLR5L17N53110",
-   "reasons": [
-    "registre de lobbying (juridiction), thématique commune : numerique",
-    "mouvement de bourse de +3.6% autour de la date clé"
-   ],
-   "score": 21.3,
-   "signals": {
-    "donations": 0.0,
-    "news": 0.0,
-    "register": 0.8,
-    "stock": 0.355
-   }
-  },
-  {
-   "law_id": "DLR5L17N53007",
-   "reasons": [
-    "registre de lobbying (juridiction), thématique commune : numerique",
-    "mouvement de bourse de +6.5% autour de la date clé"
-   ],
-   "score": 25.7,
-   "signals": {
-    "donations": 0.0,
-    "news": 0.0,
-    "register": 0.8,
-    "stock": 0.646
    }
   }
  ],
@@ -1419,6 +1419,19 @@
  ],
  "bayer": [
   {
+   "law_id": "DLR5L17N53140",
+   "reasons": [
+    "registre de lobbying (juridiction), thématiques communes : agriculture, sante"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
    "law_id": "eli/dl/event/MTG-PL-2026-07-09-VOT-ITM-993015",
    "reasons": [
     "registre de lobbying (juridiction), texte explicitement suivi (déclaration UE)"
@@ -1690,19 +1703,6 @@
     "register": 1.0,
     "stock": 0.0
    }
-  },
-  {
-   "law_id": "DLR5L17N53140",
-   "reasons": [
-    "registre de lobbying (juridiction), thématiques communes : agriculture, sante"
-   ],
-   "score": 20.0,
-   "signals": {
-    "donations": 0.0,
-    "news": 0.0,
-    "register": 1.0,
-    "stock": 0.0
-   }
   }
  ],
  "bnp-paribas": [
@@ -1760,6 +1760,19 @@
   }
  ],
  "bouygues": [
+  {
+   "law_id": "DLR5L17N54124",
+   "reasons": [
+    "registre de lobbying (juridiction), thématiques communes : btp, telecoms"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
   {
    "law_id": "eli/dl/doc/A-10-2026-0192",
    "reasons": [
@@ -2006,11 +2019,14 @@
     "register": 1.0,
     "stock": 0.0
    }
-  },
+  }
+ ],
+ "bp": [],
+ "british-american-tobacco": [
   {
-   "law_id": "DLR5L17N54124",
+   "law_id": "DLR5L17N51615",
    "reasons": [
-    "registre de lobbying (juridiction), thématiques communes : btp, telecoms"
+    "registre de lobbying (juridiction), thématiques communes : sante, tabac"
    ],
    "score": 20.0,
    "signals": {
@@ -2019,10 +2035,7 @@
     "register": 1.0,
     "stock": 0.0
    }
-  }
- ],
- "bp": [],
- "british-american-tobacco": [
+  },
   {
    "law_id": "eli/dl/event/MTG-PL-2026-07-09-VOT-ITM-993015",
    "reasons": [
@@ -2633,11 +2646,14 @@
     "register": 1.0,
     "stock": 0.0
    }
-  },
+  }
+ ],
+ "chevron": [],
+ "credit-agricole": [
   {
-   "law_id": "DLR5L17N51615",
+   "law_id": "DLR5L17N53140",
    "reasons": [
-    "registre de lobbying (juridiction), thématiques communes : sante, tabac"
+    "registre de lobbying (juridiction), thématiques communes : agriculture, finance"
    ],
    "score": 20.0,
    "signals": {
@@ -2646,10 +2662,7 @@
     "register": 1.0,
     "stock": 0.0
    }
-  }
- ],
- "chevron": [],
- "credit-agricole": [
+  },
   {
    "law_id": "eli/dl/doc/A-10-2026-0185",
    "reasons": [
@@ -2818,19 +2831,6 @@
     "register": 1.0,
     "stock": 0.0
    }
-  },
-  {
-   "law_id": "DLR5L17N53140",
-   "reasons": [
-    "registre de lobbying (juridiction), thématiques communes : agriculture, finance"
-   ],
-   "score": 20.0,
-   "signals": {
-    "donations": 0.0,
-    "news": 0.0,
-    "register": 1.0,
-    "stock": 0.0
-   }
   }
  ],
  "dassault-systemes": [
@@ -2914,6 +2914,19 @@
   }
  ],
  "edf": [
+  {
+   "law_id": "DLR5L17N54377",
+   "reasons": [
+    "registre de lobbying (juridiction), thématiques communes : climat, energie"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
   {
    "law_id": "eli/dl/event/MTG-PL-2026-07-09-VOT-ITM-993015",
    "reasons": [
@@ -3030,7 +3043,9 @@
     "register": 1.0,
     "stock": 0.0
    }
-  },
+  }
+ ],
+ "engie": [
   {
    "law_id": "DLR5L17N54377",
    "reasons": [
@@ -3043,9 +3058,20 @@
     "register": 1.0,
     "stock": 0.0
    }
-  }
- ],
- "engie": [
+  },
+  {
+   "law_id": "DLR5L17N53540",
+   "reasons": [
+    "registre de lobbying (juridiction), thématiques communes : energie, renouvelables"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
   {
    "law_id": "eli/dl/event/MTG-PL-2026-07-09-VOT-ITM-993015",
    "reasons": [
@@ -3253,7 +3279,9 @@
     "register": 1.0,
     "stock": 0.0
    }
-  },
+  }
+ ],
+ "exxonmobil": [
   {
    "law_id": "DLR5L17N54377",
    "reasons": [
@@ -3267,21 +3295,6 @@
     "stock": 0.0
    }
   },
-  {
-   "law_id": "DLR5L17N53540",
-   "reasons": [
-    "registre de lobbying (juridiction), thématiques communes : energie, renouvelables"
-   ],
-   "score": 20.0,
-   "signals": {
-    "donations": 0.0,
-    "news": 0.0,
-    "register": 1.0,
-    "stock": 0.0
-   }
-  }
- ],
- "exxonmobil": [
   {
    "law_id": "eli/dl/event/MTG-PL-2026-07-09-VOT-ITM-993015",
    "reasons": [
@@ -3403,19 +3416,6 @@
    "law_id": "eli/dl/doc/A-10-2026-0169",
    "reasons": [
     "registre de lobbying (juridiction), texte explicitement suivi (déclaration UE)"
-   ],
-   "score": 20.0,
-   "signals": {
-    "donations": 0.0,
-    "news": 0.0,
-    "register": 1.0,
-    "stock": 0.0
-   }
-  },
-  {
-   "law_id": "DLR5L17N54377",
-   "reasons": [
-    "registre de lobbying (juridiction), thématiques communes : climat, energie"
    ],
    "score": 20.0,
    "signals": {
@@ -4316,341 +4316,521 @@
  ],
  "microsoft": [
   {
+   "law_id": "DLR5L17N53704",
+   "reasons": [
+    "registre de lobbying (juridiction), thématique commune : numerique",
+    "mouvement de bourse de -14.7% autour de la date clé"
+   ],
+   "score": 31.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 0.8,
+    "stock": 1.0
+   }
+  },
+  {
+   "law_id": "DLR5L17N54567",
+   "reasons": [
+    "registre de lobbying (juridiction), thématique commune : numerique",
+    "mouvement de bourse de -6.7% autour de la date clé"
+   ],
+   "score": 26.1,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 0.8,
+    "stock": 0.67
+   }
+  },
+  {
+   "law_id": "DLR5L17N54600",
+   "reasons": [
+    "registre de lobbying (juridiction), thématique commune : numerique",
+    "mouvement de bourse de +6.3% autour de la date clé"
+   ],
+   "score": 25.5,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 0.8,
+    "stock": 0.63
+   }
+  },
+  {
+   "law_id": "DLR5L17N53359",
+   "reasons": [
+    "registre de lobbying (juridiction), thématique commune : numerique",
+    "mouvement de bourse de -3.1% autour de la date clé"
+   ],
+   "score": 20.6,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 0.8,
+    "stock": 0.31
+   }
+  },
+  {
+   "law_id": "DLR5L17N53753",
+   "reasons": [
+    "registre de lobbying (juridiction), thématique commune : numerique",
+    "mouvement de bourse de -14.7% autour de la date clé"
+   ],
+   "score": 31.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 0.8,
+    "stock": 1.0
+   }
+  },
+  {
+   "law_id": "DLR5L17N53668",
+   "reasons": [
+    "registre de lobbying (juridiction), thématique commune : numerique",
+    "mouvement de bourse de -5.3% autour de la date clé"
+   ],
+   "score": 24.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 0.8,
+    "stock": 0.533
+   }
+  },
+  {
+   "law_id": "DLR5L17N53202",
+   "reasons": [
+    "registre de lobbying (juridiction), thématique commune : numerique",
+    "mouvement de bourse de -6.7% autour de la date clé"
+   ],
+   "score": 26.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 0.8,
+    "stock": 0.67
+   }
+  },
+  {
+   "law_id": "DLR5L17N53170",
+   "reasons": [
+    "registre de lobbying (juridiction), thématique commune : numerique",
+    "mouvement de bourse de -6.7% autour de la date clé"
+   ],
+   "score": 26.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 0.8,
+    "stock": 0.67
+   }
+  },
+  {
+   "law_id": "DLR5L17N53110",
+   "reasons": [
+    "registre de lobbying (juridiction), thématique commune : numerique",
+    "mouvement de bourse de -6.5% autour de la date clé"
+   ],
+   "score": 25.8,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 0.8,
+    "stock": 0.653
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0185",
+   "reasons": [
+    "registre de lobbying (juridiction), thématique commune : numerique",
+    "mouvement de bourse de +4.5% autour de la date clé"
+   ],
+   "score": 22.7,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 0.8,
+    "stock": 0.448
+   }
+  },
+  {
    "law_id": "eli/dl/event/MTG-PL-2026-07-09-VOT-ITM-993015",
    "reasons": [
-    "registre de lobbying (juridiction), texte explicitement suivi (déclaration UE)"
+    "registre de lobbying (juridiction), texte explicitement suivi (déclaration UE)",
+    "mouvement de bourse de +4.5% autour de la date clé"
    ],
-   "score": 20.0,
+   "score": 26.7,
    "signals": {
     "donations": 0.0,
     "news": 0.0,
     "register": 1.0,
-    "stock": 0.0
+    "stock": 0.448
    }
   },
   {
    "law_id": "eli/dl/doc/B-10-2026-0339",
    "reasons": [
-    "registre de lobbying (juridiction), texte explicitement suivi (déclaration UE)"
+    "registre de lobbying (juridiction), texte explicitement suivi (déclaration UE)",
+    "mouvement de bourse de +4.5% autour de la date clé"
    ],
-   "score": 20.0,
+   "score": 26.7,
    "signals": {
     "donations": 0.0,
     "news": 0.0,
     "register": 1.0,
-    "stock": 0.0
+    "stock": 0.448
    }
   },
   {
    "law_id": "eli/dl/doc/B-10-2026-0356",
    "reasons": [
-    "registre de lobbying (juridiction), texte explicitement suivi (déclaration UE)"
+    "registre de lobbying (juridiction), texte explicitement suivi (déclaration UE)",
+    "mouvement de bourse de +4.5% autour de la date clé"
    ],
-   "score": 20.0,
+   "score": 26.7,
    "signals": {
     "donations": 0.0,
     "news": 0.0,
     "register": 1.0,
-    "stock": 0.0
+    "stock": 0.448
    }
   },
   {
    "law_id": "eli/dl/doc/B-10-2026-0361",
    "reasons": [
-    "registre de lobbying (juridiction), texte explicitement suivi (déclaration UE)"
+    "registre de lobbying (juridiction), texte explicitement suivi (déclaration UE)",
+    "mouvement de bourse de +4.5% autour de la date clé"
    ],
-   "score": 20.0,
+   "score": 26.7,
    "signals": {
     "donations": 0.0,
     "news": 0.0,
     "register": 1.0,
-    "stock": 0.0
+    "stock": 0.448
    }
   },
   {
    "law_id": "eli/dl/doc/B-10-2026-0351",
    "reasons": [
-    "registre de lobbying (juridiction), texte explicitement suivi (déclaration UE)"
+    "registre de lobbying (juridiction), texte explicitement suivi (déclaration UE)",
+    "mouvement de bourse de +4.5% autour de la date clé"
    ],
-   "score": 20.0,
+   "score": 26.7,
    "signals": {
     "donations": 0.0,
     "news": 0.0,
     "register": 1.0,
-    "stock": 0.0
+    "stock": 0.448
    }
   },
   {
    "law_id": "eli/dl/doc/A-10-2026-0167",
    "reasons": [
-    "registre de lobbying (juridiction), texte explicitement suivi (déclaration UE)"
+    "registre de lobbying (juridiction), texte explicitement suivi (déclaration UE)",
+    "mouvement de bourse de +4.5% autour de la date clé"
    ],
-   "score": 20.0,
+   "score": 26.7,
    "signals": {
     "donations": 0.0,
     "news": 0.0,
     "register": 1.0,
-    "stock": 0.0
+    "stock": 0.448
    }
   },
   {
    "law_id": "eli/dl/doc/A-10-2026-0183",
    "reasons": [
-    "registre de lobbying (juridiction), texte explicitement suivi (déclaration UE)"
+    "registre de lobbying (juridiction), texte explicitement suivi (déclaration UE)",
+    "mouvement de bourse de +4.5% autour de la date clé"
    ],
-   "score": 20.0,
+   "score": 26.7,
    "signals": {
     "donations": 0.0,
     "news": 0.0,
     "register": 1.0,
-    "stock": 0.0
+    "stock": 0.448
    }
   },
   {
    "law_id": "eli/dl/doc/A-10-2026-0156",
    "reasons": [
-    "registre de lobbying (juridiction), texte explicitement suivi (déclaration UE)"
+    "registre de lobbying (juridiction), texte explicitement suivi (déclaration UE)",
+    "mouvement de bourse de +4.5% autour de la date clé"
    ],
-   "score": 20.0,
+   "score": 26.7,
    "signals": {
     "donations": 0.0,
     "news": 0.0,
     "register": 1.0,
-    "stock": 0.0
+    "stock": 0.448
    }
   },
   {
    "law_id": "eli/dl/doc/A-10-2026-0163",
    "reasons": [
-    "registre de lobbying (juridiction), texte explicitement suivi (déclaration UE)"
+    "registre de lobbying (juridiction), texte explicitement suivi (déclaration UE)",
+    "mouvement de bourse de +4.5% autour de la date clé"
    ],
-   "score": 20.0,
+   "score": 26.7,
    "signals": {
     "donations": 0.0,
     "news": 0.0,
     "register": 1.0,
-    "stock": 0.0
+    "stock": 0.448
    }
   },
   {
    "law_id": "eli/dl/doc/A-10-2026-0177",
    "reasons": [
-    "registre de lobbying (juridiction), texte explicitement suivi (déclaration UE)"
+    "registre de lobbying (juridiction), texte explicitement suivi (déclaration UE)",
+    "mouvement de bourse de +4.5% autour de la date clé"
    ],
-   "score": 20.0,
+   "score": 26.7,
    "signals": {
     "donations": 0.0,
     "news": 0.0,
     "register": 1.0,
-    "stock": 0.0
+    "stock": 0.448
    }
   },
   {
    "law_id": "eli/dl/doc/A-10-2026-0151",
    "reasons": [
-    "registre de lobbying (juridiction), texte explicitement suivi (déclaration UE)"
+    "registre de lobbying (juridiction), texte explicitement suivi (déclaration UE)",
+    "mouvement de bourse de +4.5% autour de la date clé"
    ],
-   "score": 20.0,
+   "score": 26.7,
    "signals": {
     "donations": 0.0,
     "news": 0.0,
     "register": 1.0,
-    "stock": 0.0
+    "stock": 0.448
    }
   },
   {
    "law_id": "eli/dl/doc/A-10-2026-0172",
    "reasons": [
-    "registre de lobbying (juridiction), texte explicitement suivi (déclaration UE)"
+    "registre de lobbying (juridiction), texte explicitement suivi (déclaration UE)",
+    "mouvement de bourse de +4.5% autour de la date clé"
    ],
-   "score": 20.0,
+   "score": 26.7,
    "signals": {
     "donations": 0.0,
     "news": 0.0,
     "register": 1.0,
-    "stock": 0.0
+    "stock": 0.448
    }
   },
   {
    "law_id": "eli/dl/doc/A-10-2026-0198",
    "reasons": [
-    "registre de lobbying (juridiction), texte explicitement suivi (déclaration UE)"
+    "registre de lobbying (juridiction), texte explicitement suivi (déclaration UE)",
+    "mouvement de bourse de +4.5% autour de la date clé"
    ],
-   "score": 20.0,
+   "score": 26.7,
    "signals": {
     "donations": 0.0,
     "news": 0.0,
     "register": 1.0,
-    "stock": 0.0
+    "stock": 0.448
    }
   },
   {
    "law_id": "eli/dl/doc/A-10-2026-0181",
    "reasons": [
-    "registre de lobbying (juridiction), texte explicitement suivi (déclaration UE)"
+    "registre de lobbying (juridiction), texte explicitement suivi (déclaration UE)",
+    "mouvement de bourse de +4.5% autour de la date clé"
    ],
-   "score": 20.0,
+   "score": 26.7,
    "signals": {
     "donations": 0.0,
     "news": 0.0,
     "register": 1.0,
-    "stock": 0.0
+    "stock": 0.448
    }
   },
   {
    "law_id": "eli/dl/doc/A-10-2026-0164",
    "reasons": [
-    "registre de lobbying (juridiction), texte explicitement suivi (déclaration UE)"
+    "registre de lobbying (juridiction), texte explicitement suivi (déclaration UE)",
+    "mouvement de bourse de +4.5% autour de la date clé"
    ],
-   "score": 20.0,
+   "score": 26.7,
    "signals": {
     "donations": 0.0,
     "news": 0.0,
     "register": 1.0,
-    "stock": 0.0
+    "stock": 0.448
    }
   },
   {
    "law_id": "eli/dl/doc/A-10-2026-0182",
    "reasons": [
-    "registre de lobbying (juridiction), texte explicitement suivi (déclaration UE)"
+    "registre de lobbying (juridiction), texte explicitement suivi (déclaration UE)",
+    "mouvement de bourse de +4.5% autour de la date clé"
    ],
-   "score": 20.0,
+   "score": 26.7,
    "signals": {
     "donations": 0.0,
     "news": 0.0,
     "register": 1.0,
-    "stock": 0.0
+    "stock": 0.448
    }
   },
   {
    "law_id": "eli/dl/doc/A-10-2026-0178",
    "reasons": [
-    "registre de lobbying (juridiction), texte explicitement suivi (déclaration UE)"
+    "registre de lobbying (juridiction), texte explicitement suivi (déclaration UE)",
+    "mouvement de bourse de +4.5% autour de la date clé"
    ],
-   "score": 20.0,
+   "score": 26.7,
    "signals": {
     "donations": 0.0,
     "news": 0.0,
     "register": 1.0,
-    "stock": 0.0
+    "stock": 0.448
    }
   },
   {
    "law_id": "eli/dl/doc/A-10-2026-0189",
    "reasons": [
-    "registre de lobbying (juridiction), texte explicitement suivi (déclaration UE)"
+    "registre de lobbying (juridiction), texte explicitement suivi (déclaration UE)",
+    "mouvement de bourse de +4.5% autour de la date clé"
    ],
-   "score": 20.0,
+   "score": 26.7,
    "signals": {
     "donations": 0.0,
     "news": 0.0,
     "register": 1.0,
-    "stock": 0.0
+    "stock": 0.448
    }
   },
   {
    "law_id": "eli/dl/doc/A-10-2026-0179",
    "reasons": [
-    "registre de lobbying (juridiction), texte explicitement suivi (déclaration UE)"
+    "registre de lobbying (juridiction), texte explicitement suivi (déclaration UE)",
+    "mouvement de bourse de +4.5% autour de la date clé"
    ],
-   "score": 20.0,
+   "score": 26.7,
    "signals": {
     "donations": 0.0,
     "news": 0.0,
     "register": 1.0,
-    "stock": 0.0
+    "stock": 0.448
    }
   },
   {
    "law_id": "eli/dl/event/MTG-PL-2026-07-07-VOT-ITM-992951",
    "reasons": [
-    "registre de lobbying (juridiction), texte explicitement suivi (déclaration UE)"
+    "registre de lobbying (juridiction), texte explicitement suivi (déclaration UE)",
+    "mouvement de bourse de +4.5% autour de la date clé"
    ],
-   "score": 20.0,
+   "score": 26.7,
    "signals": {
     "donations": 0.0,
     "news": 0.0,
     "register": 1.0,
-    "stock": 0.0
+    "stock": 0.448
+   }
+  },
+  {
+   "law_id": "eli/dl/doc/A-10-2026-0173",
+   "reasons": [
+    "registre de lobbying (juridiction), thématique commune : numerique",
+    "mouvement de bourse de +4.5% autour de la date clé"
+   ],
+   "score": 22.7,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 0.8,
+    "stock": 0.448
    }
   },
   {
    "law_id": "eli/dl/doc/B-10-2026-0343",
    "reasons": [
-    "registre de lobbying (juridiction), texte explicitement suivi (déclaration UE)"
+    "registre de lobbying (juridiction), texte explicitement suivi (déclaration UE)",
+    "mouvement de bourse de +4.5% autour de la date clé"
    ],
-   "score": 20.0,
+   "score": 26.7,
    "signals": {
     "donations": 0.0,
     "news": 0.0,
     "register": 1.0,
-    "stock": 0.0
+    "stock": 0.448
    }
   },
   {
    "law_id": "eli/dl/doc/A-10-2026-0186",
    "reasons": [
-    "registre de lobbying (juridiction), texte explicitement suivi (déclaration UE)"
+    "registre de lobbying (juridiction), texte explicitement suivi (déclaration UE)",
+    "mouvement de bourse de +4.5% autour de la date clé"
    ],
-   "score": 20.0,
+   "score": 26.7,
    "signals": {
     "donations": 0.0,
     "news": 0.0,
     "register": 1.0,
-    "stock": 0.0
+    "stock": 0.448
    }
   },
   {
    "law_id": "eli/dl/doc/A-10-2026-0170",
    "reasons": [
-    "registre de lobbying (juridiction), texte explicitement suivi (déclaration UE)"
+    "registre de lobbying (juridiction), texte explicitement suivi (déclaration UE)",
+    "mouvement de bourse de +4.5% autour de la date clé"
    ],
-   "score": 20.0,
+   "score": 26.7,
    "signals": {
     "donations": 0.0,
     "news": 0.0,
     "register": 1.0,
-    "stock": 0.0
+    "stock": 0.448
    }
   },
   {
    "law_id": "eli/dl/doc/A-10-2026-0174",
    "reasons": [
-    "registre de lobbying (juridiction), texte explicitement suivi (déclaration UE)"
+    "registre de lobbying (juridiction), texte explicitement suivi (déclaration UE)",
+    "mouvement de bourse de +4.5% autour de la date clé"
    ],
-   "score": 20.0,
+   "score": 26.7,
    "signals": {
     "donations": 0.0,
     "news": 0.0,
     "register": 1.0,
-    "stock": 0.0
+    "stock": 0.448
    }
   },
   {
    "law_id": "eli/dl/doc/B-10-2026-0338",
    "reasons": [
-    "registre de lobbying (juridiction), texte explicitement suivi (déclaration UE)"
+    "registre de lobbying (juridiction), texte explicitement suivi (déclaration UE)",
+    "mouvement de bourse de +4.5% autour de la date clé"
    ],
-   "score": 20.0,
+   "score": 26.7,
    "signals": {
     "donations": 0.0,
     "news": 0.0,
     "register": 1.0,
-    "stock": 0.0
+    "stock": 0.448
    }
   },
   {
    "law_id": "eli/dl/doc/A-10-2026-0169",
    "reasons": [
-    "registre de lobbying (juridiction), texte explicitement suivi (déclaration UE)"
+    "registre de lobbying (juridiction), texte explicitement suivi (déclaration UE)",
+    "mouvement de bourse de +4.5% autour de la date clé"
    ],
-   "score": 20.0,
+   "score": 26.7,
    "signals": {
     "donations": 0.0,
     "news": 0.0,
     "register": 1.0,
-    "stock": 0.0
+    "stock": 0.448
    }
   },
   {
@@ -5180,6 +5360,19 @@
  ],
  "orange": [
   {
+   "law_id": "DLR5L17N52305",
+   "reasons": [
+    "registre de lobbying (juridiction), thématiques communes : numerique, telecoms"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
    "law_id": "eli/dl/event/MTG-PL-2026-07-09-VOT-ITM-993015",
    "reasons": [
     "registre de lobbying (juridiction), texte explicitement suivi (déclaration UE)"
@@ -5313,19 +5506,6 @@
    "law_id": "eli/dl/doc/A-10-2026-0174",
    "reasons": [
     "registre de lobbying (juridiction), texte explicitement suivi (déclaration UE)"
-   ],
-   "score": 20.0,
-   "signals": {
-    "donations": 0.0,
-    "news": 0.0,
-    "register": 1.0,
-    "stock": 0.0
-   }
-  },
-  {
-   "law_id": "DLR5L17N52305",
-   "reasons": [
-    "registre de lobbying (juridiction), thématiques communes : numerique, telecoms"
    ],
    "score": 20.0,
    "signals": {
@@ -5586,6 +5766,19 @@
   }
  ],
  "philip-morris": [
+  {
+   "law_id": "DLR5L17N51615",
+   "reasons": [
+    "registre de lobbying (juridiction), thématiques communes : sante, tabac"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
   {
    "law_id": "eli/dl/event/MTG-PL-2026-07-09-VOT-ITM-993015",
    "reasons": [
@@ -5980,19 +6173,6 @@
    "law_id": "eli/dl/event/MTG-PL-2026-07-09-VOT-ITM-993016-RCV-2",
    "reasons": [
     "registre de lobbying (juridiction), texte explicitement suivi (déclaration UE)"
-   ],
-   "score": 20.0,
-   "signals": {
-    "donations": 0.0,
-    "news": 0.0,
-    "register": 1.0,
-    "stock": 0.0
-   }
-  },
-  {
-   "law_id": "DLR5L17N51615",
-   "reasons": [
-    "registre de lobbying (juridiction), thématiques communes : sante, tabac"
    ],
    "score": 20.0,
    "signals": {
@@ -6992,6 +7172,32 @@
  ],
  "totalenergies": [
   {
+   "law_id": "DLR5L17N54377",
+   "reasons": [
+    "registre de lobbying (juridiction), thématiques communes : climat, energie"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
+   "law_id": "DLR5L17N53540",
+   "reasons": [
+    "registre de lobbying (juridiction), thématiques communes : energie, renouvelables"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
    "law_id": "eli/dl/doc/B-10-2026-0337",
    "reasons": [
     "registre de lobbying (juridiction), thématiques communes : energie, renouvelables"
@@ -7073,32 +7279,6 @@
    "law_id": "eli/dl/doc/A-10-2026-0169",
    "reasons": [
     "registre de lobbying (juridiction), texte explicitement suivi (déclaration UE)"
-   ],
-   "score": 20.0,
-   "signals": {
-    "donations": 0.0,
-    "news": 0.0,
-    "register": 1.0,
-    "stock": 0.0
-   }
-  },
-  {
-   "law_id": "DLR5L17N54377",
-   "reasons": [
-    "registre de lobbying (juridiction), thématiques communes : climat, energie"
-   ],
-   "score": 20.0,
-   "signals": {
-    "donations": 0.0,
-    "news": 0.0,
-    "register": 1.0,
-    "stock": 0.0
-   }
-  },
-  {
-   "law_id": "DLR5L17N53540",
-   "reasons": [
-    "registre de lobbying (juridiction), thématiques communes : energie, renouvelables"
    ],
    "score": 20.0,
    "signals": {
