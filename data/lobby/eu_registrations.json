@@ -5170,7 +5170,6 @@
  },
  {
   "clients": [
-   "Linde",
    "Volvo AB",
    "Shell",
    "IVECO GROUP N.V.",
@@ -5179,12 +5178,13 @@
    "TEAL Mobility",
    "BP p.l.c.",
    "Hyundai Motor Europe",
+   "Linde plc",
    "TotalEnergies SE",
    "Daimler Truck AG",
-   "Linde",
    "Volvo AB",
    "TEAL Mobility",
-   "Hyundai Motor Europe"
+   "Hyundai Motor Europe",
+   "Linde plc"
   ],
   "confidence": 100,
   "cost_band": "49999",
@@ -5195,7 +5195,7 @@
    "transport"
   ],
   "entity_id": "shell",
-  "eu_proposals_text": "- Renewable Energy Directive\n- Heavy Duty CO2 Standards\n- Eurovignette Directive\n- Alternative Fuels Infrastructure Directive\n- FuelEU Maritime\n- RefuelEU Aviation",
+  "eu_proposals_text": "- Renewable Energy Directive\n- Heavy Duty CO2 Standards\n- Eurovignette Directive\n- Alternative Fuels Infrastructure Directive\n- FuelEU Maritime\n- RefuelEU Aviation\n-Funding programmes, e.g., EU Competitiveness Fund, Connecting Europe Facility",
   "id": "EU_TR-375030993261-49",
   "match_field": "client",
   "name": "Delta H Consulting Ltd",
