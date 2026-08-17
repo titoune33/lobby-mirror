@@ -465,11 +465,12 @@
    "updated": "2026-07-24"
   },
   "entities": [
-   "alphabet"
+   "alphabet",
+   "meta"
   ],
   "id": "DLR5L17N54760",
   "jurisdiction": "FR",
-  "score": 29.7,
+  "score": 31.0,
   "status": "Renvoi en commission au fond",
   "tags": [
    "numerique",
@@ -716,11 +717,12 @@
    "updated": "2026-07-23"
   },
   "entities": [
-   "alphabet"
+   "alphabet",
+   "meta"
   ],
   "id": "DLR5L17N54711",
   "jurisdiction": "FR",
-  "score": 29.9,
+  "score": 30.1,
   "status": "Renvoi en commission au fond",
   "tags": [
    "numerique",
@@ -1007,11 +1009,12 @@
    "updated": "2026-07-23"
   },
   "entities": [
-   "alphabet"
+   "alphabet",
+   "meta"
   ],
   "id": "DLR5L17N54731",
   "jurisdiction": "FR",
-  "score": 29.9,
+  "score": 30.1,
   "status": "Renvoi en commission au fond",
   "tags": [
    "numerique"
@@ -1045,11 +1048,12 @@
    "updated": "2026-07-23"
   },
   "entities": [
-   "alphabet"
+   "alphabet",
+   "meta"
   ],
   "id": "DLR5L17N54716",
   "jurisdiction": "FR",
-  "score": 29.9,
+  "score": 30.1,
   "status": "Renvoi en commission au fond",
   "tags": [
    "numerique"
@@ -1767,6 +1771,7 @@
   },
   "entities": [
    "alphabet",
+   "meta",
    "microsoft"
   ],
   "id": "DLR5L17N54567",
@@ -2161,10 +2166,12 @@
    "next_step": null,
    "updated": "2026-07-07"
   },
-  "entities": [],
+  "entities": [
+   "meta"
+  ],
   "id": "DLR5L17N54648",
   "jurisdiction": "FR",
-  "score": 0,
+  "score": 31.0,
   "status": "Renvoi en commission au fond",
   "tags": [
    "environnement"
@@ -2527,10 +2534,12 @@
    "next_step": null,
    "updated": "2026-07-01"
   },
-  "entities": [],
+  "entities": [
+   "meta"
+  ],
   "id": "DLR5L17N54626",
   "jurisdiction": "FR",
-  "score": 0,
+  "score": 21.1,
   "status": "Renvoi en commission au fond",
   "tags": [
    "environnement"
@@ -2829,6 +2838,7 @@
    "updated": "2026-07-01"
   },
   "entities": [
+   "meta",
    "microsoft"
   ],
   "id": "DLR5L17N54600",
@@ -3346,10 +3356,12 @@
    "next_step": null,
    "updated": "2026-06-24"
   },
-  "entities": [],
+  "entities": [
+   "meta"
+  ],
   "id": "DLR5L17N54573",
   "jurisdiction": "FR",
-  "score": 0,
+  "score": 26.9,
   "status": "Renvoi en commission au fond",
   "tags": [
    "environnement"
@@ -3673,10 +3685,12 @@
    "next_step": null,
    "updated": "2026-06-23"
   },
-  "entities": [],
+  "entities": [
+   "meta"
+  ],
   "id": "DLR5L17N54552",
   "jurisdiction": "FR",
-  "score": 0,
+  "score": 26.9,
   "status": "Renvoi en commission au fond",
   "tags": [
    "environnement"
@@ -6164,10 +6178,12 @@
    "next_step": null,
    "updated": "2026-05-26"
   },
-  "entities": [],
+  "entities": [
+   "meta"
+  ],
   "id": "DLR5L17N53145",
   "jurisdiction": "FR",
-  "score": 0,
+  "score": 22.6,
   "status": "Retrait d'une initiative",
   "tags": [
    "numerique"
@@ -6527,11 +6543,12 @@
   },
   "entities": [
    "bayer",
-   "credit-agricole"
+   "credit-agricole",
+   "meta"
   ],
   "id": "DLR5L17N53140",
   "jurisdiction": "FR",
-  "score": 20.0,
+  "score": 24.9,
   "status": "Réunion de commission",
   "tags": [
    "agriculture",
@@ -7737,7 +7754,8 @@
    "updated": "2026-04-28"
   },
   "entities": [
-   "alphabet"
+   "alphabet",
+   "meta"
   ],
   "id": "DLR5L17N54237",
   "jurisdiction": "FR",
@@ -8287,10 +8305,12 @@
    "next_step": null,
    "updated": "2026-04-22"
   },
-  "entities": [],
+  "entities": [
+   "meta"
+  ],
   "id": "DLR5L17N53055",
   "jurisdiction": "FR",
-  "score": 0,
+  "score": 31.0,
   "status": "Réunion de commission",
   "tags": [
    "finance",
@@ -8426,10 +8446,12 @@
    "next_step": null,
    "updated": "2026-04-16"
   },
-  "entities": [],
+  "entities": [
+   "meta"
+  ],
   "id": "DLR5L17N54167",
   "jurisdiction": "FR",
-  "score": 0,
+  "score": 31.0,
   "status": "Dépôt de rapport",
   "tags": [
    "sante",
@@ -8743,10 +8765,12 @@
    "next_step": null,
    "updated": "2026-04-14"
   },
-  "entities": [],
+  "entities": [
+   "meta"
+  ],
   "id": "DLR5L17N54116",
   "jurisdiction": "FR",
-  "score": 0,
+  "score": 31.0,
   "status": "Renvoi en commission au fond",
   "tags": [
    "environnement"
@@ -10363,11 +10387,12 @@
    "updated": "2026-03-26"
   },
   "entities": [
-   "alphabet"
+   "alphabet",
+   "meta"
   ],
   "id": "DLR5L17N52900",
   "jurisdiction": "FR",
-  "score": 20.6,
+  "score": 23.7,
   "status": "Réunion de commission",
   "tags": [
    "numerique"
@@ -11913,10 +11938,12 @@
    "next_step": null,
    "updated": "2026-02-17"
   },
-  "entities": [],
+  "entities": [
+   "meta"
+  ],
   "id": "DLR5L17N53777",
   "jurisdiction": "FR",
-  "score": 0,
+  "score": 20.8,
   "status": "Renvoi en commission au fond",
   "tags": [
    "environnement"
@@ -11932,10 +11959,12 @@
    "next_step": null,
    "updated": "2026-02-17"
   },
-  "entities": [],
+  "entities": [
+   "meta"
+  ],
   "id": "DLR5L17N53780",
   "jurisdiction": "FR",
-  "score": 0,
+  "score": 20.8,
   "status": "Renvoi en commission au fond",
   "tags": [
    "environnement"
@@ -12658,10 +12687,12 @@
    "next_step": null,
    "updated": "2026-02-11"
   },
-  "entities": [],
+  "entities": [
+   "meta"
+  ],
   "id": "DLR5L17N52785",
   "jurisdiction": "FR",
-  "score": 0,
+  "score": 21.2,
   "status": "Retrait d'une initiative",
   "tags": [
    "environnement"
@@ -14061,11 +14092,12 @@
   },
   "entities": [
    "alphabet",
+   "meta",
    "microsoft"
   ],
   "id": "DLR5L17N53668",
   "jurisdiction": "FR",
-  "score": 24.0,
+  "score": 31.0,
   "status": "Renvoi en commission au fond",
   "tags": [
    "numerique"
@@ -14272,10 +14304,12 @@
    "next_step": null,
    "updated": "2026-01-26"
   },
-  "entities": [],
+  "entities": [
+   "meta"
+  ],
   "id": "DLR5L17N53637",
   "jurisdiction": "FR",
-  "score": 0,
+  "score": 31.0,
   "status": "Renvoi en commission au fond",
   "tags": [
    "sante",
@@ -14856,10 +14890,12 @@
    "next_step": null,
    "updated": "2026-01-13"
   },
-  "entities": [],
+  "entities": [
+   "meta"
+  ],
   "id": "DLR5L17N53526",
   "jurisdiction": "FR",
-  "score": 0,
+  "score": 24.8,
   "status": "Renvoi en commission au fond",
   "tags": [
    "environnement"
@@ -16040,10 +16076,12 @@
    "next_step": null,
    "updated": "2025-12-17"
   },
-  "entities": [],
+  "entities": [
+   "meta"
+  ],
   "id": "DLR5L17N52729",
   "jurisdiction": "FR",
-  "score": 0,
+  "score": 21.5,
   "status": "Réunion de commission",
   "tags": [
    "pesticides",
@@ -17282,10 +17320,12 @@
    "next_step": null,
    "updated": "2025-12-03"
   },
-  "entities": [],
+  "entities": [
+   "meta"
+  ],
   "id": "DLR5L17N53295",
   "jurisdiction": "FR",
-  "score": 0,
+  "score": 30.8,
   "status": "Dépôt de rapport",
   "tags": [
    "numerique"
@@ -18377,6 +18417,7 @@
   },
   "entities": [
    "alphabet",
+   "meta",
    "microsoft"
   ],
   "id": "DLR5L17N53202",
@@ -18960,6 +19001,7 @@
   },
   "entities": [
    "alphabet",
+   "meta",
    "microsoft"
   ],
   "id": "DLR5L17N53170",
@@ -19033,10 +19075,12 @@
    "next_step": null,
    "updated": "2025-11-14"
   },
-  "entities": [],
+  "entities": [
+   "meta"
+  ],
   "id": "DLR5L17N53158",
   "jurisdiction": "FR",
-  "score": 0,
+  "score": 22.1,
   "status": "Renvoi en commission au fond",
   "tags": [
    "numerique"
@@ -19175,10 +19219,12 @@
    "next_step": null,
    "updated": "2025-11-12"
   },
-  "entities": [],
+  "entities": [
+   "meta"
+  ],
   "id": "DLR5L17N53138",
   "jurisdiction": "FR",
-  "score": 0,
+  "score": 22.6,
   "status": "Dépôt de rapport",
   "tags": [
    "environnement"
@@ -19421,11 +19467,12 @@
   },
   "entities": [
    "alphabet",
+   "meta",
    "microsoft"
   ],
   "id": "DLR5L17N53110",
   "jurisdiction": "FR",
-  "score": 25.8,
+  "score": 31.0,
   "status": "Création d'une mission d'information",
   "tags": [
    "numerique"
@@ -20128,10 +20175,12 @@
    "next_step": null,
    "updated": "2025-10-28"
   },
-  "entities": [],
+  "entities": [
+   "meta"
+  ],
   "id": "DLR5L17N53062",
   "jurisdiction": "FR",
-  "score": 0,
+  "score": 31.0,
   "status": "Renvoi en commission au fond",
   "tags": [
    "environnement"
@@ -20363,10 +20412,12 @@
    "next_step": null,
    "updated": "2025-10-27"
   },
-  "entities": [],
+  "entities": [
+   "meta"
+  ],
   "id": "DLR5L17N53035",
   "jurisdiction": "FR",
-  "score": 0,
+  "score": 26.6,
   "status": "Renvoi en commission au fond",
   "tags": [
    "nucleaire",
@@ -20525,7 +20576,8 @@
    "updated": "2025-10-22"
   },
   "entities": [
-   "alphabet"
+   "alphabet",
+   "meta"
   ],
   "id": "DLR5L17N53007",
   "jurisdiction": "FR",
@@ -21227,12 +21279,13 @@
   "entities": [
    "credit-agricole",
    "lvmh",
+   "meta",
    "microsoft",
    "sanofi"
   ],
   "id": "eli/dl/doc/A-10-2026-0185",
   "jurisdiction": "EU",
-  "score": 22.7,
+  "score": 31.0,
   "status": "Voté en plénière",
   "tags": [
    "numerique"
@@ -21297,7 +21350,7 @@
   ],
   "id": "eli/dl/event/MTG-PL-2026-07-09-VOT-ITM-993015",
   "jurisdiction": "EU",
-  "score": 26.7,
+  "score": 35.0,
   "status": "Voté en plénière",
   "tags": [],
   "title": "Dérogation temporaire à la directive vie privée et communications électroniques I",
@@ -21323,7 +21376,7 @@
   ],
   "id": "eli/dl/doc/B-10-2026-0339",
   "jurisdiction": "EU",
-  "score": 26.7,
+  "score": 35.0,
   "status": "Voté en plénière",
   "tags": [],
   "title": "Communication conjointe sur l'aide humanitaire (JOIN(2026)0025)",
@@ -21350,7 +21403,7 @@
   ],
   "id": "eli/dl/doc/B-10-2026-0356",
   "jurisdiction": "EU",
-  "score": 26.7,
+  "score": 35.0,
   "status": "Voté en plénière",
   "tags": [],
   "title": "Persécutions en cours contre les chrétiens au Nigéria, notamment le massacre commis dans le village de Kawel",
@@ -21409,7 +21462,7 @@
   ],
   "id": "eli/dl/doc/B-10-2026-0351",
   "jurisdiction": "EU",
-  "score": 26.7,
+  "score": 35.0,
   "status": "Voté en plénière",
   "tags": [],
   "title": "L’enlèvement, la conversion forcée et le mariage précoce de Maria Shahbaz, et la protection des filles au Pakistan",
@@ -21443,7 +21496,7 @@
   ],
   "id": "eli/dl/doc/A-10-2026-0167",
   "jurisdiction": "EU",
-  "score": 26.7,
+  "score": 35.0,
   "status": "Voté en plénière",
   "tags": [
    "fiscalite"
@@ -21480,7 +21533,7 @@
   ],
   "id": "eli/dl/doc/A-10-2026-0183",
   "jurisdiction": "EU",
-  "score": 26.7,
+  "score": 35.0,
   "status": "Voté en plénière",
   "tags": [
    "numerique"
@@ -21513,7 +21566,7 @@
   ],
   "id": "eli/dl/doc/A-10-2026-0156",
   "jurisdiction": "EU",
-  "score": 26.7,
+  "score": 35.0,
   "status": "Voté en plénière",
   "tags": [
    "environnement"
@@ -21571,7 +21624,7 @@
   ],
   "id": "eli/dl/doc/A-10-2026-0163",
   "jurisdiction": "EU",
-  "score": 26.7,
+  "score": 35.0,
   "status": "Voté en plénière",
   "tags": [],
   "title": "Rapport 2025 de la Commission concernant la Serbie",
@@ -21647,7 +21700,7 @@
   ],
   "id": "eli/dl/doc/A-10-2026-0177",
   "jurisdiction": "EU",
-  "score": 26.7,
+  "score": 35.0,
   "status": "Voté en plénière",
   "tags": [],
   "title": "Accord euro-méditerranéen UE-Maroc relatif aux services aériens: adhésion à l'UE de la Croatie (protocole)",
@@ -21743,7 +21796,7 @@
   ],
   "id": "eli/dl/doc/A-10-2026-0151",
   "jurisdiction": "EU",
-  "score": 26.7,
+  "score": 35.0,
   "status": "Voté en plénière",
   "tags": [],
   "title": "Accord de coopération scientifique et technologique UE-Maroc fixant les conditions et modalités de la participation du Maroc au partenariat en matière de recherche et d’innovation dans la zone méditerranéenne (PRIMA): modification et complément",
@@ -21770,7 +21823,7 @@
   ],
   "id": "eli/dl/doc/A-10-2026-0172",
   "jurisdiction": "EU",
-  "score": 26.7,
+  "score": 35.0,
   "status": "Voté en plénière",
   "tags": [],
   "title": "Rapport 2025 de la Commission sur l’Ukraine",
@@ -21803,7 +21856,7 @@
   ],
   "id": "eli/dl/doc/A-10-2026-0198",
   "jurisdiction": "EU",
-  "score": 26.7,
+  "score": 35.0,
   "status": "Voté en plénière",
   "tags": [],
   "title": "Accord intérimaire sur le commerce entre l’Union européenne et le Mexique",
@@ -21837,7 +21890,7 @@
   ],
   "id": "eli/dl/doc/A-10-2026-0181",
   "jurisdiction": "EU",
-  "score": 26.7,
+  "score": 35.0,
   "status": "Voté en plénière",
   "tags": [],
   "title": "Accord de partenariat stratégique en matière politique, économique et de coopération entre l'Union européenne et le Mexique",
@@ -21864,7 +21917,7 @@
   ],
   "id": "eli/dl/doc/A-10-2026-0164",
   "jurisdiction": "EU",
-  "score": 26.7,
+  "score": 35.0,
   "status": "Voté en plénière",
   "tags": [],
   "title": "Rapport 2025 de la Commission concernant la Moldavie",
@@ -21898,7 +21951,7 @@
   ],
   "id": "eli/dl/doc/A-10-2026-0182",
   "jurisdiction": "EU",
-  "score": 26.7,
+  "score": 35.0,
   "status": "Voté en plénière",
   "tags": [],
   "title": "Accord de partenariat stratégique en matière politique, économique et de coopération entre l'Union européenne et le Mexique (rapport intérimaire)",
@@ -21932,7 +21985,7 @@
   ],
   "id": "eli/dl/doc/A-10-2026-0178",
   "jurisdiction": "EU",
-  "score": 26.7,
+  "score": 35.0,
   "status": "Voté en plénière",
   "tags": [],
   "title": "Mobilisation du Fonds de solidarité de l’Union européenne: aide à la Roumanie, à Chypre et à l’Espagne à la suite des catastrophes naturelles survenues en 2025",
@@ -21998,7 +22051,7 @@
   ],
   "id": "eli/dl/doc/A-10-2026-0179",
   "jurisdiction": "EU",
-  "score": 26.7,
+  "score": 35.0,
   "status": "Voté en plénière",
   "tags": [],
   "title": "Mobilisation du Fonds européen d’ajustement à la mondialisation: demande EGF/2026/000 TA 2026 - Assistance technique sur l’initiative de la Commission",
@@ -22041,7 +22094,7 @@
   ],
   "id": "eli/dl/event/MTG-PL-2026-07-07-VOT-ITM-992951",
   "jurisdiction": "EU",
-  "score": 26.7,
+  "score": 35.0,
   "status": "Voté en plénière",
   "tags": [],
   "title": "Dérogation temporaire à certaines dispositions de la directive « vie privée et communications électroniques » pour lutter contre les abus sexuels commis contre des enfants en ligne I",
@@ -22083,7 +22136,7 @@
   ],
   "id": "eli/dl/doc/A-8-2018-0386",
   "jurisdiction": "EU",
-  "score": 20.0,
+  "score": 35.0,
   "status": "Voté en plénière",
   "tags": [
    "social"
@@ -22105,6 +22158,7 @@
    "british-american-tobacco",
    "credit-agricole",
    "lvmh",
+   "meta",
    "microsoft",
    "nestle",
    "philip-morris",
@@ -22112,7 +22166,7 @@
   ],
   "id": "eli/dl/doc/A-10-2026-0173",
   "jurisdiction": "EU",
-  "score": 22.7,
+  "score": 31.0,
   "status": "Voté en plénière",
   "tags": [
    "numerique"
@@ -22189,7 +22243,7 @@
   ],
   "id": "eli/dl/doc/B-10-2026-0343",
   "jurisdiction": "EU",
-  "score": 26.7,
+  "score": 35.0,
   "status": "Voté en plénière",
   "tags": [
    "btp"
@@ -22291,7 +22345,7 @@
   ],
   "id": "eli/dl/doc/A-10-2026-0186",
   "jurisdiction": "EU",
-  "score": 26.7,
+  "score": 35.0,
   "status": "Voté en plénière",
   "tags": [
    "numerique",
@@ -22394,7 +22448,7 @@
   ],
   "id": "eli/dl/doc/A-10-2026-0174",
   "jurisdiction": "EU",
-  "score": 26.7,
+  "score": 35.0,
   "status": "Voté en plénière",
   "tags": [
    "transport"
@@ -22447,13 +22501,14 @@
    "philip-morris",
    "renault",
    "sanofi",
+   "shell",
    "societe-generale",
    "stellantis",
    "thales"
   ],
   "id": "eli/dl/doc/B-10-2026-0338",
   "jurisdiction": "EU",
-  "score": 26.7,
+  "score": 35.0,
   "status": "Voté en plénière",
   "tags": [],
   "title": "Décision demandant à l'Autorité pour les partis politiques européens et les fondations politiques européennes de vérifier si le parti Europe des nations souveraines respecte les conditions énoncées dans le règlement (UE, Euratom) 2025/2445",
@@ -22496,7 +22551,7 @@
   ],
   "id": "eli/dl/doc/A-10-2026-0169",
   "jurisdiction": "EU",
-  "score": 26.7,
+  "score": 35.0,
   "status": "Voté en plénière",
   "tags": [
    "finance",
@@ -22519,7 +22574,7 @@
   ],
   "id": "eli/dl/event/MTG-PL-2026-07-06-VOT-ITM-000002",
   "jurisdiction": "EU",
-  "score": 20.0,
+  "score": 35.0,
   "status": "Voté en plénière",
   "tags": [],
   "title": "Ordre du jour de mercredi - Demande des groupes Verts/ALE et The Left - Logiciel espion illégal",
