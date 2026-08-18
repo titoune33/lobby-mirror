@@ -5206,25 +5206,20 @@
  },
  {
   "clients": [
-   "Arxada AG",
    "British American Tobacco",
    "Paroc Owens Corning",
-   "Emergent Biosolutions",
    "Entain",
-   "THE ESTEE LAUDER COMPANIES INC.",
+   "Evergreen",
    "Kingspan Group PLC",
    "Carrier",
-   "Evergreen",
    "Colgate",
    "Owens Corning",
-   "Kingspan",
-   "Evergreen",
    "Entain",
    "British American Tobacco",
    "Carrier"
   ],
   "confidence": 100,
-  "cost_band": "99999",
+  "cost_band": "199999",
   "domains": [
    "agriculture",
    "climat",
