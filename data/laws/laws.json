@@ -21,6 +21,25 @@
  {
   "committee": null,
   "dates": {
+   "introduced": "2026-04-01",
+   "next_step": null,
+   "updated": "2026-08-16"
+  },
+  "entities": [],
+  "id": "DLR5L17N54083",
+  "jurisdiction": "FR",
+  "score": 0,
+  "status": "Promulgation d'une loi",
+  "tags": [
+   "defense"
+  ],
+  "title": "Projet de loi actualisant la programmation militaire pour les années 2024 à 2030 et portant diverses dispositions intéressant la défense",
+  "type": "Projet de loi ordinaire",
+  "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/PJL_actualisation_loi_programmation_militaire_annees_2024_2030_diverses_dispositions_defense"
+ },
+ {
+  "committee": null,
+  "dates": {
    "introduced": "2025-03-11",
    "next_step": null,
    "updated": "2026-08-14"
@@ -153,25 +172,6 @@
   "title": "Adapter l'autorité judiciaire à la lutte contre les violences sexuelles et intrafamiliales",
   "type": "Projet ou proposition de loi organique",
   "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/adapter_autorite_judiciaire_lutte_contre_violences_sexuelles_intrafamiliales_17e"
- },
- {
-  "committee": null,
-  "dates": {
-   "introduced": "2026-04-01",
-   "next_step": null,
-   "updated": "2026-08-06"
-  },
-  "entities": [],
-  "id": "DLR5L17N54083",
-  "jurisdiction": "FR",
-  "score": 0,
-  "status": "Conclusion du conseil constitutionnel",
-  "tags": [
-   "defense"
-  ],
-  "title": "Projet de loi actualisant la programmation militaire pour les années 2024 à 2030 et portant diverses dispositions intéressant la défense",
-  "type": "Projet de loi ordinaire",
-  "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/PJL_actualisation_loi_programmation_militaire_annees_2024_2030_diverses_dispositions_defense"
  },
  {
   "committee": null,

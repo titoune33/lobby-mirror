@@ -361,7 +361,8 @@
    "The Tomorrow Companies B.V.",
    "Dajin Heavy Industry Co., Ltd.",
    "AUB Limited",
-   "American University of Beirut"
+   "American University of Beirut",
+   "IDEADED"
   ],
   "confidence": 100,
   "cost_band": "24999",
@@ -5804,7 +5805,6 @@
    "Enoda LTD",
    "Google",
    "Coalition for Open Digital Ecosystems",
-   "Planet Labs",
    "Cleary Gottlieb (Google)",
    "Anew Climate",
    "Prewave",
@@ -5819,7 +5819,15 @@
    "The European Organisation for Packaging and the Environment",
    "Enoda LTD",
    "The European Federation of Corrugated Board Manufacturers",
-   "Google"
+   "Mission Possible Partnership",
+   "Google Ireland Limited and its affiliates",
+   "Mastercard Europe",
+   "FremantleMedia Group Limited",
+   "EUROGAS",
+   "Boku",
+   "BeZero Carbon Ltd",
+   "Eco-Movement",
+   "The Nippon Foundation GEBCO-Seabed 2020 Project"
   ],
   "confidence": 75,
   "cost_band": "49999",
@@ -5844,7 +5852,7 @@
   "registrant_type": "Professional consultancies",
   "registry": "EU_TR",
   "url": "https://transparency-register.europa.eu/searchregister-or-update/organisation-detail_en?id=207783440380-27",
-  "year": "2025"
+  "year": "2026"
  },
  {
   "clients": [
