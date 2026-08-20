@@ -19,6 +19,85 @@
  {
   "committee": null,
   "dates": {
+   "introduced": "2026-05-29",
+   "next_step": null,
+   "updated": "2026-08-19"
+  },
+  "id": "DLR5L17N54380",
+  "jurisdiction": "FR",
+  "status": "Décision",
+  "tags": [
+   "sante"
+  ],
+  "title": "La maîtrise des usages et impacts des produits phytopharmaceutiques",
+  "type": "Résolution",
+  "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/maitrise_usages_et_impacts_produits_phytopharmaceutiques"
+ },
+ {
+  "committee": null,
+  "dates": {
+   "introduced": "2026-04-09",
+   "next_step": null,
+   "updated": "2026-08-19"
+  },
+  "id": "DLR5L17N54093",
+  "jurisdiction": "FR",
+  "status": "Décision",
+  "tags": [
+   "sante"
+  ],
+  "title": "Abandonner le conditionnement du renouvellement du permis de conduire à une visite médicale obligatoire",
+  "type": "Résolution",
+  "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/abandonner_conditionnement_renouvellement_permis_conduire_visite_medicale_obligatoire"
+ },
+ {
+  "committee": null,
+  "dates": {
+   "introduced": "2025-03-11",
+   "next_step": null,
+   "updated": "2026-08-18"
+  },
+  "id": "DLR5L17N51670",
+  "jurisdiction": "FR",
+  "status": "Promulgation d'une loi",
+  "tags": [],
+  "title": "Fin de vie",
+  "type": "Proposition de loi ordinaire",
+  "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/fin_de_vie_17e"
+ },
+ {
+  "committee": null,
+  "dates": {
+   "introduced": "2025-09-16",
+   "next_step": null,
+   "updated": "2026-08-18"
+  },
+  "id": "DLR5L17N52746",
+  "jurisdiction": "FR",
+  "status": "Promulgation d'une loi",
+  "tags": [],
+  "title": "Moderniser la gestion du patrimoine immobilier de l'État",
+  "type": "Proposition de loi ordinaire",
+  "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/gestion_patrimoine_immobilier_etat_17e"
+ },
+ {
+  "committee": null,
+  "dates": {
+   "introduced": "2026-04-08",
+   "next_step": null,
+   "updated": "2026-08-18"
+  },
+  "id": "DLR5L17N54085",
+  "jurisdiction": "FR",
+  "status": "Promulgation d'une loi",
+  "tags": [],
+  "title": "Projet de loi d’urgence pour la protection et la souveraineté agricoles",
+  "type": "Projet de loi ordinaire",
+  "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/projet_loi_urgence_pour_protection_et_souverainete_agricoles"
+ },
+ {
+  "committee": null,
+  "dates": {
    "introduced": "2026-04-01",
    "next_step": null,
    "updated": "2026-08-16"
@@ -36,21 +115,6 @@
  {
   "committee": null,
   "dates": {
-   "introduced": "2025-03-11",
-   "next_step": null,
-   "updated": "2026-08-14"
-  },
-  "id": "DLR5L17N51670",
-  "jurisdiction": "FR",
-  "status": "Conclusion du conseil constitutionnel",
-  "tags": [],
-  "title": "Fin de vie",
-  "type": "Proposition de loi ordinaire",
-  "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/fin_de_vie_17e"
- },
- {
-  "committee": null,
-  "dates": {
    "introduced": "2025-11-18",
    "next_step": null,
    "updated": "2026-08-14"
@@ -62,21 +126,6 @@
   "title": "Protéger les mineurs des risques auxquels les expose l’utilisation des réseaux sociaux",
   "type": "Proposition de loi ordinaire",
   "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/proteger_mineurs_reseaux_sociaux_17e"
- },
- {
-  "committee": null,
-  "dates": {
-   "introduced": "2025-09-16",
-   "next_step": null,
-   "updated": "2026-08-14"
-  },
-  "id": "DLR5L17N52746",
-  "jurisdiction": "FR",
-  "status": "Conclusion du conseil constitutionnel",
-  "tags": [],
-  "title": "Moderniser la gestion du patrimoine immobilier de l'État",
-  "type": "Proposition de loi ordinaire",
-  "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/gestion_patrimoine_immobilier_etat_17e"
  },
  {
   "committee": null,
@@ -107,21 +156,6 @@
   "title": "Pour une montagne vivante et souveraine",
   "type": "Proposition de loi ordinaire",
   "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/montagne_vivante_souveraine_17e"
- },
- {
-  "committee": null,
-  "dates": {
-   "introduced": "2026-04-08",
-   "next_step": null,
-   "updated": "2026-08-14"
-  },
-  "id": "DLR5L17N54085",
-  "jurisdiction": "FR",
-  "status": "Conclusion du conseil constitutionnel",
-  "tags": [],
-  "title": "Projet de loi d’urgence pour la protection et la souveraineté agricoles",
-  "type": "Projet de loi ordinaire",
-  "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/projet_loi_urgence_pour_protection_et_souverainete_agricoles"
  },
  {
   "committee": null,
@@ -2477,23 +2511,6 @@
  {
   "committee": null,
   "dates": {
-   "introduced": "2026-05-29",
-   "next_step": null,
-   "updated": "2026-07-01"
-  },
-  "id": "DLR5L17N54380",
-  "jurisdiction": "FR",
-  "status": "Renvoi en commission au fond",
-  "tags": [
-   "sante"
-  ],
-  "title": "La maîtrise des usages et impacts des produits phytopharmaceutiques",
-  "type": "Résolution",
-  "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/maitrise_usages_et_impacts_produits_phytopharmaceutiques"
- },
- {
-  "committee": null,
-  "dates": {
    "introduced": "2026-07-01",
    "next_step": null,
    "updated": "2026-07-01"
@@ -2507,23 +2524,6 @@
   "title": "Création, diffusion et acquisition des connaissances : comment l’intelligence artificielle transforme notre éducation et notre culture",
   "type": "Rapport d'information sans mission",
   "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/creation_diffusion_acquisition_connaissances_intelligence_artificielle"
- },
- {
-  "committee": null,
-  "dates": {
-   "introduced": "2026-04-09",
-   "next_step": null,
-   "updated": "2026-07-01"
-  },
-  "id": "DLR5L17N54093",
-  "jurisdiction": "FR",
-  "status": "Réunion de commission",
-  "tags": [
-   "sante"
-  ],
-  "title": "Abandonner le conditionnement du renouvellement du permis de conduire à une visite médicale obligatoire",
-  "type": "Résolution",
-  "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/abandonner_conditionnement_renouvellement_permis_conduire_visite_medicale_obligatoire"
  },
  {
   "committee": null,
