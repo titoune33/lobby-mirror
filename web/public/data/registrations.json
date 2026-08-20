@@ -5761,7 +5761,8 @@
    "Vodafone Belgium SA",
    "Harry's, Inc.",
    "Strava Inc.",
-   "Duolingo, Inc."
+   "Duolingo, Inc.",
+   "Trustly Group AB"
   ],
   "confidence": 100,
   "cost_band": "199999",
@@ -6238,7 +6239,8 @@
    "Haleon",
    "Marriott International",
    "BROOKFIELD ASSET MANAGEMENT (UK)",
-   "British Columbia Investment Management Corporation"
+   "British Columbia Investment Management Corporation",
+   "ONTARIO MUNICIPAL EMPLOYEES RETIREMENT SYSTEM"
   ],
   "confidence": 100,
   "cost_band": "49999",
