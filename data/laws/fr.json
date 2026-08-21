@@ -83,6 +83,36 @@
  {
   "committee": null,
   "dates": {
+   "introduced": "2026-03-25",
+   "next_step": null,
+   "updated": "2026-08-18"
+  },
+  "id": "DLR5L17N53980",
+  "jurisdiction": "FR",
+  "status": "Promulgation d'une loi",
+  "tags": [],
+  "title": "Projet de loi visant à offrir des réponses immédiates aux phénomènes troublant l’ordre public, la sécurité et la tranquillité de nos concitoyens",
+  "type": "Projet de loi ordinaire",
+  "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N53980"
+ },
+ {
+  "committee": null,
+  "dates": {
+   "introduced": "2026-03-27",
+   "next_step": null,
+   "updated": "2026-08-18"
+  },
+  "id": "DLR5L17N54006",
+  "jurisdiction": "FR",
+  "status": "Promulgation d'une loi",
+  "tags": [],
+  "title": "Pour une montagne vivante et souveraine",
+  "type": "Proposition de loi ordinaire",
+  "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/montagne_vivante_souveraine_17e"
+ },
+ {
+  "committee": null,
+  "dates": {
    "introduced": "2026-04-08",
    "next_step": null,
    "updated": "2026-08-18"
@@ -126,36 +156,6 @@
   "title": "Protéger les mineurs des risques auxquels les expose l’utilisation des réseaux sociaux",
   "type": "Proposition de loi ordinaire",
   "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/proteger_mineurs_reseaux_sociaux_17e"
- },
- {
-  "committee": null,
-  "dates": {
-   "introduced": "2026-03-25",
-   "next_step": null,
-   "updated": "2026-08-14"
-  },
-  "id": "DLR5L17N53980",
-  "jurisdiction": "FR",
-  "status": "Conclusion du conseil constitutionnel",
-  "tags": [],
-  "title": "Projet de loi visant à offrir des réponses immédiates aux phénomènes troublant l’ordre public, la sécurité et la tranquillité de nos concitoyens",
-  "type": "Projet de loi ordinaire",
-  "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N53980"
- },
- {
-  "committee": null,
-  "dates": {
-   "introduced": "2026-03-27",
-   "next_step": null,
-   "updated": "2026-08-14"
-  },
-  "id": "DLR5L17N54006",
-  "jurisdiction": "FR",
-  "status": "Conclusion du conseil constitutionnel",
-  "tags": [],
-  "title": "Pour une montagne vivante et souveraine",
-  "type": "Proposition de loi ordinaire",
-  "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/montagne_vivante_souveraine_17e"
  },
  {
   "committee": null,
