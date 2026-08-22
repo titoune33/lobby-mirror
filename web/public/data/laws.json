@@ -76,6 +76,26 @@
  {
   "committee": null,
   "dates": {
+   "introduced": "2026-08-18",
+   "next_step": null,
+   "updated": "2026-08-18"
+  },
+  "entities": [],
+  "id": "DLR5L17N54798",
+  "jurisdiction": "FR",
+  "score": 0,
+  "status": "Renvoi en commission au fond",
+  "tags": [
+   "finance",
+   "transport"
+  ],
+  "title": "Proposition de loi visant à sécuriser le financement des dessertes ferroviaires d'aménagement du territoire",
+  "type": "Proposition de loi ordinaire",
+  "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N54798"
+ },
+ {
+  "committee": null,
+  "dates": {
    "introduced": "2025-09-16",
    "next_step": null,
    "updated": "2026-08-18"
@@ -144,6 +164,25 @@
  {
   "committee": null,
   "dates": {
+   "introduced": "2026-08-17",
+   "next_step": null,
+   "updated": "2026-08-17"
+  },
+  "entities": [],
+  "id": "DLR5L17N54797",
+  "jurisdiction": "FR",
+  "score": 0,
+  "status": "Renvoi en commission au fond",
+  "tags": [
+   "climat"
+  ],
+  "title": "Proposition de loi visant à renforcer la résilience des territoires forestiers et de leurs infrastructures face aux risques climatiques",
+  "type": "Proposition de loi ordinaire",
+  "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N54797"
+ },
+ {
+  "committee": null,
+  "dates": {
    "introduced": "2026-04-01",
    "next_step": null,
    "updated": "2026-08-16"
@@ -176,6 +215,23 @@
   "title": "Protéger les mineurs des risques auxquels les expose l’utilisation des réseaux sociaux",
   "type": "Proposition de loi ordinaire",
   "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/proteger_mineurs_reseaux_sociaux_17e"
+ },
+ {
+  "committee": null,
+  "dates": {
+   "introduced": "2026-08-12",
+   "next_step": null,
+   "updated": "2026-08-12"
+  },
+  "entities": [],
+  "id": "DLR5L17N54796",
+  "jurisdiction": "FR",
+  "score": 0,
+  "status": "Renvoi en commission au fond",
+  "tags": [],
+  "title": "Proposition de loi tendant à modifier la loi n° 94-665 du 4 août 1994 relative à l'emploi de la langue française, dite « loi Toubon »",
+  "type": "Proposition de loi ordinaire",
+  "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N54796"
  },
  {
   "committee": null,
@@ -21217,57 +21273,6 @@
   "title": "Protéger la liberté éditoriale des médias sollicitant des aides de l'État",
   "type": "Proposition de loi ordinaire",
   "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/proteger_liberte_editoriale_medias_sollicitant_aides_Etat_17e"
- },
- {
-  "committee": null,
-  "dates": {
-   "introduced": "2025-10-14",
-   "next_step": null,
-   "updated": "2025-10-14"
-  },
-  "entities": [],
-  "id": "DLR5L17N52961",
-  "jurisdiction": "FR",
-  "score": 0,
-  "status": "Renvoi en commission au fond",
-  "tags": [],
-  "title": "Transformer le statut des établissements thermaux en établissements sanitaires de prévention de la perte d’autonomie",
-  "type": "Proposition de loi ordinaire",
-  "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/statut_etablissements_thermaux_17e"
- },
- {
-  "committee": null,
-  "dates": {
-   "introduced": "2025-10-14",
-   "next_step": null,
-   "updated": "2025-10-14"
-  },
-  "entities": [],
-  "id": "DLR5L17N52960",
-  "jurisdiction": "FR",
-  "score": 0,
-  "status": "Renvoi en commission au fond",
-  "tags": [],
-  "title": "Soutenir les familles de la classe moyenne",
-  "type": "Proposition de loi ordinaire",
-  "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/soutenir_familles_classe_moyenne_17e"
- },
- {
-  "committee": null,
-  "dates": {
-   "introduced": "2025-10-14",
-   "next_step": null,
-   "updated": "2025-10-14"
-  },
-  "entities": [],
-  "id": "DLR5L17N52948",
-  "jurisdiction": "FR",
-  "score": 0,
-  "status": "Renvoi en commission au fond",
-  "tags": [],
-  "title": "Création d'un statut des accompagnants et accompagnantes d'élèves en situation de handicap",
-  "type": "Proposition de loi ordinaire",
-  "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/creation_statut_AESH_17e"
  },
  {
   "committee": null,
