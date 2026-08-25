@@ -1485,7 +1485,8 @@
    "Dropbox",
    "Niantic, Inc.",
    "Roblox Corporation",
-   "Advanced Micro Devices"
+   "Advanced Micro Devices",
+   "Take-Two Interactive Software, Inc."
   ],
   "confidence": 75,
   "cost_band": "99999",
@@ -1682,7 +1683,6 @@
   "clients": [
    "U.S. Grains & BioProducts Council",
    "Enerkem Incorporated",
-   "Edeniq",
    "Oomi",
    "KEMIJOKI OY",
    "DigiFinland Oy",
@@ -1701,6 +1701,7 @@
    "Intel Corporation",
    "Finnish Forest Industries Federation (Metsäteollisuus ry)",
    "Microsoft Corporation",
+   "Edeniq, Inc",
    "Enerkem Incorporated",
    "BioVeritas",
    "Valmet Oyj",

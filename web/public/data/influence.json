@@ -3428,6 +3428,132 @@
  ],
  "lvmh": [
   {
+   "law_id": "DLR5L17N54720",
+   "reasons": [
+    "registre de lobbying (juridiction), thématique commune : fiscalite",
+    "mouvement de bourse de -6.1% autour de la date clé"
+   ],
+   "score": 25.1,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 0.8,
+    "stock": 0.606
+   }
+  },
+  {
+   "law_id": "DLR5L17N54742",
+   "reasons": [
+    "registre de lobbying (juridiction), thématique commune : fiscalite",
+    "mouvement de bourse de -6.1% autour de la date clé"
+   ],
+   "score": 25.1,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 0.8,
+    "stock": 0.606
+   }
+  },
+  {
+   "law_id": "DLR5L17N54701",
+   "reasons": [
+    "registre de lobbying (juridiction), thématique commune : fiscalite",
+    "mouvement de bourse de -6.1% autour de la date clé"
+   ],
+   "score": 25.1,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 0.8,
+    "stock": 0.606
+   }
+  },
+  {
+   "law_id": "DLR5L17N52985",
+   "reasons": [
+    "registre de lobbying (juridiction), thématique commune : fiscalite",
+    "mouvement de bourse de +12.1% autour de la date clé"
+   ],
+   "score": 31.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 0.8,
+    "stock": 1.0
+   }
+  },
+  {
+   "law_id": "DLR5L17N54539",
+   "reasons": [
+    "registre de lobbying (juridiction), thématique commune : fiscalite",
+    "mouvement de bourse de -3.3% autour de la date clé"
+   ],
+   "score": 20.9,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 0.8,
+    "stock": 0.329
+   }
+  },
+  {
+   "law_id": "DLR5L17N53706",
+   "reasons": [
+    "registre de lobbying (juridiction), thématique commune : fiscalite",
+    "mouvement de bourse de -6.2% autour de la date clé"
+   ],
+   "score": 25.2,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 0.8,
+    "stock": 0.616
+   }
+  },
+  {
+   "law_id": "DLR5L17N54252",
+   "reasons": [
+    "registre de lobbying (juridiction), thématique commune : fiscalite",
+    "mouvement de bourse de -8.0% autour de la date clé"
+   ],
+   "score": 28.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 0.8,
+    "stock": 0.798
+   }
+  },
+  {
+   "law_id": "DLR5L17N52970",
+   "reasons": [
+    "registre de lobbying (juridiction), thématique commune : fiscalite",
+    "mouvement de bourse de +12.1% autour de la date clé"
+   ],
+   "score": 31.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 0.8,
+    "stock": 1.0
+   }
+  },
+  {
+   "law_id": "DLR5L17N53161",
+   "reasons": [
+    "registre de lobbying (juridiction), thématique commune : fiscalite",
+    "mouvement de bourse de +3.3% autour de la date clé"
+   ],
+   "score": 20.9,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 0.8,
+    "stock": 0.327
+   }
+  },
+  {
    "law_id": "eli/dl/doc/A-10-2026-0185",
    "reasons": [
     "registre de lobbying (juridiction), texte explicitement suivi (déclaration UE)"

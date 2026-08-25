@@ -1,11 +1,11 @@
 {
  "counts": {
   "alerts": 270,
-  "influence": 596,
+  "influence": 605,
   "laws": 1354,
   "lobby": 0,
   "news": 0,
-  "stocks": 4
+  "stocks": 5
  },
  "sources": [
   "Parlement européen (procédure feed)",
@@ -18,5 +18,5 @@
   "Yahoo Finance",
   "GDELT / NewsAPI"
  ],
- "updated_at": "2026-08-24T09:44:43+00:00"
+ "updated_at": "2026-08-25T07:25:59+00:00"
 }

@@ -850,10 +850,12 @@
    "next_step": null,
    "updated": "2026-07-23"
   },
-  "entities": [],
+  "entities": [
+   "lvmh"
+  ],
   "id": "DLR5L17N54720",
   "jurisdiction": "FR",
-  "score": 0,
+  "score": 25.1,
   "status": "Renvoi en commission au fond",
   "tags": [
    "finance",
@@ -1251,10 +1253,12 @@
    "next_step": null,
    "updated": "2026-07-22"
   },
-  "entities": [],
+  "entities": [
+   "lvmh"
+  ],
   "id": "DLR5L17N54742",
   "jurisdiction": "FR",
-  "score": 0,
+  "score": 25.1,
   "status": "Renvoi en commission au fond",
   "tags": [
    "fiscalite"
@@ -1338,10 +1342,12 @@
    "next_step": null,
    "updated": "2026-07-22"
   },
-  "entities": [],
+  "entities": [
+   "lvmh"
+  ],
   "id": "DLR5L17N54701",
   "jurisdiction": "FR",
-  "score": 0,
+  "score": 25.1,
   "status": "Dépôt de rapport",
   "tags": [
    "finance",
@@ -3250,10 +3256,12 @@
    "next_step": null,
    "updated": "2026-06-25"
   },
-  "entities": [],
+  "entities": [
+   "lvmh"
+  ],
   "id": "DLR5L17N52985",
   "jurisdiction": "FR",
-  "score": 0,
+  "score": 31.0,
   "status": "Promulgation d'une loi",
   "tags": [
    "fiscalite",
@@ -3813,10 +3821,12 @@
    "next_step": null,
    "updated": "2026-06-23"
   },
-  "entities": [],
+  "entities": [
+   "lvmh"
+  ],
   "id": "DLR5L17N54539",
   "jurisdiction": "FR",
-  "score": 0,
+  "score": 20.9,
   "status": "Renvoi en commission au fond",
   "tags": [
    "fiscalite"
@@ -5664,10 +5674,12 @@
    "next_step": null,
    "updated": "2026-06-03"
   },
-  "entities": [],
+  "entities": [
+   "lvmh"
+  ],
   "id": "DLR5L17N53706",
   "jurisdiction": "FR",
-  "score": 0,
+  "score": 25.2,
   "status": "Réunion de commission",
   "tags": [
    "fiscalite"
@@ -7755,10 +7767,12 @@
    "next_step": null,
    "updated": "2026-04-29"
   },
-  "entities": [],
+  "entities": [
+   "lvmh"
+  ],
   "id": "DLR5L17N54252",
   "jurisdiction": "FR",
-  "score": 0,
+  "score": 28.0,
   "status": "1er dépôt d'une initiative.",
   "tags": [
    "energie",
@@ -18022,10 +18036,12 @@
    "next_step": null,
    "updated": "2025-11-27"
   },
-  "entities": [],
+  "entities": [
+   "lvmh"
+  ],
   "id": "DLR5L17N52970",
   "jurisdiction": "FR",
-  "score": 0,
+  "score": 31.0,
   "status": "Discussion en séance publique",
   "tags": [
    "fiscalite",
@@ -19239,10 +19255,12 @@
    "next_step": null,
    "updated": "2025-11-13"
   },
-  "entities": [],
+  "entities": [
+   "lvmh"
+  ],
   "id": "DLR5L17N53161",
   "jurisdiction": "FR",
-  "score": 0,
+  "score": 20.9,
   "status": "Renvoi en commission au fond",
   "tags": [
    "fiscalite"
