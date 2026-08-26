@@ -21,6 +21,77 @@
  {
   "committee": null,
   "dates": {
+   "introduced": "2026-08-25",
+   "next_step": null,
+   "updated": "2026-08-25"
+  },
+  "entities": [],
+  "id": "DLR5L17N54816",
+  "jurisdiction": "FR",
+  "score": 0,
+  "status": "Renvoi en commission au fond",
+  "tags": [],
+  "title": "Garantir un juste équilibre entre contrôle, sanctions et accompagnement dans l'assainissement non-collectif",
+  "type": "Proposition de loi ordinaire",
+  "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/equilibre_controle_sanctions_assainissement_17e"
+ },
+ {
+  "committee": null,
+  "dates": {
+   "introduced": "2026-08-25",
+   "next_step": null,
+   "updated": "2026-08-25"
+  },
+  "entities": [],
+  "id": "DLR5L17N54817",
+  "jurisdiction": "FR",
+  "score": 0,
+  "status": "Renvoi en commission au fond",
+  "tags": [
+   "btp",
+   "social"
+  ],
+  "title": "Renforcer la responsabilité des occupants et des bailleurs dans le logement social",
+  "type": "Proposition de loi ordinaire",
+  "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/renforcer_responsabilite_occupants_bailleurs_logement_social_17e"
+ },
+ {
+  "committee": null,
+  "dates": {
+   "introduced": "2026-08-25",
+   "next_step": null,
+   "updated": "2026-08-25"
+  },
+  "entities": [],
+  "id": "DLR5L17N54818",
+  "jurisdiction": "FR",
+  "score": 0,
+  "status": "Renvoi en commission au fond",
+  "tags": [],
+  "title": "Création du délit de complicité et recel d’ingérence étrangère",
+  "type": "Proposition de loi ordinaire",
+  "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/delit_complicite_recel_ingerence_17e"
+ },
+ {
+  "committee": null,
+  "dates": {
+   "introduced": "2025-11-18",
+   "next_step": null,
+   "updated": "2026-08-24"
+  },
+  "entities": [],
+  "id": "DLR5L17N53187",
+  "jurisdiction": "FR",
+  "score": 0,
+  "status": "Promulgation d'une loi",
+  "tags": [],
+  "title": "Protéger les mineurs des risques auxquels les expose l’utilisation des réseaux sociaux",
+  "type": "Proposition de loi ordinaire",
+  "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/proteger_mineurs_reseaux_sociaux_17e"
+ },
+ {
+  "committee": null,
+  "dates": {
    "introduced": "2026-05-29",
    "next_step": null,
    "updated": "2026-08-19"
@@ -198,23 +269,6 @@
   "title": "Projet de loi actualisant la programmation militaire pour les années 2024 à 2030 et portant diverses dispositions intéressant la défense",
   "type": "Projet de loi ordinaire",
   "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/PJL_actualisation_loi_programmation_militaire_annees_2024_2030_diverses_dispositions_defense"
- },
- {
-  "committee": null,
-  "dates": {
-   "introduced": "2025-11-18",
-   "next_step": null,
-   "updated": "2026-08-14"
-  },
-  "entities": [],
-  "id": "DLR5L17N53187",
-  "jurisdiction": "FR",
-  "score": 0,
-  "status": "Conclusion du conseil constitutionnel",
-  "tags": [],
-  "title": "Protéger les mineurs des risques auxquels les expose l’utilisation des réseaux sociaux",
-  "type": "Proposition de loi ordinaire",
-  "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/proteger_mineurs_reseaux_sociaux_17e"
  },
  {
   "committee": null,
@@ -21238,59 +21292,6 @@
   "title": "Droit de visite des parlementaires et des bâtonniers dans les lieux de privation de liberté",
   "type": "Proposition de loi ordinaire",
   "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/droit_visite_parlementaires_batonniers_lieux_privation_liberte_17e"
- },
- {
-  "committee": null,
-  "dates": {
-   "introduced": "2025-10-14",
-   "next_step": null,
-   "updated": "2025-10-14"
-  },
-  "entities": [],
-  "id": "DLR5L17N52963",
-  "jurisdiction": "FR",
-  "score": 0,
-  "status": "Renvoi en commission au fond",
-  "tags": [
-   "agriculture"
-  ],
-  "title": "Reconnaissance et prévention de la maltraitance inconsciente des enfants liée à l’exposition excessive aux écrans, à la mauvaise alimentation et à la sédentarité",
-  "type": "Proposition de loi ordinaire",
-  "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/recvonnaissance_prevention_maltraitance_inconsciente_exposition_ecrans_17e"
- },
- {
-  "committee": null,
-  "dates": {
-   "introduced": "2025-10-14",
-   "next_step": null,
-   "updated": "2025-10-14"
-  },
-  "entities": [],
-  "id": "DLR5L17N52951",
-  "jurisdiction": "FR",
-  "score": 0,
-  "status": "Renvoi en commission au fond",
-  "tags": [],
-  "title": "Plafonner la revalorisation de la variation annuelle de l’indice des loyers commerciaux",
-  "type": "Proposition de loi ordinaire",
-  "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/plafonner_revalorisation_annuelle_indice_loyers_commerciaux_17e"
- },
- {
-  "committee": null,
-  "dates": {
-   "introduced": "2025-10-14",
-   "next_step": null,
-   "updated": "2025-10-14"
-  },
-  "entities": [],
-  "id": "DLR5L17N52939",
-  "jurisdiction": "FR",
-  "score": 0,
-  "status": "Renvoi en commission au fond",
-  "tags": [],
-  "title": "Protéger la liberté éditoriale des médias sollicitant des aides de l'État",
-  "type": "Proposition de loi ordinaire",
-  "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/proteger_liberte_editoriale_medias_sollicitant_aides_Etat_17e"
  },
  {
   "committee": null,
