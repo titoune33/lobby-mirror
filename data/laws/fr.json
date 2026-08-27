@@ -19,6 +19,23 @@
  {
   "committee": null,
   "dates": {
+   "introduced": "2026-04-29",
+   "next_step": null,
+   "updated": "2026-08-26"
+  },
+  "id": "DLR5L17N54253",
+  "jurisdiction": "FR",
+  "status": "Décision",
+  "tags": [
+   "automobile"
+  ],
+  "title": "Lutter contre le vol de véhicules et les filières criminelles organisées en Europe",
+  "type": "Résolution",
+  "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/lutter_contre_vol_vehicules_et_filieres_criminelles_organisees_Europe"
+ },
+ {
+  "committee": null,
+  "dates": {
    "introduced": "2026-08-25",
    "next_step": null,
    "updated": "2026-08-25"
@@ -67,6 +84,21 @@
  {
   "committee": null,
   "dates": {
+   "introduced": "2026-08-25",
+   "next_step": null,
+   "updated": "2026-08-25"
+  },
+  "id": "DLR5L17N54819",
+  "jurisdiction": "FR",
+  "status": "Renvoi en commission au fond",
+  "tags": [],
+  "title": "Proposition de loi simplifiant l'ouverture des débits de boissons en zone rurale",
+  "type": "Proposition de loi ordinaire",
+  "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N54819"
+ },
+ {
+  "committee": null,
+  "dates": {
    "introduced": "2025-11-18",
    "next_step": null,
    "updated": "2026-08-24"
@@ -78,6 +110,21 @@
   "title": "Protéger les mineurs des risques auxquels les expose l’utilisation des réseaux sociaux",
   "type": "Proposition de loi ordinaire",
   "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/proteger_mineurs_reseaux_sociaux_17e"
+ },
+ {
+  "committee": null,
+  "dates": {
+   "introduced": "2026-08-19",
+   "next_step": null,
+   "updated": "2026-08-19"
+  },
+  "id": "DLR5L17N54821",
+  "jurisdiction": "FR",
+  "status": "Renvoi en commission au fond",
+  "tags": [],
+  "title": "Proposition de loi visant à renforcer le rôle des communes et des élus municipaux et à remédier aux fractures territoriales par une action volontariste",
+  "type": "Proposition de loi ordinaire",
+  "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N54821"
  },
  {
   "committee": null,
@@ -1568,23 +1615,6 @@
   "title": "Commission d’enquête relative à l’imposition des plus hauts patrimoines et des revenus les plus élevés et à leur contribution au financement des services publics",
   "type": "Commission d'enquête",
   "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/CE_hauts_patrimoines_revenus_eleves_contribution_financement_services_publics"
- },
- {
-  "committee": null,
-  "dates": {
-   "introduced": "2026-04-29",
-   "next_step": null,
-   "updated": "2026-07-08"
-  },
-  "id": "DLR5L17N54253",
-  "jurisdiction": "FR",
-  "status": "Réunion de commission",
-  "tags": [
-   "automobile"
-  ],
-  "title": "Lutter contre le vol de véhicules et les filières criminelles organisées en Europe",
-  "type": "Résolution",
-  "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/lutter_contre_vol_vehicules_et_filieres_criminelles_organisees_Europe"
  },
  {
   "committee": null,
@@ -18731,35 +18761,5 @@
   "title": "Adapter le système de cotisations sociales à l’ère de l’automatisation du travail",
   "type": "Proposition de loi ordinaire",
   "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/adapter_systeme_cotisations_sociales_automatisation_travail_17e"
- },
- {
-  "committee": null,
-  "dates": {
-   "introduced": "2025-10-14",
-   "next_step": null,
-   "updated": "2025-10-14"
-  },
-  "id": "DLR5L17N52968",
-  "jurisdiction": "FR",
-  "status": "Renvoi en commission au fond",
-  "tags": [],
-  "title": "Mise à disposition gratuite de salles municipales adaptables et présence d’un agent de l’Etat dans le cadre de funérailles laïques et républicaines",
-  "type": "Proposition de loi ordinaire",
-  "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/mise_disposition_gratuite_salles_municiales_17e"
- },
- {
-  "committee": null,
-  "dates": {
-   "introduced": "2025-10-14",
-   "next_step": null,
-   "updated": "2025-10-14"
-  },
-  "id": "DLR5L17N52928",
-  "jurisdiction": "FR",
-  "status": "Renvoi en commission au fond",
-  "tags": [],
-  "title": "Droit de visite des parlementaires et des bâtonniers dans les lieux de privation de liberté",
-  "type": "Proposition de loi ordinaire",
-  "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/droit_visite_parlementaires_batonniers_lieux_privation_liberte_17e"
  }
 ]

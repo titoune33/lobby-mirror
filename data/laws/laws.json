@@ -21,6 +21,25 @@
  {
   "committee": null,
   "dates": {
+   "introduced": "2026-04-29",
+   "next_step": null,
+   "updated": "2026-08-26"
+  },
+  "entities": [],
+  "id": "DLR5L17N54253",
+  "jurisdiction": "FR",
+  "score": 0,
+  "status": "Décision",
+  "tags": [
+   "automobile"
+  ],
+  "title": "Lutter contre le vol de véhicules et les filières criminelles organisées en Europe",
+  "type": "Résolution",
+  "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/lutter_contre_vol_vehicules_et_filieres_criminelles_organisees_Europe"
+ },
+ {
+  "committee": null,
+  "dates": {
    "introduced": "2026-08-25",
    "next_step": null,
    "updated": "2026-08-25"
@@ -75,6 +94,23 @@
  {
   "committee": null,
   "dates": {
+   "introduced": "2026-08-25",
+   "next_step": null,
+   "updated": "2026-08-25"
+  },
+  "entities": [],
+  "id": "DLR5L17N54819",
+  "jurisdiction": "FR",
+  "score": 0,
+  "status": "Renvoi en commission au fond",
+  "tags": [],
+  "title": "Proposition de loi simplifiant l'ouverture des débits de boissons en zone rurale",
+  "type": "Proposition de loi ordinaire",
+  "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N54819"
+ },
+ {
+  "committee": null,
+  "dates": {
    "introduced": "2025-11-18",
    "next_step": null,
    "updated": "2026-08-24"
@@ -88,6 +124,23 @@
   "title": "Protéger les mineurs des risques auxquels les expose l’utilisation des réseaux sociaux",
   "type": "Proposition de loi ordinaire",
   "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/proteger_mineurs_reseaux_sociaux_17e"
+ },
+ {
+  "committee": null,
+  "dates": {
+   "introduced": "2026-08-19",
+   "next_step": null,
+   "updated": "2026-08-19"
+  },
+  "entities": [],
+  "id": "DLR5L17N54821",
+  "jurisdiction": "FR",
+  "score": 0,
+  "status": "Renvoi en commission au fond",
+  "tags": [],
+  "title": "Proposition de loi visant à renforcer le rôle des communes et des élus municipaux et à remédier aux fractures territoriales par une action volontariste",
+  "type": "Proposition de loi ordinaire",
+  "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N54821"
  },
  {
   "committee": null,
@@ -614,6 +667,7 @@
   },
   "entities": [
    "alphabet",
+   "apple",
    "meta"
   ],
   "id": "DLR5L17N54760",
@@ -866,6 +920,7 @@
   },
   "entities": [
    "alphabet",
+   "apple",
    "meta"
   ],
   "id": "DLR5L17N54711",
@@ -1160,6 +1215,7 @@
   },
   "entities": [
    "alphabet",
+   "apple",
    "meta"
   ],
   "id": "DLR5L17N54731",
@@ -1199,6 +1255,7 @@
   },
   "entities": [
    "alphabet",
+   "apple",
    "meta"
   ],
   "id": "DLR5L17N54716",
@@ -1788,25 +1845,6 @@
  {
   "committee": null,
   "dates": {
-   "introduced": "2026-04-29",
-   "next_step": null,
-   "updated": "2026-07-08"
-  },
-  "entities": [],
-  "id": "DLR5L17N54253",
-  "jurisdiction": "FR",
-  "score": 0,
-  "status": "Réunion de commission",
-  "tags": [
-   "automobile"
-  ],
-  "title": "Lutter contre le vol de véhicules et les filières criminelles organisées en Europe",
-  "type": "Résolution",
-  "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/lutter_contre_vol_vehicules_et_filieres_criminelles_organisees_Europe"
- },
- {
-  "committee": null,
-  "dates": {
    "introduced": "2026-07-08",
    "next_step": null,
    "updated": "2026-07-08"
@@ -1903,6 +1941,7 @@
   },
   "entities": [
    "alphabet",
+   "apple",
    "microsoft"
   ],
   "id": "DLR5L17N53704",
@@ -1925,6 +1964,7 @@
   },
   "entities": [
    "alphabet",
+   "apple",
    "meta",
    "microsoft"
   ],
@@ -2973,6 +3013,7 @@
    "updated": "2026-07-01"
   },
   "entities": [
+   "apple",
    "meta",
    "microsoft"
   ],
@@ -4818,11 +4859,12 @@
    "updated": "2026-06-10"
   },
   "entities": [
+   "apple",
    "microsoft"
   ],
   "id": "DLR5L17N53359",
   "jurisdiction": "FR",
-  "score": 20.6,
+  "score": 22.3,
   "status": "Réunion de commission",
   "tags": [
    "numerique"
@@ -10512,6 +10554,7 @@
   },
   "entities": [
    "alphabet",
+   "apple",
    "meta"
   ],
   "id": "DLR5L17N52900",
@@ -13248,6 +13291,7 @@
   },
   "entities": [
    "alphabet",
+   "apple",
    "microsoft"
   ],
   "id": "DLR5L17N53753",
@@ -14216,6 +14260,7 @@
   },
   "entities": [
    "alphabet",
+   "apple",
    "meta",
    "microsoft"
   ],
@@ -20705,6 +20750,7 @@
   },
   "entities": [
    "alphabet",
+   "apple",
    "meta"
   ],
   "id": "DLR5L17N53007",
@@ -21262,45 +21308,12 @@
  {
   "committee": null,
   "dates": {
-   "introduced": "2025-10-14",
-   "next_step": null,
-   "updated": "2025-10-14"
-  },
-  "entities": [],
-  "id": "DLR5L17N52968",
-  "jurisdiction": "FR",
-  "score": 0,
-  "status": "Renvoi en commission au fond",
-  "tags": [],
-  "title": "Mise à disposition gratuite de salles municipales adaptables et présence d’un agent de l’Etat dans le cadre de funérailles laïques et républicaines",
-  "type": "Proposition de loi ordinaire",
-  "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/mise_disposition_gratuite_salles_municiales_17e"
- },
- {
-  "committee": null,
-  "dates": {
-   "introduced": "2025-10-14",
-   "next_step": null,
-   "updated": "2025-10-14"
-  },
-  "entities": [],
-  "id": "DLR5L17N52928",
-  "jurisdiction": "FR",
-  "score": 0,
-  "status": "Renvoi en commission au fond",
-  "tags": [],
-  "title": "Droit de visite des parlementaires et des bâtonniers dans les lieux de privation de liberté",
-  "type": "Proposition de loi ordinaire",
-  "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/droit_visite_parlementaires_batonniers_lieux_privation_liberte_17e"
- },
- {
-  "committee": null,
-  "dates": {
    "introduced": null,
    "next_step": null,
    "updated": "2026-07-09"
   },
   "entities": [
+   "apple",
    "credit-agricole",
    "lvmh",
    "meta",
@@ -21455,7 +21468,7 @@
   ],
   "id": "eli/dl/doc/B-10-2026-0361",
   "jurisdiction": "EU",
-  "score": 26.7,
+  "score": 35.0,
   "status": "Voté en plénière",
   "tags": [],
   "title": "La menace de crimes de guerre, la multiplication des violations du droit international humanitaire et la situation des droits de l'homme à El-Obeid (Soudan)",
@@ -22190,7 +22203,7 @@
   ],
   "id": "eli/dl/doc/A-10-2026-0173",
   "jurisdiction": "EU",
-  "score": 31.0,
+  "score": 35.0,
   "status": "Voté en plénière",
   "tags": [
    "numerique"
@@ -22289,7 +22302,7 @@
   ],
   "id": "eli/dl/doc/A-10-2026-0180",
   "jurisdiction": "EU",
-  "score": 20.0,
+  "score": 35.0,
   "status": "Voté en plénière",
   "tags": [],
   "title": "Projet de budget rectificatif n° 1/2026: budgétisation de l’excédent de l’exercice 2025",
@@ -22412,7 +22425,7 @@
   ],
   "id": "eli/dl/doc/A-10-2026-0170",
   "jurisdiction": "EU",
-  "score": 26.7,
+  "score": 35.0,
   "status": "Voté en plénière",
   "tags": [
    "finance"
