@@ -21,6 +21,57 @@
  {
   "committee": null,
   "dates": {
+   "introduced": "2026-08-28",
+   "next_step": null,
+   "updated": "2026-08-28"
+  },
+  "entities": [],
+  "id": "DLR5L17N54824",
+  "jurisdiction": "FR",
+  "score": 0,
+  "status": "1er dépôt d'une initiative.",
+  "tags": [],
+  "title": "Renforcer la prévention, l'information et l'indemnisation des victimes du retrait-gonflement des argiles",
+  "type": "Résolution Article 34-1",
+  "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/renforcer_prevention_information_indemnisation_victimes_retrait_gonflement_argiles"
+ },
+ {
+  "committee": null,
+  "dates": {
+   "introduced": "2026-08-27",
+   "next_step": null,
+   "updated": "2026-08-27"
+  },
+  "entities": [],
+  "id": "DLR5L17N54822",
+  "jurisdiction": "FR",
+  "score": 0,
+  "status": "1er dépôt d'une initiative.",
+  "tags": [],
+  "title": "Solidarité de la France avec le peuple togolais et invitation à l’arrêt de tout soutien au régime de Faure Gnassingbé",
+  "type": "Résolution Article 34-1",
+  "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/solidarite_France_peuple_togolais_invitation_arret_soutien_regime_Faure_Gnassingbe"
+ },
+ {
+  "committee": null,
+  "dates": {
+   "introduced": "2026-08-27",
+   "next_step": null,
+   "updated": "2026-08-27"
+  },
+  "entities": [],
+  "id": "DLR5L17N54823",
+  "jurisdiction": "FR",
+  "score": 0,
+  "status": "Renvoi en commission au fond",
+  "tags": [],
+  "title": "Les failles de cybersécurité ayant permis des accès, fuites et extractions illégitimes des données confiées par les Français à l’État et aux organismes publics, afin d’en identifier les causes, les conséquences et les responsabilités en matière de sécurité des systèmes d’information",
+  "type": "Résolution",
+  "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/failles_cybersecurite_acces_fuites_extractions_illegitimes_donnees_Francais_Etat_organismes_publics_commission_enquete"
+ },
+ {
+  "committee": null,
+  "dates": {
    "introduced": "2026-04-29",
    "next_step": null,
    "updated": "2026-08-26"
@@ -104,7 +155,7 @@
   "score": 0,
   "status": "Renvoi en commission au fond",
   "tags": [],
-  "title": "Proposition de loi simplifiant l'ouverture des débits de boissons en zone rurale",
+  "title": "Proposition de loi simplifiant l'ouverture des débits de boissons dans les communes de moins de 3 500 habitants",
   "type": "Proposition de loi ordinaire",
   "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N54819"
  },
@@ -21251,59 +21302,6 @@
   "title": "Renforcer les droits des bailleurs commerciaux lors des procédures collectives",
   "type": "Proposition de loi ordinaire",
   "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/renforcer_droits_bailleurs_commerciaux_procedures_collectives_17e"
- },
- {
-  "committee": null,
-  "dates": {
-   "introduced": "2025-10-14",
-   "next_step": null,
-   "updated": "2025-10-14"
-  },
-  "entities": [],
-  "id": "DLR5L17N52954",
-  "jurisdiction": "FR",
-  "score": 0,
-  "status": "Renvoi en commission au fond",
-  "tags": [],
-  "title": "Préciser les activités réalisées par les bénéficiaires du revenu de solidarité active",
-  "type": "Proposition de loi ordinaire",
-  "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/preciser_activites_beneficiaires_revenu_solidarite_active_17e"
- },
- {
-  "committee": null,
-  "dates": {
-   "introduced": "2025-10-14",
-   "next_step": null,
-   "updated": "2025-10-14"
-  },
-  "entities": [],
-  "id": "DLR5L17N52975",
-  "jurisdiction": "FR",
-  "score": 0,
-  "status": "Renvoi en commission au fond",
-  "tags": [],
-  "title": "Soutenir et valoriser les commerces de proximité",
-  "type": "Proposition de loi ordinaire",
-  "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/soutenir_valoriser_commerces_proximite_17e"
- },
- {
-  "committee": null,
-  "dates": {
-   "introduced": "2025-10-14",
-   "next_step": null,
-   "updated": "2025-10-14"
-  },
-  "entities": [],
-  "id": "DLR5L17N52945",
-  "jurisdiction": "FR",
-  "score": 0,
-  "status": "Renvoi en commission au fond",
-  "tags": [
-   "social"
-  ],
-  "title": "Adapter le système de cotisations sociales à l’ère de l’automatisation du travail",
-  "type": "Proposition de loi ordinaire",
-  "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/adapter_systeme_cotisations_sociales_automatisation_travail_17e"
  },
  {
   "committee": null,
