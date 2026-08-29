@@ -2259,6 +2259,19 @@
    }
   },
   {
+   "law_id": "eli/dl/doc/B-10-2026-0339",
+   "reasons": [
+    "registre de lobbying (juridiction), texte explicitement suivi (déclaration UE)"
+   ],
+   "score": 20.0,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 1.0,
+    "stock": 0.0
+   }
+  },
+  {
    "law_id": "eli/dl/doc/B-10-2026-0356",
    "reasons": [
     "registre de lobbying (juridiction), texte explicitement suivi (déclaration UE)"
@@ -6315,19 +6328,6 @@
   },
   {
    "law_id": "eli/dl/doc/A-10-2026-0189",
-   "reasons": [
-    "registre de lobbying (juridiction), texte explicitement suivi (déclaration UE)"
-   ],
-   "score": 20.0,
-   "signals": {
-    "donations": 0.0,
-    "news": 0.0,
-    "register": 1.0,
-    "stock": 0.0
-   }
-  },
-  {
-   "law_id": "eli/dl/doc/A-10-2026-0179",
    "reasons": [
     "registre de lobbying (juridiction), texte explicitement suivi (déclaration UE)"
    ],
