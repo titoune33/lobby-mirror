@@ -1,6 +1,6 @@
 {
  "counts": {
-  "alerts": 272,
+  "alerts": 271,
   "influence": 618,
   "laws": 1354,
   "lobby": 0,
@@ -18,5 +18,5 @@
   "Yahoo Finance",
   "GDELT / NewsAPI"
  ],
- "updated_at": "2026-08-31T13:55:57+00:00"
+ "updated_at": "2026-09-01T12:20:27+00:00"
 }
