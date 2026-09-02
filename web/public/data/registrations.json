@@ -593,7 +593,6 @@
    "Edwards Lifesciences",
    "Novartis International AG",
    "Bristol-Myers Squibb Company",
-   "Takeda Pharmaceuticals International AG",
    "Becton Dickinson",
    "European Resuscitation Council",
    "Merck Sharp & Dohme Europe Belgium SRL",
@@ -3544,7 +3543,9 @@
    "General Mills",
    "NVIDIA Corporation",
    "Toy Industries of Europe",
-   "Adyen"
+   "Adyen",
+   "Bumble Inc.",
+   "Comité national des pêches maritimes et des élevages marins"
   ],
   "confidence": 100,
   "cost_band": "49999",
@@ -20286,7 +20287,7 @@
    "XL AIRWAYS FRANCE"
   ],
   "confidence": 100,
-  "cost_band": "200000-300000.0 €",
+  "cost_band": "400000-500000.0 €",
   "declared_activities": [
    "-\tActualiser le montant des seuils au-delà desquels les investissements sont soumis à une procédure d’agrément (articles 199 undecies A, 199 undecies B, 217 undecies du CGI)",
    "-\tCréer une nouvelle réduction d’impôt à l’IR pour la construction de logement intermédiaire neuf, sur la base du dispositif Girardin (article 199 undecies A du CGI)",

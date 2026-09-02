@@ -19,6 +19,40 @@
  {
   "committee": null,
   "dates": {
+   "introduced": "2025-10-28",
+   "next_step": null,
+   "updated": "2026-09-08"
+  },
+  "id": "DLR5L17N53053",
+  "jurisdiction": "FR",
+  "status": "Réunion de commission",
+  "tags": [
+   "sante"
+  ],
+  "title": "Protéger la santé mentale des agricultrices et des agriculteurs",
+  "type": "Proposition de loi ordinaire",
+  "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/proteger_sante_mentale_agricultrices_agriculteurs_17e"
+ },
+ {
+  "committee": null,
+  "dates": {
+   "introduced": "2026-08-31",
+   "next_step": null,
+   "updated": "2026-08-31"
+  },
+  "id": "DLR5L17N54837",
+  "jurisdiction": "FR",
+  "status": "Renvoi en commission au fond",
+  "tags": [
+   "social"
+  ],
+  "title": "Proposition de loi visant à réduire le temps de travail hebdomadaire à 32 heures en 4 jours",
+  "type": "Proposition de loi ordinaire",
+  "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N54837"
+ },
+ {
+  "committee": null,
+  "dates": {
    "introduced": "2026-08-28",
    "next_step": null,
    "updated": "2026-08-28"
@@ -446,6 +480,21 @@
    "next_step": null,
    "updated": "2026-07-31"
   },
+  "id": "DLR5L17N54838",
+  "jurisdiction": "FR",
+  "status": "Renvoi en commission au fond",
+  "tags": [],
+  "title": "Proposition de loi portant diverses dispositions pour les communes insulaires métropolitaines sans lien permanent avec le continent",
+  "type": "Proposition de loi ordinaire",
+  "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N54838"
+ },
+ {
+  "committee": null,
+  "dates": {
+   "introduced": "2026-07-31",
+   "next_step": null,
+   "updated": "2026-07-31"
+  },
   "id": "DLR5L17N54766",
   "jurisdiction": "FR",
   "status": "Renvoi en commission au fond",
@@ -500,6 +549,21 @@
   "title": "Proposition de loi visant à adapter l'organisation du service public de l'éducation aux spécificités des territoires ruraux",
   "type": "Proposition de loi ordinaire",
   "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N54761"
+ },
+ {
+  "committee": null,
+  "dates": {
+   "introduced": "2026-07-30",
+   "next_step": null,
+   "updated": "2026-07-30"
+  },
+  "id": "DLR5L17N54836",
+  "jurisdiction": "FR",
+  "status": "Renvoi en commission au fond",
+  "tags": [],
+  "title": "Proposition de loi visant à garantir au jeune public la gratuité des piscines municipales pendant les périodes de chaleur intense",
+  "type": "Proposition de loi ordinaire",
+  "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N54836"
  },
  {
   "committee": null,
@@ -4997,23 +5061,6 @@
   "title": "Mesures de justice en faveur de la revalorisation des pensions de retraites agricoles",
   "type": "Proposition de loi ordinaire",
   "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/justice_revalorisation_pensions_agricoles_17e"
- },
- {
-  "committee": null,
-  "dates": {
-   "introduced": "2025-10-28",
-   "next_step": null,
-   "updated": "2026-06-04"
-  },
-  "id": "DLR5L17N53053",
-  "jurisdiction": "FR",
-  "status": "Renvoi en commission au fond",
-  "tags": [
-   "sante"
-  ],
-  "title": "Protéger la santé mentale des agricultrices et des agriculteurs",
-  "type": "Proposition de loi ordinaire",
-  "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/proteger_sante_mentale_agricultrices_agriculteurs_17e"
  },
  {
   "committee": null,
@@ -18714,50 +18761,5 @@
   "title": "L’avenir de la gouvernance de la pêche française au service d’une gestion partagée de la ressource halieutique",
   "type": "Rapport d'information sans mission",
   "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/avenir_gouvernance_peche_francaise_service_gestion_partagee_ressource_halieutique"
- },
- {
-  "committee": null,
-  "dates": {
-   "introduced": "2025-02-17",
-   "next_step": null,
-   "updated": "2025-10-15"
-  },
-  "id": "DLR5L17N51556",
-  "jurisdiction": "FR",
-  "status": "Dépôt de rapport",
-  "tags": [],
-  "title": "Proposition de loi visant à se libérer de l'obligation alimentaire à l'égard d'un parent défaillant",
-  "type": "Proposition de loi ordinaire",
-  "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N51556"
- },
- {
-  "committee": null,
-  "dates": {
-   "introduced": "2025-10-14",
-   "next_step": null,
-   "updated": "2025-10-14"
-  },
-  "id": "DLR5L17N52949",
-  "jurisdiction": "FR",
-  "status": "Renvoi en commission au fond",
-  "tags": [],
-  "title": "Rendre obligatoire le casier vierge pour les candidats à une élection municipale",
-  "type": "Proposition de loi ordinaire",
-  "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/rendre_obligatoire_casier_vierge_candidats_election_municipale_17e"
- },
- {
-  "committee": null,
-  "dates": {
-   "introduced": "2025-10-14",
-   "next_step": null,
-   "updated": "2025-10-14"
-  },
-  "id": "DLR5L17N52946",
-  "jurisdiction": "FR",
-  "status": "Renvoi en commission au fond",
-  "tags": [],
-  "title": "Renforcer les droits des bailleurs commerciaux lors des procédures collectives",
-  "type": "Proposition de loi ordinaire",
-  "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/renforcer_droits_bailleurs_commerciaux_procedures_collectives_17e"
  }
 ]
