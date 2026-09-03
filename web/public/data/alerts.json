@@ -1,7 +1,7 @@
 [
  {
   "body": "Variation boursière inhabituelle sur 1 mois (AMZN). À croiser avec l'agenda législatif de l'entreprise.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "amazon",
   "id": "22b41c03223a",
   "kind": "anomalie_bourse",
@@ -10,7 +10,7 @@
  },
  {
   "body": "Variation boursière inhabituelle sur 1 mois (AAPL). À croiser avec l'agenda législatif de l'entreprise.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "apple",
   "id": "3ae2a4233b49",
   "kind": "anomalie_bourse",
@@ -19,7 +19,7 @@
  },
  {
   "body": "Variation boursière inhabituelle sur 1 mois (MC.PA). À croiser avec l'agenda législatif de l'entreprise.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "lvmh",
   "id": "6891f2422a40",
   "kind": "anomalie_bourse",
@@ -28,7 +28,7 @@
  },
  {
   "body": "Variation boursière inhabituelle sur 1 mois (MSFT). À croiser avec l'agenda législatif de l'entreprise.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "microsoft",
   "id": "345a12f8619c",
   "kind": "anomalie_bourse",
@@ -37,7 +37,7 @@
  },
  {
   "body": "Proposition de loi visant à réduire le temps de travail hebdomadaire à 32 heures en 4 jours — thématiques : social.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "id": "a6d8304fc8b6",
   "kind": "nouvelle_loi",
   "law_id": "DLR5L17N54837",
@@ -46,7 +46,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Professional consultancies). Domaines : agriculture, climat, commerce, energie, environnement, finance, fiscalite, numerique, sante, transport.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "british-american-tobacco",
   "id": "e241492004a9",
   "kind": "registre",
@@ -55,7 +55,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Other organisations, public or mixed entities). Domaines : agriculture, climat, commerce, defense, energie, environnement, finance, numerique, sante, transport.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "microsoft",
   "id": "de343634b029",
   "kind": "registre",
@@ -64,7 +64,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Companies & groups). Domaines : climat, commerce, energie, environnement, finance, fiscalite, numerique, transport.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "engie",
   "id": "37b40b1f9f02",
   "kind": "registre",
@@ -73,7 +73,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Professional consultancies). Domaines : agriculture, climat, commerce, defense, energie, environnement, finance, fiscalite, numerique, sante, social, transport.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "exxonmobil",
   "id": "62dc37a2c535",
   "kind": "registre",
@@ -82,7 +82,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Companies & groups). Domaines : agriculture, climat, commerce, energie, environnement, finance, fiscalite, numerique, sante.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "veolia",
   "id": "8175abe27474",
   "kind": "registre",
@@ -91,7 +91,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Professional consultancies). Domaines : agriculture, climat, commerce, defense, energie, environnement, finance, fiscalite, numerique, sante, social, transport.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "basf",
   "id": "27ffb6488922",
   "kind": "registre",
@@ -100,7 +100,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Professional consultancies). Domaines : agriculture, climat, commerce, energie, environnement, finance, fiscalite, numerique, sante, social, transport.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "meta",
   "id": "7b90b49d7843",
   "kind": "registre",
@@ -109,7 +109,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Companies & groups). Domaines : agriculture, climat, commerce, defense, environnement, finance, fiscalite, numerique, sante, social.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "lvmh",
   "id": "9d259ef0f39c",
   "kind": "registre",
@@ -118,7 +118,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Professional consultancies). Domaines : agriculture, climat, commerce, defense, energie, environnement, finance, fiscalite, numerique, sante, social, transport.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "bayer",
   "id": "80a64d3641a5",
   "kind": "registre",
@@ -127,7 +127,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Professional consultancies). Domaines : agriculture, climat, commerce, defense, energie, environnement, finance, fiscalite, numerique, sante, social, transport.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "alphabet",
   "id": "5f70b3edf1c1",
   "kind": "registre",
@@ -136,7 +136,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Professional consultancies). Domaines : agriculture, climat, commerce, defense, energie, environnement, finance, fiscalite, numerique, sante, social, transport.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "meta",
   "id": "3324bea37112",
   "kind": "registre",
@@ -145,7 +145,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Professional consultancies). Domaines : agriculture, climat, commerce, defense, energie, environnement, finance, fiscalite, numerique, sante, social, transport.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "apple",
   "id": "8b45b208a5a2",
   "kind": "registre",
@@ -154,7 +154,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Professional consultancies). Domaines : agriculture, climat, commerce, defense, energie, environnement, finance, fiscalite, numerique, sante, social, transport.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "philip-morris",
   "id": "bb002d3a1b94",
   "kind": "registre",
@@ -163,7 +163,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Professional consultancies). Domaines : agriculture, climat, commerce, energie, environnement, finance, fiscalite, numerique, sante, social, transport.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "alphabet",
   "id": "f53d1404dea3",
   "kind": "registre",
@@ -172,7 +172,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Companies & groups). Domaines : climat, commerce, energie, environnement, finance, fiscalite, numerique, sante.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "apple",
   "id": "ed64f74e755c",
   "kind": "registre",
@@ -181,7 +181,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Professional consultancies). Domaines : agriculture, climat, commerce, defense, energie, environnement, finance, fiscalite, numerique, sante, social, transport.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "bayer",
   "id": "bc0d34df4a02",
   "kind": "registre",
@@ -190,7 +190,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Companies & groups). Domaines : agriculture, climat, commerce, energie, environnement, finance, fiscalite, numerique, sante, social, transport.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "nestle",
   "id": "9c498627b16e",
   "kind": "registre",
@@ -199,7 +199,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Self-employed individuals). Domaines : agriculture, climat, commerce, energie, environnement, finance, fiscalite, numerique, sante, social, transport.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "british-american-tobacco",
   "id": "0cb96e0e9513",
   "kind": "registre",
@@ -208,7 +208,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Professional consultancies). Domaines : agriculture, climat, commerce, defense, energie, environnement, finance, fiscalite, numerique, sante, social, transport.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "alphabet",
   "id": "a814c71d43c0",
   "kind": "registre",
@@ -217,7 +217,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Companies & groups). Domaines : agriculture, climat, commerce, defense, energie, environnement, finance, fiscalite, numerique, sante, social, transport.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "societe-generale",
   "id": "3252c7705671",
   "kind": "registre",
@@ -226,7 +226,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Professional consultancies). Domaines : agriculture, climat, commerce, defense, energie, environnement, finance, fiscalite, numerique, sante, social, transport.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "british-american-tobacco",
   "id": "db638cabbaf9",
   "kind": "registre",
@@ -235,7 +235,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Companies & groups). Domaines : climat, commerce, energie, environnement, finance, fiscalite, numerique, sante, transport.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "air-liquide",
   "id": "e1e846f7de5a",
   "kind": "registre",
@@ -244,7 +244,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Professional consultancies). Domaines : commerce, numerique.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "meta",
   "id": "9ae3fb4574c9",
   "kind": "registre",
@@ -253,7 +253,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Professional consultancies). Domaines : climat, commerce, defense, energie, environnement, finance, fiscalite, numerique, sante, social, transport.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "apple",
   "id": "099affb6448e",
   "kind": "registre",
@@ -262,7 +262,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Self-employed individuals). Domaines : agriculture, commerce, finance, fiscalite.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "british-american-tobacco",
   "id": "f416378005d5",
   "kind": "registre",
@@ -271,7 +271,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Companies & groups). Domaines : finance.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "credit-agricole",
   "id": "e499093c16a4",
   "kind": "registre",
@@ -280,7 +280,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Professional consultancies). Domaines : agriculture, climat, commerce, defense, energie, environnement, finance, fiscalite, numerique, sante, social.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "apple",
   "id": "097fb30bb508",
   "kind": "registre",
@@ -289,7 +289,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Professional consultancies). Domaines : agriculture, climat, commerce, energie, environnement, finance, fiscalite, numerique, sante, transport.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "microsoft",
   "id": "80a7f251cb35",
   "kind": "registre",
@@ -298,7 +298,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Professional consultancies). Domaines : agriculture, climat, commerce, defense, energie, environnement, finance, fiscalite, numerique, sante, social, transport.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "lvmh",
   "id": "5bd02f2b50b4",
   "kind": "registre",
@@ -307,7 +307,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Professional consultancies). Domaines : agriculture, climat, commerce, defense, energie, environnement, finance, fiscalite, numerique, sante, social, transport.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "stellantis",
   "id": "ad815c34d939",
   "kind": "registre",
@@ -316,7 +316,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Companies & groups). Domaines : climat, commerce, energie, environnement, finance, fiscalite, numerique, social, transport.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "bnp-paribas",
   "id": "2ac277af0ef3",
   "kind": "registre",
@@ -325,7 +325,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Companies & groups). Domaines : climat, commerce, energie, environnement, finance, fiscalite, numerique, sante, social, transport.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "renault",
   "id": "b7d934b9dc37",
   "kind": "registre",
@@ -334,7 +334,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Companies & groups). Domaines : agriculture, climat, commerce, energie, environnement, finance, fiscalite, numerique, sante.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "bayer",
   "id": "befe2c46597d",
   "kind": "registre",
@@ -343,7 +343,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Companies & groups). Domaines : climat, commerce, environnement, finance, fiscalite, numerique, sante, social.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "sanofi",
   "id": "7e19fae1fb6c",
   "kind": "registre",
@@ -352,7 +352,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Professional consultancies). Domaines : agriculture, climat, commerce, defense, energie, environnement, finance, fiscalite, numerique, sante, transport.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "lvmh",
   "id": "c1412e5c4ca9",
   "kind": "registre",
@@ -361,7 +361,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Professional consultancies). Domaines : agriculture, climat, commerce, energie, environnement, numerique, sante, social, transport.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "apple",
   "id": "7d4262cb8300",
   "kind": "registre",
@@ -370,7 +370,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Professional consultancies). Domaines : agriculture, climat, commerce, defense, energie, environnement, finance, fiscalite, numerique, sante, social, transport.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "microsoft",
   "id": "f0ce8e348322",
   "kind": "registre",
@@ -379,7 +379,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Law firms). Domaines : agriculture, climat, commerce, defense, energie, environnement, finance, numerique, sante, transport.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "meta",
   "id": "3152ccb84197",
   "kind": "registre",
@@ -388,7 +388,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Think tanks and research institutions). Domaines : climat, commerce, defense, energie, environnement, finance, fiscalite, numerique, sante, social, transport.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "sanofi",
   "id": "50cd98c1300c",
   "kind": "registre",
@@ -397,7 +397,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Professional consultancies). Domaines : agriculture, climat, commerce, defense, energie, environnement, finance, fiscalite, numerique, sante, social, transport.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "pfizer",
   "id": "863654584fe9",
   "kind": "registre",
@@ -406,7 +406,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Self-employed individuals). Domaines : finance, fiscalite, sante.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "british-american-tobacco",
   "id": "20f48847bbfb",
   "kind": "registre",
@@ -415,7 +415,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Professional consultancies). Domaines : agriculture, climat, commerce, defense, energie, environnement, finance, fiscalite, numerique, sante, social, transport.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "alphabet",
   "id": "264b11731dab",
   "kind": "registre",
@@ -424,7 +424,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Companies & groups). Domaines : climat, commerce, defense, energie, environnement, finance, fiscalite, numerique, social, transport.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "stellantis",
   "id": "38b6bfc06f49",
   "kind": "registre",
@@ -433,7 +433,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Professional consultancies). Domaines : agriculture, climat, commerce, defense, energie, environnement, finance, fiscalite, numerique, sante, social, transport.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "meta",
   "id": "50d3a4541bb4",
   "kind": "registre",
@@ -442,7 +442,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Companies & groups). Domaines : agriculture, climat, commerce, energie, environnement, sante.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "bayer",
   "id": "007ec217b109",
   "kind": "registre",
@@ -451,7 +451,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Professional consultancies). Domaines : climat, commerce, defense, energie, environnement, numerique, transport.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "apple",
   "id": "cfbb627ef463",
   "kind": "registre",
@@ -460,7 +460,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Professional consultancies). Domaines : agriculture, climat, commerce, defense, energie, environnement, finance, fiscalite, numerique, sante, social, transport.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "airbus",
   "id": "43fefdd005e9",
   "kind": "registre",
@@ -469,7 +469,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Professional consultancies). Domaines : agriculture, climat, commerce, defense, energie, environnement, finance, fiscalite, numerique, sante, social, transport.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "sanofi",
   "id": "02e358ba34d8",
   "kind": "registre",
@@ -478,7 +478,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Professional consultancies). Domaines : agriculture, climat, commerce, defense, energie, environnement, finance, fiscalite, numerique, sante, social, transport.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "sanofi",
   "id": "549e8ea84c03",
   "kind": "registre",
@@ -487,7 +487,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Self-employed individuals). Domaines : climat, commerce, defense, energie, environnement, finance, numerique, sante.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "meta",
   "id": "98f635560f2b",
   "kind": "registre",
@@ -496,7 +496,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Companies & groups). Domaines : climat, commerce, defense, environnement, finance, fiscalite, numerique, sante, social.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "novartis",
   "id": "224940f58677",
   "kind": "registre",
@@ -505,7 +505,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Companies & groups). Domaines : climat, commerce, defense, environnement, finance, fiscalite, numerique, social.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "meta",
   "id": "e4c86f3d1386",
   "kind": "registre",
@@ -514,7 +514,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Professional consultancies). Domaines : agriculture, climat, commerce, defense, energie, environnement, finance, fiscalite, numerique, sante, social, transport.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "alphabet",
   "id": "27108aadb28c",
   "kind": "registre",
@@ -523,7 +523,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Self-employed individuals). Domaines : climat, energie, environnement, numerique, sante, transport.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "apple",
   "id": "82ae3eec2689",
   "kind": "registre",
@@ -532,7 +532,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Professional consultancies). Domaines : agriculture, climat, commerce, defense, energie, environnement, finance, fiscalite, numerique, sante, social, transport.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "apple",
   "id": "a35f9dbbb1ea",
   "kind": "registre",
@@ -541,7 +541,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Trade unions and professional associations). Domaines : climat, commerce, environnement, finance, numerique.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "credit-agricole",
   "id": "91c75811c542",
   "kind": "registre",
@@ -550,7 +550,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Professional consultancies). Domaines : agriculture, climat, commerce, defense, energie, environnement, finance, fiscalite, numerique, sante, transport.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "airbus",
   "id": "8ea0084c1933",
   "kind": "registre",
@@ -559,7 +559,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Professional consultancies). Domaines : agriculture, climat, commerce, defense, energie, environnement, numerique, sante.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "basf",
   "id": "85632672cae4",
   "kind": "registre",
@@ -568,7 +568,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Companies & groups). Domaines : climat, commerce, energie, environnement, finance, fiscalite, numerique, social, transport.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "edf",
   "id": "c9519c4ee2d9",
   "kind": "registre",
@@ -577,7 +577,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Professional consultancies). Domaines : agriculture, climat, commerce, defense, energie, environnement, finance, fiscalite, numerique, sante, social, transport.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "alphabet",
   "id": "dbe03e5bd44b",
   "kind": "registre",
@@ -586,7 +586,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Professional consultancies). Domaines : agriculture, climat, commerce, defense, energie, environnement, finance, fiscalite, numerique, sante.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "lvmh",
   "id": "0cb63dffc7de",
   "kind": "registre",
@@ -595,7 +595,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Professional consultancies). Domaines : sante.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "novartis",
   "id": "6909b9d2092c",
   "kind": "registre",
@@ -604,7 +604,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Think tanks and research institutions). Domaines : agriculture, climat, commerce, defense, energie, environnement, finance, fiscalite, numerique, sante, social, transport.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "basf",
   "id": "1f8c6b88bdec",
   "kind": "registre",
@@ -613,7 +613,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Professional consultancies). Domaines : numerique.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "meta",
   "id": "b091d425fb4b",
   "kind": "registre",
@@ -622,7 +622,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Professional consultancies). Domaines : climat, commerce, defense, energie, environnement, numerique, sante.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "philip-morris",
   "id": "2a2ab80363f6",
   "kind": "registre",
@@ -631,7 +631,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Other organisations, public or mixed entities). Domaines : agriculture, climat, commerce, defense, energie, environnement, finance, fiscalite, numerique, sante, social, transport.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "engie",
   "id": "cb530889ab3c",
   "kind": "registre",
@@ -640,7 +640,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Companies  groups). Domaines : climat, commerce, energie, environnement, numerique, sante, social, transport.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "bouygues",
   "id": "c0cc6cf0c672",
   "kind": "registre",
@@ -649,7 +649,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Self-employed individuals). Domaines : climat, environnement.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "apple",
   "id": "55e4075d7111",
   "kind": "registre",
@@ -658,7 +658,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Professional consultancies). Domaines : agriculture, climat, commerce, energie, environnement, finance, fiscalite, numerique, sante, social, transport.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "nestle",
   "id": "2c01fc21e44f",
   "kind": "registre",
@@ -667,7 +667,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Law firms). Domaines : agriculture, climat, commerce, energie, environnement, finance, fiscalite, numerique, sante, transport.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "british-american-tobacco",
   "id": "16a452f6230c",
   "kind": "registre",
@@ -676,7 +676,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Professional consultancies). Domaines : commerce, defense, numerique, sante, social.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "sanofi",
   "id": "8701a3ea7d2f",
   "kind": "registre",
@@ -685,7 +685,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Law firms). Domaines : agriculture, climat, commerce, defense, energie, environnement, finance, fiscalite, numerique, sante, social, transport.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "microsoft",
   "id": "b491318b4720",
   "kind": "registre",
@@ -694,7 +694,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Professional consultancies). Domaines : agriculture, climat, commerce, defense, energie, environnement, finance, fiscalite, numerique, sante, social, transport.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "microsoft",
   "id": "2e785bb968b9",
   "kind": "registre",
@@ -703,7 +703,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Professional consultancies). Domaines : agriculture, climat, commerce, defense, energie, environnement, finance, fiscalite, numerique, sante, social, transport.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "nestle",
   "id": "e67b0e06359a",
   "kind": "registre",
@@ -712,7 +712,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Professional consultancies). Domaines : agriculture, climat, commerce, energie, environnement, finance, fiscalite, numerique, sante, social, transport.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "nestle",
   "id": "3626df91750c",
   "kind": "registre",
@@ -721,7 +721,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Professional consultancies). Domaines : agriculture, climat, commerce, defense, energie, environnement, numerique, sante, transport.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "philip-morris",
   "id": "f42704993ce1",
   "kind": "registre",
@@ -730,7 +730,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Professional consultancies). Domaines : climat, commerce, energie, environnement, finance, fiscalite, numerique, sante, transport.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "philip-morris",
   "id": "38d75d0d59a9",
   "kind": "registre",
@@ -739,7 +739,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Companies  groups). Domaines : agriculture, climat, commerce, energie, environnement, finance, fiscalite, numerique, sante, social, transport.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "basf",
   "id": "2eecc73743d7",
   "kind": "registre",
@@ -748,7 +748,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Companies  groups). Domaines : climat, commerce, defense, energie, environnement, finance, numerique, transport.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "thales",
   "id": "286c086bf006",
   "kind": "registre",
@@ -757,7 +757,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Companies  groups). Domaines : climat, commerce, environnement, finance, fiscalite, numerique, social.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "societe-generale",
   "id": "eaa62dac9a6c",
   "kind": "registre",
@@ -766,7 +766,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Companies  groups). Domaines : agriculture, climat, commerce, defense, energie, environnement, finance, fiscalite, numerique, sante, social, transport.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "totalenergies",
   "id": "f1221b09eae7",
   "kind": "registre",
@@ -775,7 +775,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Professional consultancies). Domaines : agriculture, climat, commerce, defense, energie, environnement, finance, fiscalite, numerique, sante, social, transport.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "british-american-tobacco",
   "id": "9c50aec32768",
   "kind": "registre",
@@ -784,7 +784,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Companies  groups). Domaines : climat, commerce, defense, energie, environnement, finance, numerique, transport.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "airbus",
   "id": "0aa572f384fd",
   "kind": "registre",
@@ -793,7 +793,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Companies  groups). Domaines : climat, commerce, defense, energie, environnement, finance, fiscalite, numerique, sante, transport.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "orange",
   "id": "d0e4ef760487",
   "kind": "registre",
@@ -802,7 +802,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Professional consultancies). Domaines : agriculture, climat, commerce, defense, energie, environnement, finance, fiscalite, numerique, sante, social, transport.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "british-american-tobacco",
   "id": "de4ce6bac588",
   "kind": "registre",
@@ -811,7 +811,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Law firms). Domaines : agriculture, climat, commerce, environnement, finance, fiscalite, numerique, sante.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "novartis",
   "id": "dde861517450",
   "kind": "registre",
@@ -820,7 +820,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Professional consultancies). Domaines : numerique.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "apple",
   "id": "5e48c6d5f048",
   "kind": "registre",
@@ -829,7 +829,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Professional consultancies). Domaines : climat, energie, environnement, transport.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "shell",
   "id": "f5133d012c72",
   "kind": "registre",
@@ -838,7 +838,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Professional consultancies). Domaines : agriculture, climat, commerce, energie, environnement, finance, fiscalite, numerique, sante.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "british-american-tobacco",
   "id": "5849d8f2a002",
   "kind": "registre",
@@ -847,7 +847,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Companies  groups). Domaines : climat, commerce, defense, environnement, finance, fiscalite, numerique, sante.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "pfizer",
   "id": "13892640346e",
   "kind": "registre",
@@ -856,7 +856,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Professional consultancies). Domaines : agriculture, climat, commerce, defense, energie, environnement, finance, fiscalite, numerique, sante, social, transport.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "microsoft",
   "id": "ca273f559e9c",
   "kind": "registre",
@@ -865,7 +865,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Companies  groups). Domaines : agriculture, climat, commerce, defense, environnement, finance, fiscalite, numerique, sante, social.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "philip-morris",
   "id": "b1ae86049d4c",
   "kind": "registre",
@@ -874,7 +874,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Companies  groups). Domaines : climat, commerce, defense, energie, environnement, finance, fiscalite, numerique, sante, social, transport.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "microsoft",
   "id": "de11763c02c6",
   "kind": "registre",
@@ -883,7 +883,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Law firms). Domaines : climat, commerce, defense, numerique, transport.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "meta",
   "id": "e1b5186461e7",
   "kind": "registre",
@@ -892,7 +892,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Professional consultancies). Domaines : agriculture, climat, commerce, defense, energie, environnement, finance, fiscalite, numerique, sante, social, transport.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "meta",
   "id": "135c7b88e471",
   "kind": "registre",
@@ -901,7 +901,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Self-employed individuals). Domaines : agriculture, climat, commerce, environnement, numerique, sante, social, transport.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "philip-morris",
   "id": "b34d70303a45",
   "kind": "registre",
@@ -910,7 +910,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Professional consultancies). Domaines : agriculture, climat, commerce, defense, energie, environnement, finance, fiscalite, numerique, sante, social, transport.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "alphabet",
   "id": "498e7056f1ab",
   "kind": "registre",
@@ -919,7 +919,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Professional consultancies). Domaines : agriculture, climat, commerce, defense, energie, environnement, finance, fiscalite, numerique, sante, social, transport.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "novartis",
   "id": "dffe0c38b9e3",
   "kind": "registre",
@@ -928,7 +928,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Companies  groups). Domaines : climat, commerce, defense, energie, environnement, finance, fiscalite, numerique, sante, social, transport.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "exxonmobil",
   "id": "1110488b112e",
   "kind": "registre",
@@ -937,7 +937,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Companies  groups). Domaines : climat, commerce, defense, energie, environnement, finance, fiscalite, numerique, sante.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "dassault-systemes",
   "id": "ab6ecd150e60",
   "kind": "registre",
@@ -946,7 +946,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Professional consultancies). Domaines : .",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "philip-morris",
   "id": "6dd5ba05fd6c",
   "kind": "registre",
@@ -955,7 +955,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Professional consultancies). Domaines : climat, commerce, defense, energie, environnement, finance, fiscalite, numerique, sante, social, transport.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "microsoft",
   "id": "f97c5ad4781c",
   "kind": "registre",
@@ -964,7 +964,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Professional consultancies). Domaines : agriculture, climat, commerce, defense, energie, environnement, finance, fiscalite, numerique, sante, transport.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "meta",
   "id": "342f26e226e0",
   "kind": "registre",
@@ -973,7 +973,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Professional consultancies). Domaines : climat, commerce, energie, environnement, finance, fiscalite, numerique, sante, transport.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "apple",
   "id": "022bb82156e3",
   "kind": "registre",
@@ -982,7 +982,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Professional consultancies). Domaines : agriculture, climat, commerce, defense, energie, environnement, finance, fiscalite, numerique, sante, social, transport.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "bayer",
   "id": "55238bcabe42",
   "kind": "registre",
@@ -991,7 +991,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Professional consultancies). Domaines : climat, commerce, defense, energie, environnement, finance, fiscalite, numerique, sante, social, transport.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "bayer",
   "id": "3a9c51b0b58a",
   "kind": "registre",
@@ -1000,7 +1000,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Professional consultancies). Domaines : agriculture, climat, commerce, defense, energie, environnement, finance, fiscalite, numerique, sante, social, transport.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "philip-morris",
   "id": "e669599229f2",
   "kind": "registre",
@@ -1009,7 +1009,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Professional consultancies). Domaines : commerce, defense, numerique.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "alphabet",
   "id": "b0e8a657d22f",
   "kind": "registre",
@@ -1018,7 +1018,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Law firms). Domaines : agriculture, climat, commerce, defense, energie, environnement, finance, fiscalite, numerique, social, transport.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "apple",
   "id": "621127c00006",
   "kind": "registre",
@@ -1027,7 +1027,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Professional consultancies). Domaines : climat, commerce, energie, environnement, numerique.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "meta",
   "id": "0c6d8a47d7a9",
   "kind": "registre",
@@ -1036,7 +1036,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Professional consultancies). Domaines : agriculture, climat, commerce, defense, energie, environnement, finance, fiscalite, numerique, sante, social, transport.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "nestle",
   "id": "2ad57b21a61d",
   "kind": "registre",
@@ -1045,7 +1045,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Companies  groups). Domaines : agriculture, climat, commerce, defense, environnement, finance, fiscalite, numerique, sante, social.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "british-american-tobacco",
   "id": "c31f460f11b0",
   "kind": "registre",
@@ -1054,7 +1054,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Professional consultancies). Domaines : agriculture, climat, commerce, energie, environnement, numerique, sante, transport.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "novartis",
   "id": "7d0528d160d1",
   "kind": "registre",
@@ -1063,7 +1063,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Association). Domaines : btp, defense, numerique.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "air-liquide",
   "id": "df54d0fc0a65",
   "kind": "registre",
@@ -1072,7 +1072,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Société commerciale et civile (autre que cabinet d’avocats et société de conseil)). Domaines : economie, enseignement superieur r, finances publiques, numerique, sante.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "sanofi",
   "id": "5efebc78c8b9",
   "kind": "registre",
@@ -1081,7 +1081,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Société commerciale et civile (autre que cabinet d’avocats et société de conseil)). Domaines : agriculture, defense, transport.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "philip-morris",
   "id": "339a46eef35c",
   "kind": "registre",
@@ -1090,7 +1090,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Association). Domaines : agriculture, numerique.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "credit-agricole",
   "id": "c8739a081d64",
   "kind": "registre",
@@ -1099,7 +1099,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Cabinet de conseil). Domaines : agriculture, btp, numerique, social, transport.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "engie",
   "id": "3d60f4a98345",
   "kind": "registre",
@@ -1108,7 +1108,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Société commerciale et civile (autre que cabinet d’avocats et société de conseil)). Domaines : defense, transport.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "thales",
   "id": "5d2b5000e97f",
   "kind": "registre",
@@ -1117,7 +1117,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Cabinet de conseil). Domaines : agriculture, btp, defense, environnement, numerique, social, telecoms, transport.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "bouygues",
   "id": "6698d462ef3a",
   "kind": "registre",
@@ -1126,7 +1126,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Organisation syndicale et professionnelle). Domaines : defense, social.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "novartis",
   "id": "907a4bb1d5d6",
   "kind": "registre",
@@ -1135,7 +1135,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Cabinet de conseil). Domaines : agriculture, numerique, transport.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "edf",
   "id": "c0c9f741aec1",
   "kind": "registre",
@@ -1144,7 +1144,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Société commerciale et civile (autre que cabinet d’avocats et société de conseil)). Domaines : btp, defense, finance, fiscalite, numerique, telecoms, transport.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "alphabet",
   "id": "24326ef36c37",
   "kind": "registre",
@@ -1153,7 +1153,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Cabinet de conseil). Domaines : agriculture, btp, defense, numerique, transport.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "bouygues",
   "id": "485ba6ad13c8",
   "kind": "registre",
@@ -1162,7 +1162,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Organisation syndicale et professionnelle). Domaines : banques, developpement des territ, fonction publique, impots, pme tpe.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "societe-generale",
   "id": "1ce19a54de84",
   "kind": "registre",
@@ -1171,7 +1171,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Société commerciale et civile (autre que cabinet d’avocats et société de conseil)). Domaines : defense.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "meta",
   "id": "65396d3f0b52",
   "kind": "registre",
@@ -1180,7 +1180,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Association). Domaines : numerique, social.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "engie",
   "id": "b0cba68d4285",
   "kind": "registre",
@@ -1189,7 +1189,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Organisation syndicale et professionnelle). Domaines : btp.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "bnp-paribas",
   "id": "764b121c6628",
   "kind": "registre",
@@ -1198,7 +1198,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Société commerciale et civile (autre que cabinet d’avocats et société de conseil)). Domaines : btp, social.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "dassault-systemes",
   "id": "990403e1708e",
   "kind": "registre",
@@ -1207,7 +1207,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Société commerciale et civile (autre que cabinet d’avocats et société de conseil)). Domaines : agriculture, btp, environnement, numerique, social.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "lvmh",
   "id": "855513b87ca4",
   "kind": "registre",
@@ -1216,7 +1216,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Cabinet de conseil). Domaines : environnement, finance, fiscalite, numerique, transport.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "meta",
   "id": "43f7b78c0d54",
   "kind": "registre",
@@ -1225,7 +1225,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Cabinet de conseil). Domaines : btp, defense, numerique, social, telecoms, transport.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "meta",
   "id": "c50bfcbf9760",
   "kind": "registre",
@@ -1234,7 +1234,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Cabinet de conseil). Domaines : agriculture, btp, numerique, social, telecoms, transport.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "apple",
   "id": "f06dfae1e91d",
   "kind": "registre",
@@ -1243,7 +1243,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Société commerciale et civile (autre que cabinet d’avocats et société de conseil)). Domaines : defense, numerique, telecoms.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "microsoft",
   "id": "86f88a93ae0c",
   "kind": "registre",
@@ -1252,7 +1252,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Société commerciale et civile (autre que cabinet d’avocats et société de conseil)). Domaines : energie, energies renouvelables.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "totalenergies",
   "id": "cc5c559b965c",
   "kind": "registre",
@@ -1261,7 +1261,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Cabinet de conseil). Domaines : agriculture, btp, defense, environnement, numerique, social, transport.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "philip-morris",
   "id": "91bd49482310",
   "kind": "registre",
@@ -1270,7 +1270,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Société commerciale et civile (autre que cabinet d’avocats et société de conseil)). Domaines : agriculture, btp, defense, environnement, numerique, social, transport.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "philip-morris",
   "id": "8070cd8de5c3",
   "kind": "registre",
@@ -1279,7 +1279,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Cabinet de conseil). Domaines : agriculture, btp, defense, finance, fiscalite, numerique, social, telecoms, transport.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "bayer",
   "id": "f7827631789f",
   "kind": "registre",
@@ -1288,7 +1288,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Travailleur indépendant). Domaines : economie, sante.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "british-american-tobacco",
   "id": "6fa134e13e00",
   "kind": "registre",
@@ -1297,7 +1297,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Cabinet de conseil). Domaines : btp, defense, telecoms.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "bnp-paribas",
   "id": "cd4b1bdcb80b",
   "kind": "registre",
@@ -1306,7 +1306,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Société commerciale et civile (autre que cabinet d’avocats et société de conseil)). Domaines : btp.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "bnp-paribas",
   "id": "422897a86030",
   "kind": "registre",
@@ -1315,7 +1315,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Organisation syndicale et professionnelle). Domaines : defense.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "airbus",
   "id": "b18b4c435d2b",
   "kind": "registre",
@@ -1324,7 +1324,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Cabinet de conseil). Domaines : numerique, social.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "novartis",
   "id": "b0d2b8c24bd4",
   "kind": "registre",
@@ -1333,7 +1333,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Association). Domaines : enseignement superieur r.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "bayer",
   "id": "afc5395afc0f",
   "kind": "registre",
@@ -1342,7 +1342,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Cabinet de conseil). Domaines : agriculture, defense, environnement, numerique, social, transport.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "novartis",
   "id": "d15ee3df0601",
   "kind": "registre",
@@ -1351,7 +1351,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Fédération professionnelle). Domaines : btp, finance, fiscalite, numerique, social.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "bnp-paribas",
   "id": "d891e258964d",
   "kind": "registre",
@@ -1360,7 +1360,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Société commerciale et civile (autre que cabinet d’avocats et société de conseil)). Domaines : social.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "pfizer",
   "id": "297f23ea4141",
   "kind": "registre",
@@ -1369,7 +1369,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Société commerciale et civile (autre que cabinet d’avocats et société de conseil)). Domaines : social.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "sanofi",
   "id": "7f80c9a31d78",
   "kind": "registre",
@@ -1378,7 +1378,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Fédération professionnelle). Domaines : defense, transport.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "bouygues",
   "id": "b3bf5c22eff3",
   "kind": "registre",
@@ -1387,7 +1387,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Société commerciale et civile (autre que cabinet d’avocats et société de conseil)). Domaines : defense.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "british-american-tobacco",
   "id": "2fad6086374c",
   "kind": "registre",
@@ -1396,7 +1396,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Fédération professionnelle). Domaines : btp, finance, fiscalite, numerique, social.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "bnp-paribas",
   "id": "552c43f252ba",
   "kind": "registre",
@@ -1405,7 +1405,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Société commerciale et civile (autre que cabinet d’avocats et société de conseil)). Domaines : telecoms.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "bnp-paribas",
   "id": "5f60a9aa793a",
   "kind": "registre",
@@ -1414,7 +1414,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Cabinet de conseil). Domaines : agriculture, btp, defense, numerique, social, telecoms, transport.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "bouygues",
   "id": "c6269a24c699",
   "kind": "registre",
@@ -1423,7 +1423,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Association). Domaines : btp.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "bnp-paribas",
   "id": "aa2a09466e9c",
   "kind": "registre",
@@ -1432,7 +1432,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Cabinet de conseil). Domaines : agriculture, btp, defense, environnement, finance, fiscalite, numerique, social, telecoms, transport.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "bayer",
   "id": "7d73d5dc574c",
   "kind": "registre",
@@ -1441,7 +1441,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Société commerciale et civile (autre que cabinet d’avocats et société de conseil)). Domaines : finance, fiscalite, numerique, transport.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "bnp-paribas",
   "id": "6a4165099acc",
   "kind": "registre",
@@ -1450,7 +1450,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Cabinet de conseil). Domaines : btp, transport.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "totalenergies",
   "id": "ad7f83a6037a",
   "kind": "registre",
@@ -1459,7 +1459,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Cabinet de conseil). Domaines : agriculture, btp, defense, environnement, finance, fiscalite, numerique, social, telecoms, transport.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "engie",
   "id": "e6eb45be9b48",
   "kind": "registre",
@@ -1468,7 +1468,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Association). Domaines : agriculture, btp, defense, numerique, transport.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "edf",
   "id": "a4618820a340",
   "kind": "registre",
@@ -1477,7 +1477,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Société commerciale et civile (autre que cabinet d’avocats et société de conseil)). Domaines : energie, energies fossiles, energies renouvelables, environnement, produits chimiques.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "totalenergies",
   "id": "12df0fc9a157",
   "kind": "registre",
@@ -1486,7 +1486,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Cabinet de conseil). Domaines : btp, environnement, finance, fiscalite, numerique, social, telecoms.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "meta",
   "id": "b83b8e434606",
   "kind": "registre",
@@ -1495,7 +1495,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Cabinet de conseil). Domaines : agriculture, btp, defense, numerique, social, transport.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "novartis",
   "id": "f0dd2d961a68",
   "kind": "registre",
@@ -1504,7 +1504,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Société commerciale et civile (autre que cabinet d’avocats et société de conseil)). Domaines : enseignement superieur r, finances publiques, medicaments, politique industrielle, sante.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "sanofi",
   "id": "79aa450450d0",
   "kind": "registre",
@@ -1513,7 +1513,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Cabinet de conseil). Domaines : numerique.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "bouygues",
   "id": "88e653995205",
   "kind": "registre",
@@ -1522,7 +1522,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Cabinet de conseil). Domaines : agriculture, btp, defense, finance, fiscalite, numerique, social, telecoms, transport.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "microsoft",
   "id": "3ea57c73d280",
   "kind": "registre",
@@ -1531,7 +1531,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Société commerciale et civile (autre que cabinet d’avocats et société de conseil)). Domaines : agriculture, numerique.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "sanofi",
   "id": "4737921b3511",
   "kind": "registre",
@@ -1540,7 +1540,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Cabinet de conseil). Domaines : agriculture, finance, fiscalite, numerique, social, transport.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "novartis",
   "id": "75fc090ab380",
   "kind": "registre",
@@ -1549,7 +1549,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Société commerciale et civile (autre que cabinet d’avocats et société de conseil)). Domaines : agriculture, numerique.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "bayer",
   "id": "fa6ab69d8d2c",
   "kind": "registre",
@@ -1558,7 +1558,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Groupe de réflexion (think tank)). Domaines : agriculture, numerique.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "edf",
   "id": "09100c365559",
   "kind": "registre",
@@ -1567,7 +1567,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Société commerciale et civile (autre que cabinet d’avocats et société de conseil)). Domaines : energie.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "engie",
   "id": "b2f41fb241e9",
   "kind": "registre",
@@ -1576,7 +1576,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Fédération professionnelle). Domaines : btp, finance, fiscalite, numerique, social.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "bnp-paribas",
   "id": "567ee1ac10c1",
   "kind": "registre",
@@ -1585,7 +1585,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Société commerciale et civile (autre que cabinet d’avocats et société de conseil)). Domaines : btp, telecoms.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "bouygues",
   "id": "695c60987fbe",
   "kind": "registre",
@@ -1594,7 +1594,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Cabinet de conseil). Domaines : agriculture, btp, defense, numerique, social, transport.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "pfizer",
   "id": "d80e44882fd3",
   "kind": "registre",
@@ -1603,7 +1603,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Cabinet de conseil). Domaines : agriculture, btp, defense, numerique, social, telecoms, transport.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "bouygues",
   "id": "c8c01494ab82",
   "kind": "registre",
@@ -1612,7 +1612,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Fédération professionnelle). Domaines : agriculture, btp, numerique, transport.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "edf",
   "id": "19a37c83e10f",
   "kind": "registre",
@@ -1621,7 +1621,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Société commerciale et civile (autre que cabinet d’avocats et société de conseil)). Domaines : transport.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "societe-generale",
   "id": "a75bb6fe9b88",
   "kind": "registre",
@@ -1630,7 +1630,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Cabinet de conseil). Domaines : agriculture, btp, numerique, social.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "novartis",
   "id": "0bb8b6fb6380",
   "kind": "registre",
@@ -1639,7 +1639,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Organisation syndicale et professionnelle). Domaines : btp, finance, fiscalite, numerique, social.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "bnp-paribas",
   "id": "67bb845e1a11",
   "kind": "registre",
@@ -1648,7 +1648,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Cabinet de conseil). Domaines : agriculture, btp, defense, numerique, telecoms, transport.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "microsoft",
   "id": "675d14eaa30c",
   "kind": "registre",
@@ -1657,7 +1657,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Société commerciale et civile (autre que cabinet d’avocats et société de conseil)). Domaines : btp, numerique, transport.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "totalenergies",
   "id": "64d2d24a2abe",
   "kind": "registre",
@@ -1666,7 +1666,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Organisation syndicale et professionnelle). Domaines : finance, fiscalite, numerique, social.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "bnp-paribas",
   "id": "a47eabd0d3c5",
   "kind": "registre",
@@ -1675,7 +1675,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Société commerciale et civile (autre que cabinet d’avocats et société de conseil)). Domaines : defense, numerique.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "airbus",
   "id": "09ad3e496cfc",
   "kind": "registre",
@@ -1684,7 +1684,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Fédération professionnelle). Domaines : agriculture, numerique.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "credit-agricole",
   "id": "68cd3af3fb22",
   "kind": "registre",
@@ -1693,7 +1693,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Société commerciale et civile (autre que cabinet d’avocats et société de conseil)). Domaines : defense, numerique.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "microsoft",
   "id": "2857ee99a13d",
   "kind": "registre",
@@ -1702,7 +1702,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Fédération professionnelle). Domaines : btp, finance, fiscalite, numerique, social.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "bnp-paribas",
   "id": "f7f21858da0a",
   "kind": "registre",
@@ -1711,7 +1711,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Organisation syndicale et professionnelle). Domaines : agriculture, btp, environnement, numerique.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "bouygues",
   "id": "5af421ddd8e2",
   "kind": "registre",
@@ -1720,7 +1720,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Cabinet de conseil). Domaines : dechets, environnement, sports loisirs tourisme.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "british-american-tobacco",
   "id": "3418e29a2d5e",
   "kind": "registre",
@@ -1729,7 +1729,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Société commerciale et civile (autre que cabinet d’avocats et société de conseil)). Domaines : agriculture, numerique, transport.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "veolia",
   "id": "a3d2505c8956",
   "kind": "registre",
@@ -1738,7 +1738,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Association). Domaines : social.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "novartis",
   "id": "0b0fc42113e6",
   "kind": "registre",
@@ -1747,7 +1747,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Cabinet de conseil). Domaines : defense, numerique, social, transport.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "air-liquide",
   "id": "dfa9d1c2f518",
   "kind": "registre",
@@ -1756,7 +1756,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Cabinet de conseil). Domaines : agriculture, btp, defense, numerique, social, telecoms, transport.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "orange",
   "id": "ffe8abc34ef2",
   "kind": "registre",
@@ -1765,7 +1765,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Fédération professionnelle). Domaines : numerique, social, transport.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "engie",
   "id": "bc2085acc8ec",
   "kind": "registre",
@@ -1774,7 +1774,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Cabinet de conseil). Domaines : agriculture, btp, defense, numerique, social, transport.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "air-liquide",
   "id": "a1c8011cb17a",
   "kind": "registre",
@@ -1783,7 +1783,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Cabinet de conseil). Domaines : agriculture, btp, finance, fiscalite, numerique, social, telecoms.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "bouygues",
   "id": "102b79603f42",
   "kind": "registre",
@@ -1792,7 +1792,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Fédération professionnelle). Domaines : btp, finance, fiscalite, numerique, social.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "bnp-paribas",
   "id": "cd214fa21f6a",
   "kind": "registre",
@@ -1801,7 +1801,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Autre organisation). Domaines : sports, sports loisirs tourisme.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "orange",
   "id": "1c6d35a91f0e",
   "kind": "registre",
@@ -1810,7 +1810,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Organisation syndicale et professionnelle). Domaines : agriculture, numerique.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "bayer",
   "id": "597a8efd2660",
   "kind": "registre",
@@ -1819,7 +1819,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Société commerciale et civile (autre que cabinet d’avocats et société de conseil)). Domaines : btp, defense, numerique, telecoms.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "bouygues",
   "id": "f80fd939b892",
   "kind": "registre",
@@ -1828,7 +1828,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Société commerciale et civile (autre que cabinet d’avocats et société de conseil)). Domaines : agriculture, numerique.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "credit-agricole",
   "id": "af822d05fef7",
   "kind": "registre",
@@ -1837,7 +1837,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Travailleur indépendant). Domaines : social.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "novartis",
   "id": "183523f02864",
   "kind": "registre",
@@ -1846,7 +1846,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Cabinet de conseil). Domaines : social, transport.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "british-american-tobacco",
   "id": "4779b97a576a",
   "kind": "registre",
@@ -1855,7 +1855,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Association). Domaines : medicaments, politique industrielle, sante, taxes.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "sanofi",
   "id": "00576d759b3b",
   "kind": "registre",
@@ -1864,7 +1864,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Société commerciale et civile (autre que cabinet d’avocats et société de conseil)). Domaines : agriculture, btp, numerique, social, transport.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "edf",
   "id": "e595e886e469",
   "kind": "registre",
@@ -1873,7 +1873,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Cabinet de conseil). Domaines : agriculture, btp, defense, finance, fiscalite, numerique, social, transport.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "philip-morris",
   "id": "6481c80b0c73",
   "kind": "registre",
@@ -1882,7 +1882,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Société commerciale et civile (autre que cabinet d’avocats et société de conseil)). Domaines : btp, defense, numerique, telecoms.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "orange",
   "id": "b4656265a55d",
   "kind": "registre",
@@ -1891,7 +1891,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Fédération professionnelle). Domaines : defense.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "british-american-tobacco",
   "id": "7a6a4314bd4b",
   "kind": "registre",
@@ -1900,7 +1900,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Organisation syndicale et professionnelle). Domaines : social.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "sanofi",
   "id": "3b8317f930b8",
   "kind": "registre",
@@ -1909,7 +1909,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Association). Domaines : btp, defense, environnement, finance, fiscalite, numerique, social.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "air-liquide",
   "id": "bd3bf2870b36",
   "kind": "registre",
@@ -1918,7 +1918,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Fédération professionnelle). Domaines : btp, finance, fiscalite, numerique, social.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "bnp-paribas",
   "id": "4eef2c8bdbdb",
   "kind": "registre",
@@ -1927,7 +1927,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Cabinet de conseil). Domaines : emploi solidarite, prevention, sante, soins et maladies, taxes.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "pfizer",
   "id": "37b1ffaa1a40",
   "kind": "registre",
@@ -1936,7 +1936,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Organisation syndicale et professionnelle). Domaines : social.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "sanofi",
   "id": "d64c08ff7868",
   "kind": "registre",
@@ -1945,7 +1945,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Cabinet de conseil). Domaines : agriculture, defense, numerique, social.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "novartis",
   "id": "9d15bf32ffc0",
   "kind": "registre",
@@ -1954,7 +1954,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Société commerciale et civile (autre que cabinet d’avocats et société de conseil)). Domaines : social.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "air-liquide",
   "id": "880f412d2e78",
   "kind": "registre",
@@ -1963,7 +1963,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Association). Domaines : numerique.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "bnp-paribas",
   "id": "1bd7cc7419b4",
   "kind": "registre",
@@ -1972,7 +1972,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Société commerciale et civile (autre que cabinet d’avocats et société de conseil)). Domaines : transport.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "totalenergies",
   "id": "4e9907ac069f",
   "kind": "registre",
@@ -1981,7 +1981,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Association). Domaines : agriculture, btp, finance, fiscalite, numerique, transport.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "orange",
   "id": "e20fe24e0e18",
   "kind": "registre",
@@ -1990,7 +1990,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Société commerciale et civile (autre que cabinet d’avocats et société de conseil)). Domaines : energie, energies fossiles, energies renouvelables.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "totalenergies",
   "id": "41ff9020ae3b",
   "kind": "registre",
@@ -1999,7 +1999,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Fédération professionnelle). Domaines : btp, defense, numerique, telecoms.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "bouygues",
   "id": "73cd0a98371f",
   "kind": "registre",
@@ -2008,7 +2008,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Association). Domaines : banques assurances secte, finances, finances publiques.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "bnp-paribas",
   "id": "4f3f3ec5a8c1",
   "kind": "registre",
@@ -2017,7 +2017,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Fédération professionnelle). Domaines : btp, numerique, transport.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "bnp-paribas",
   "id": "d5ada2b10a3f",
   "kind": "registre",
@@ -2026,7 +2026,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Fédération professionnelle). Domaines : defense, finance, fiscalite, numerique, social, transport.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "bnp-paribas",
   "id": "828693d4a219",
   "kind": "registre",
@@ -2035,7 +2035,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Cabinet de conseil). Domaines : agriculture, btp, defense, finance, fiscalite, numerique, social, transport.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "pfizer",
   "id": "9323468da5ee",
   "kind": "registre",
@@ -2044,7 +2044,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Cabinet d'avocats). Domaines : finances publiques, impots, pouvoirs publics et inst, sante, taxes.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "british-american-tobacco",
   "id": "b166d5acf95e",
   "kind": "registre",
@@ -2053,7 +2053,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Société commerciale et civile (autre que cabinet d’avocats et société de conseil)). Domaines : transport.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "air-liquide",
   "id": "8779ac4591f2",
   "kind": "registre",
@@ -2062,7 +2062,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Société commerciale et civile (autre que cabinet d’avocats et société de conseil)). Domaines : defense, transport.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "airbus",
   "id": "35bd2b3b723e",
   "kind": "registre",
@@ -2071,7 +2071,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Cabinet de conseil). Domaines : agriculture, btp, defense, finance, fiscalite, numerique, social, telecoms, transport.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "air-liquide",
   "id": "357099b94e77",
   "kind": "registre",
@@ -2080,7 +2080,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Association). Domaines : defense.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "thales",
   "id": "123633f68abc",
   "kind": "registre",
@@ -2089,7 +2089,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Organisation syndicale et professionnelle). Domaines : defense, numerique, social, transport.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "air-liquide",
   "id": "6b4a0725fffa",
   "kind": "registre",
@@ -2098,7 +2098,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Organisation syndicale et professionnelle). Domaines : arts culture, economie, environnement, marche du numerique, medias.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "meta",
   "id": "6a0a356f27fc",
   "kind": "registre",
@@ -2107,7 +2107,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Société commerciale et civile (autre que cabinet d’avocats et société de conseil)). Domaines : transport.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "stellantis",
   "id": "a51b38130b8b",
   "kind": "registre",
@@ -2116,7 +2116,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Société commerciale et civile (autre que cabinet d’avocats et société de conseil)). Domaines : btp, social.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "sanofi",
   "id": "67f5f43efbe5",
   "kind": "registre",
@@ -2125,7 +2125,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Société commerciale et civile (autre que cabinet d’avocats et société de conseil)). Domaines : agriculture, environnement, numerique, social, telecoms, transport.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "air-liquide",
   "id": "a786d5a3b7bf",
   "kind": "registre",
@@ -2134,7 +2134,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Fédération professionnelle). Domaines : agriculture, numerique, social, transport.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "sanofi",
   "id": "5b832ee74cd6",
   "kind": "registre",
@@ -2143,7 +2143,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Société commerciale et civile (autre que cabinet d’avocats et société de conseil)). Domaines : developpement economique, economie, emploi solidarite, energie, energies fossiles.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "totalenergies",
   "id": "62ffccdfe02d",
   "kind": "registre",
@@ -2152,7 +2152,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Cabinet de conseil). Domaines : agriculture, btp, numerique, transport.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "totalenergies",
   "id": "f030b232ba62",
   "kind": "registre",
@@ -2161,7 +2161,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Fédération professionnelle). Domaines : btp, finance, fiscalite, numerique, social.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "bnp-paribas",
   "id": "0d4232e1f10c",
   "kind": "registre",
@@ -2170,7 +2170,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Cabinet de conseil). Domaines : agriculture, btp, numerique, social, telecoms, transport.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "meta",
   "id": "8a5c754b0ca5",
   "kind": "registre",
@@ -2179,7 +2179,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Association). Domaines : agriculture, numerique.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "airbus",
   "id": "c87b5422ee65",
   "kind": "registre",
@@ -2188,7 +2188,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Fédération professionnelle). Domaines : numerique, social.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "bouygues",
   "id": "ecd4082bba6f",
   "kind": "registre",
@@ -2197,7 +2197,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Société commerciale et civile (autre que cabinet d’avocats et société de conseil)). Domaines : banques assurances secte, energies fossiles, energies renouvelables, finances, politique industrielle.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "societe-generale",
   "id": "b5a7b91c5389",
   "kind": "registre",
@@ -2206,7 +2206,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Cabinet de conseil). Domaines : agriculture, btp, environnement, numerique, transport.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "bnp-paribas",
   "id": "5787effbc25d",
   "kind": "registre",
@@ -2215,7 +2215,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Cabinet de conseil). Domaines : agriculture, btp, defense, numerique, social, telecoms, transport.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "bnp-paribas",
   "id": "6b1cdb372387",
   "kind": "registre",
@@ -2224,7 +2224,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Association). Domaines : finance, fiscalite, numerique.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "totalenergies",
   "id": "e1b34e27c1ab",
   "kind": "registre",
@@ -2233,7 +2233,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Association). Domaines : environnement, numerique, transport.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "air-liquide",
   "id": "b70615f152ee",
   "kind": "registre",
@@ -2242,7 +2242,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Société commerciale et civile (autre que cabinet d’avocats et société de conseil)). Domaines : economie, emploi solidarite, energie, enseignement superieur r, entreprises et professio.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "novartis",
   "id": "0ffaa78c0d78",
   "kind": "registre",
@@ -2251,7 +2251,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Société commerciale et civile (autre que cabinet d’avocats et société de conseil)). Domaines : agriculture, numerique.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "credit-agricole",
   "id": "e05b271b8075",
   "kind": "registre",
@@ -2260,7 +2260,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Fédération professionnelle). Domaines : agriculture, numerique.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "bayer",
   "id": "de90ea9a2380",
   "kind": "registre",
@@ -2269,7 +2269,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Fédération professionnelle). Domaines : btp, transport.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "bouygues",
   "id": "23f1f7382c76",
   "kind": "registre",
@@ -2278,7 +2278,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Organisation syndicale et professionnelle). Domaines : agriculture, btp, finance, fiscalite, numerique, transport.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "edf",
   "id": "4c34010eccaa",
   "kind": "registre",
@@ -2287,7 +2287,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Société commerciale et civile (autre que cabinet d’avocats et société de conseil)). Domaines : numerique.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "sanofi",
   "id": "06bc45eafc35",
   "kind": "registre",
@@ -2296,7 +2296,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Organisation syndicale et professionnelle). Domaines : agriculture, btp, defense, environnement, numerique, transport.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "totalenergies",
   "id": "cb7015bbbdc9",
   "kind": "registre",
@@ -2305,7 +2305,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Association). Domaines : economie, environnement, finances publiques, marches reglementes, medicaments.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "sanofi",
   "id": "36529b10d8a4",
   "kind": "registre",
@@ -2314,7 +2314,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Cabinet de conseil). Domaines : agriculture, btp, defense, environnement, finance, fiscalite, numerique, social, telecoms, transport.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "sanofi",
   "id": "40ee12a6fbb3",
   "kind": "registre",
@@ -2323,7 +2323,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Association). Domaines : environnement, numerique, transport.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "renault",
   "id": "e067cdf9f3a0",
   "kind": "registre",
@@ -2332,7 +2332,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Cabinet de conseil). Domaines : agriculture, btp, numerique, social, telecoms, transport.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "engie",
   "id": "540210bec5ff",
   "kind": "registre",
@@ -2341,7 +2341,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Cabinet de conseil). Domaines : agriculture, numerique, social.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "novartis",
   "id": "0adb45e2994c",
   "kind": "registre",
@@ -2350,7 +2350,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Organisation syndicale et professionnelle). Domaines : defense.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "airbus",
   "id": "3ce320fd8c24",
   "kind": "registre",
@@ -2359,7 +2359,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Société commerciale et civile (autre que cabinet d’avocats et société de conseil)). Domaines : transport.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "totalenergies",
   "id": "85af3695fa4a",
   "kind": "registre",
@@ -2368,7 +2368,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Société commerciale et civile (autre que cabinet d’avocats et société de conseil)). Domaines : sante.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "sanofi",
   "id": "a596b2fed69f",
   "kind": "registre",
@@ -2377,7 +2377,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Société commerciale et civile (autre que cabinet d’avocats et société de conseil)). Domaines : numerique, telecoms, transport.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "renault",
   "id": "a6a652ecb9be",
   "kind": "registre",
@@ -2386,7 +2386,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Société commerciale et civile (autre que cabinet d’avocats et société de conseil)). Domaines : numerique.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "engie",
   "id": "5302dffe8906",
   "kind": "registre",
@@ -2395,7 +2395,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Fédération professionnelle). Domaines : numerique.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "british-american-tobacco",
   "id": "05f10529cda3",
   "kind": "registre",
@@ -2404,7 +2404,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Organisation syndicale et professionnelle). Domaines : finance, fiscalite, numerique, social.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "bnp-paribas",
   "id": "1485e5f2b7f9",
   "kind": "registre",
@@ -2413,7 +2413,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Fédération professionnelle). Domaines : btp, numerique, social.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "bnp-paribas",
   "id": "fd79b7abe47a",
   "kind": "registre",
@@ -2422,7 +2422,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Société commerciale et civile (autre que cabinet d’avocats et société de conseil)). Domaines : agriculture, btp, defense, numerique, social, telecoms, transport.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "meta",
   "id": "95364ca4687a",
   "kind": "registre",
@@ -2431,7 +2431,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Organisation syndicale et professionnelle). Domaines : btp, numerique, social, transport.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "societe-generale",
   "id": "b7eab65c07b3",
   "kind": "registre",
@@ -2440,7 +2440,7 @@
  },
  {
   "body": "Déclaration d'intérêts (Société commerciale et civile (autre que cabinet d’avocats et société de conseil)). Domaines : social, transport.",
-  "date": "2026-09-02T11:57:31+00:00",
+  "date": "2026-09-03T12:12:49+00:00",
   "entity_id": "sanofi",
   "id": "dbc1f391ef2f",
   "kind": "registre",

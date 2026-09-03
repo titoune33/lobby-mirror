@@ -2620,7 +2620,8 @@
  },
  {
   "clients": [
-   "Meta Platforms Ireland Limited and its various subsidiaries"
+   "Meta Platforms Ireland Limited and its various subsidiaries",
+   "POSCO Co., Ltd"
   ],
   "confidence": 75,
   "cost_band": "99999",
@@ -3017,6 +3018,8 @@
    "Apple Inc.",
    "Digital Economy Network",
    "Apple Inc.",
+   "Apple Inc.",
+   "Government of Moldova",
    "Apple Inc.",
    "Government of Moldova but via GIZ financing."
   ],
@@ -3717,7 +3720,11 @@
    "BASF SE",
    "Nuctech Warsaw Company Limit Sp. z .o.o",
    "Nissan Chemical Corporation",
-   "PROBELTE, SAU"
+   "PROBELTE, SAU",
+   "Mitsui Chemicals Crop & Life Solutions, INC",
+   "ENVU",
+   "Kanesho Soil Treatment",
+   "Kwizda"
   ],
   "confidence": 100,
   "cost_band": "199999",
