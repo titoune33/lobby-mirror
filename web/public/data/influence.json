@@ -300,20 +300,6 @@
    }
   },
   {
-   "law_id": "DLR5L17N53360",
-   "reasons": [
-    "registre de lobbying (juridiction), thématique commune : numerique",
-    "mouvement de bourse de -5.9% autour de la date clé"
-   ],
-   "score": 24.8,
-   "signals": {
-    "donations": 0.0,
-    "news": 0.0,
-    "register": 0.8,
-    "stock": 0.585
-   }
-  },
-  {
    "law_id": "DLR5L17N53668",
    "reasons": [
     "registre de lobbying (juridiction), thématique commune : numerique",
@@ -325,6 +311,20 @@
     "news": 0.0,
     "register": 0.8,
     "stock": 0.497
+   }
+  },
+  {
+   "law_id": "DLR5L17N53360",
+   "reasons": [
+    "registre de lobbying (juridiction), thématique commune : numerique",
+    "mouvement de bourse de -5.9% autour de la date clé"
+   ],
+   "score": 24.8,
+   "signals": {
+    "donations": 0.0,
+    "news": 0.0,
+    "register": 0.8,
+    "stock": 0.585
    }
   },
   {
@@ -1314,20 +1314,6 @@
    "reasons": [
     "registre de lobbying (juridiction), texte explicitement suivi (déclaration UE)",
     "mouvement de bourse de +11.9% autour de la date clé"
-   ],
-   "score": 35.0,
-   "signals": {
-    "donations": 0.0,
-    "news": 0.0,
-    "register": 1.0,
-    "stock": 1.0
-   }
-  },
-  {
-   "law_id": "eli/dl/event/MTG-PL-2026-07-06-VOT-ITM-000002",
-   "reasons": [
-    "registre de lobbying (juridiction), texte explicitement suivi (déclaration UE)",
-    "mouvement de bourse de +11.4% autour de la date clé"
    ],
    "score": 35.0,
    "signals": {
@@ -3664,7 +3650,7 @@
    }
   },
   {
-   "law_id": "DLR5L17N54742",
+   "law_id": "DLR5L17N54701",
    "reasons": [
     "registre de lobbying (juridiction), thématique commune : fiscalite",
     "mouvement de bourse de -6.1% autour de la date clé"
@@ -3678,7 +3664,7 @@
    }
   },
   {
-   "law_id": "DLR5L17N54701",
+   "law_id": "DLR5L17N54742",
    "reasons": [
     "registre de lobbying (juridiction), thématique commune : fiscalite",
     "mouvement de bourse de -6.1% autour de la date clé"
@@ -4432,7 +4418,7 @@
    }
   },
   {
-   "law_id": "DLR5L17N53777",
+   "law_id": "DLR5L17N53780",
    "reasons": [
     "registre de lobbying (juridiction), thématique commune : environnement",
     "mouvement de bourse de -3.2% autour de la date clé"
@@ -4446,7 +4432,7 @@
    }
   },
   {
-   "law_id": "DLR5L17N53780",
+   "law_id": "DLR5L17N53777",
    "reasons": [
     "registre de lobbying (juridiction), thématique commune : environnement",
     "mouvement de bourse de -3.2% autour de la date clé"
@@ -5010,20 +4996,6 @@
    "reasons": [
     "registre de lobbying (juridiction), texte explicitement suivi (déclaration UE)",
     "mouvement de bourse de +18.9% autour de la date clé"
-   ],
-   "score": 35.0,
-   "signals": {
-    "donations": 0.0,
-    "news": 0.0,
-    "register": 1.0,
-    "stock": 1.0
-   }
-  },
-  {
-   "law_id": "eli/dl/event/MTG-PL-2026-07-06-VOT-ITM-000002",
-   "reasons": [
-    "registre de lobbying (juridiction), texte explicitement suivi (déclaration UE)",
-    "mouvement de bourse de +14.8% autour de la date clé"
    ],
    "score": 35.0,
    "signals": {

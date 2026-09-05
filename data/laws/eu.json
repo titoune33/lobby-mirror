@@ -691,36 +691,6 @@
   "dates": {
    "introduced": null,
    "next_step": null,
-   "updated": "2026-07-06"
-  },
-  "id": "eli/dl/event/MTG-PL-2026-07-06-VOT-ITM-000002",
-  "jurisdiction": "EU",
-  "status": "Voté en plénière",
-  "tags": [],
-  "title": "Ordre du jour de mercredi - Demande des groupes Verts/ALE et The Left - Logiciel espion illégal",
-  "type": "RSP",
-  "url": "https://www.europarl.europa.eu/doceo/document/eli/dl/doc/PV-10-2026-07-06-VOT-ITM-002_EN.html"
- },
- {
-  "committee": null,
-  "dates": {
-   "introduced": null,
-   "next_step": null,
-   "updated": "2026-07-06"
-  },
-  "id": "eli/dl/event/MTG-PL-2026-07-06-VOT-ITM-000001",
-  "jurisdiction": "EU",
-  "status": "Voté en plénière",
-  "tags": [],
-  "title": "Ordre du jour de lundi - Demande du groupe ECR – Italie et Danemark",
-  "type": "RSP",
-  "url": "https://www.europarl.europa.eu/doceo/document/eli/dl/doc/PV-10-2026-07-06-VOT-ITM-001_EN.html"
- },
- {
-  "committee": null,
-  "dates": {
-   "introduced": null,
-   "next_step": null,
    "updated": null
   },
   "id": "eli/dl/event/MTG-PL-2026-07-07-VOT-ITM-992921-SEPARATE-1",
